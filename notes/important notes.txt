@@ -1,0 +1,6 @@
+- Make sure to document all the choices I made moving towards the tings i used in the final process
+		- Make notes of how I tried to use editdistance etc.
+		- Reformatted script and sub track into only alphabetical characters
+		- Talk about how I came to use fuzzywuzzy
+		- Effort I put into annotating and trying to deal with direction given to characters (denoted in parentheses)
+		- 

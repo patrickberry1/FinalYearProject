@@ -1,0 +1,2 @@
+FYP Notes -> 	looked into scrapy & editdistance modules for pyton
+		messed around in python with script and srt to figure out how to merge the two

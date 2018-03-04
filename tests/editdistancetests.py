@@ -8,62 +8,65 @@ sub = open("shortsub.txt", "r")
 
 timingLine = "00:00:00,000 --> 00:00:00,000"
 
-lines = []
-lines2 = []
+frmtdScr = []
+frmtdSbs = []
+timings = []
+
+parCount = 0;           '''Count to keep track of parentheses so can avoid writing instructions'''
+cntDwn = 2;             '''Count to track when the end of a block of subtitles if finished'''
 
 
-
+'''formatting the script file'''
 for line in scr:
-
     i = 0
-    myList = list(line)
-    while i < len(myList):
-        if not myList[i].isalpha():
-            if myList[i] == '(':
-                while not myList[i] == ')' and not myList[i] == '\n':
-                    myList[i] = ''
-                    i = i+1
-            elif myList[i] == ')':
-                myList[i] = myList[i]
+    scrList = list(line)
+    while i < len(scrList):
+        if not scrList[i].isalpha():
+            if scrList[i] == '(':
+                parCount += 1;
+                scrList[i] = ''
+            elif scrList[i] == ')':
+                parCount -= 1;
             else:
-                myList[i] = ''
-
+                scrList[i] = ''
+        if parCount > 0:
+            scrList[i] = '';
         i = i+1
 
-
-    line = "".join(myList)
+    line = "".join(scrList)
     if(line.isupper()):
         line = ">>>>>" + line
     else:
         line = line.lower()
 
-    if len(lines) == 0:
-        lines.append(">>>>>START")
-        lines.append("")
-        lines.append(line)
-    elif lines[-1] == "" and not lines[-2].isupper() and not line.isupper():
-        lines.append(">>>>>DESCRIPTION")
-        lines.append("")
-        lines.append(line)
+    if len(frmtdScr) == 0:
+        frmtdScr.append(">>>>>START")
+        frmtdScr.append("")
+        frmtdScr.append(line)
+    elif frmtdScr[-1] == "" and not frmtdScr[-2].isupper() and not line.isupper():
+        frmtdScr.append(">>>>>DESCRIPTION")
+        frmtdScr.append("")
+        frmtdScr.append(line)
     else:
-        lines.append(line)
+        frmtdScr.append(line)
 
-
+'''formatting the sub file'''
+apnd = '';
 
 for line in sub:
-    i = 0
-    myList = list(line)
+    if len(line) == 1:
+        cntDwn = 2
+        if apnd != '':
+            frmtdSbs.append(apnd)
+            frmtdSbs.append('')
+        apnd = ''
+    elif cntDwn == 0:
+        apnd = apnd + line
+    else:
+        cntDwn = cntDwn - 1
 
-    line = "".join(myList)
-    if not line == '':
-        subs.append(line)
-
-
-
-for i in lines:
-    print(i)
-for i in lines2:
-    print(i)
+for line in frmtdSbs:
+    print(line)
 
 scr.close()
 sub.close()

@@ -8,65 +8,66 @@ sub = open("shortsub.txt", "r")
 
 timingLine = "00:00:00,000 --> 00:00:00,000"
 
-frmtdScr = []
-frmtdSbs = []
-timings = []
+pars = 0
+fmtdScr = []
+fmtdSubs = []
 
-parCount = 0;           '''Count to keep track of parentheses so can avoid writing instructions'''
-cntDwn = 2;             '''Count to track when the end of a block of subtitles if finished'''
-
-
-'''formatting the script file'''
-for line in scr:
+##
+##formatting script file
+##
+for scrLine in scr:
     i = 0
-    scrList = list(line)
+    scrList = list(scrLine)
+
     while i < len(scrList):
-        if not scrList[i].isalpha():
-            if scrList[i] == '(':
-                parCount += 1;
-                scrList[i] = ''
-            elif scrList[i] == ')':
-                parCount -= 1;
-            else:
-                scrList[i] = ''
-        if parCount > 0:
-            scrList[i] = '';
+        if not scrList[i].isAlpha():
+        	if scrList[i] == '(':
+        		pars = pars + 1
+        	elif scrList == ')':
+        		pars = pars - 1
+        	else:
+        		scrList[i] = ''
+        else:
+        	if pars > 0:
+        		scrList = ''
         i = i+1
 
-    line = "".join(scrList)
-    if(line.isupper()):
-        line = ">>>>>" + line
+    scrLine = "".join(scrList)
+    if(scrLine.isupper()):
+        scrLine = ">>>>>" + scrLine
     else:
-        line = line.lower()
+        scrLine = scrLine.lower()
 
-    if len(frmtdScr) == 0:
-        frmtdScr.append(">>>>>START")
-        frmtdScr.append("")
-        frmtdScr.append(line)
-    elif frmtdScr[-1] == "" and not frmtdScr[-2].isupper() and not line.isupper():
-        frmtdScr.append(">>>>>DESCRIPTION")
-        frmtdScr.append("")
-        frmtdScr.append(line)
+    if len(fmtdScr) == 0:
+        fmtdScr.append(">>>>>START")
+        fmtdScr.append("")
+        fmtdScr.append(scrLine)
+    elif fmtdScr[-1] == "" and not fmtdScr[-2].isupper() and not scrLine.isupper():
+        fmtdScr.append(">>>>>DESCRIPTION")
+        fmtdScr.append("")
+        fmtdScr.append(scrLine)
     else:
-        frmtdScr.append(line)
+        fmtdScr.append(scrLine)
 
-'''formatting the sub file'''
-apnd = '';
-
+##
+##formatting sub file
+##
 for line in sub:
-    if len(line) == 1:
-        cntDwn = 2
-        if apnd != '':
-            frmtdSbs.append(apnd)
-            frmtdSbs.append('')
-        apnd = ''
-    elif cntDwn == 0:
-        apnd = apnd + line
-    else:
-        cntDwn = cntDwn - 1
+    i = 0
+    myList = list(line)
 
-for line in frmtdSbs:
-    print(line)
+    line = "".join(myList)
+    if not line == '':
+        fmtdSubs.append(line)
+
+
+##
+##printing formatted files
+##
+for i in fmtdScr:
+    print(i)
+##for i in fmtdSubs:
+##    print(i)
 
 scr.close()
 sub.close()

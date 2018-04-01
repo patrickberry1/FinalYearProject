@@ -1,0 +1,533 @@
+>>>>>START
+a long time ago in a galaxy far far away
+
+>>>>>DESC
+a vast sea of stars serves as the backdrop for the main title 
+war drums echo through the heavens as a rollup slowly crawls 
+into infinity
+
+>>>>>DESC
+it is a period of civil war rebel spaceships 
+striking from a hidden base have won their first 
+victory against the evil galactic empire
+
+>>>>>DESC
+during the battle rebel spies managed to steal 
+secret plans to the empires ultimate weapon the 
+death star an armored space station with enough 
+power to destroy an entire planet
+
+>>>>>DESC
+pursued by the empires sinister agents princess 
+leia races home aboard her starship custodian of 
+the stolen plans that can save her people and 
+restore freedom to the galaxy
+
+>>>>>DESC
+the awesome yellow planet of tatooine emerges from a total 
+eclipse her two moons glowing against the darkness a tiny 
+silver spacecraft a rebel blockade runner firing lasers 
+from the back of the ship races through space it is pursed 
+by a giant imperial stardestroyer hundreds of deadly 
+laserbolts streak from the imperial stardestroyer causing 
+the main solar fin of the rebel craft to disintegrate
+
+>>>>>INT REBEL BLOCKADE RUNNER  MAIN PASSAGEWAY
+
+an explosion rocks the ship as two robots artoodetoo 
+d2 and seethreepio       
+through the shaking bouncing passageway both robots are 
+old and battered artoo is a short clawarmed tripod his 
+face is a mass of computer lights surrounding a radar eye 
+threepio on the other hand is a tall slender robot of 
+human proportions he has a gleaming bronzelike metallic 
+surface of an art deco design
+
+>>>>>DESC
+another blast shakes them as they struggle along their way
+
+>>>>>THREEPIO
+did you hear that theyve shut down 
+the main reactor well be destroyed 
+for sure this is madness
+
+>>>>>DESC
+rebel troopers rush past the robots and take up positions in 
+the main passageway they aim their weapons toward the door
+
+>>>>>THREEPIO
+were doomed
+
+>>>>>DESC
+the little r2 unit makes a series of electronic sounds that 
+only another robot could understand
+
+>>>>>THREEPIO
+therell be no escape for the princess 
+this time
+
+>>>>>DESC
+artoo continues making beeping sounds tension mounts as 
+loud metallic latches clank and the scream of heavy equipment 
+are heard moving around the outside hull of the ship
+
+>>>>>THREEPIO
+whats that
+
+>>>>>EXT SPACECRAFT IN SPACE
+
+the imperial craft has easily overtaken the rebel blockade 
+runner the smaller rebel ship is being drawn into the 
+underside dock of the giant imperial starship
+
+>>>>>INT REBEL BLOCKADE RUNNER
+
+the nervous rebel troopers aim their weapons suddenly a 
+tremendous blast opens up a hole in the main passageway and 
+a score of fearsome armored spacesuited stormtroopers make 
+their way into the smokefilled corridor
+
+>>>>>DESC
+in a few minutes the entire passageway is ablaze with 
+laserfire the deadly bolts ricochet in wild random patterns 
+creating huge explosions stormtroopers scatter and duck 
+behind storage lockers laserbolts hit several rebel soldiers 
+who scream and stagger through the smoke holding shattered 
+arms and faces
+
+>>>>>DESC
+an explosion hits near the robots
+
+>>>>>THREEPIO
+i should have known better than to 
+trust the logic of a halfsized 
+thermocapsulary dehousing assister
+
+>>>>>DESC
+artoo counters with an angry rebuttal as the battle rages 
+around the two hapless robots
+
+>>>>>EXT TATOOINE  DESERT WASTELAND  DAY
+
+a deathwhite wasteland stretches from horizon to horizon 
+the tremendous heat of two huge twin suns settle on a lone 
+figure luke skywalker a farm boy with heroic aspirations 
+who looks much younger than his eighteen years his shaggy 
+hair and baggy tunic give him the air of a simple but lovable 
+lad with a prizewinning smile
+
+>>>>>DESC
+a light wind whips at him as he adjusts several valves on a 
+large battered moisture vaporator which sticks out of the 
+desert floor much like an oil pipe with valves he is aided 
+by a beatup treadrobot with six claw arms the little robot 
+appears to be barely functioning and moves with jerky motions  
+a bright sparkle in the morning sky catches lukes eye and 
+he instinctively grabs a pair of electrobinoculars from his 
+utility belt he stands transfixed for a few moments studying 
+the heavens then dashed toward his dented crudely repaired 
+landspeeder         
+above the ground on a magneticfield he motions for the 
+tiny robot to follow him
+
+>>>>>LUKE
+hurry up come with me what are you 
+waiting for get in gear
+
+>>>>>DESC
+the robot scoots around in a tight circle stops short and 
+smoke begins to pour out of every joint luke throws his 
+arms up in disgust exasperated the young farm boy jumps 
+into his landspeeder leaving the smoldering robot to hum 
+madly
+
+>>>>>INT REBEL BLOCKADE RUNNER  MAIN HALLWAY
+
+the awesome sevenfoottall dark lord of the sith makes his 
+way into the blinding light of the main passageway this is 
+darth vader right hand of the emperor his face is obscured 
+by his flowing black robes and grotesque breath mask which 
+stands out next to the fascist white armored suits of the 
+imperial stormtroopers everyone instinctively backs away 
+from the imposing warrior and a deathly quiet sweeps through 
+the rebel troops several of the rebel troops break and run 
+in a frenzied panic
+
+>>>>>INT REBEL BLOCKADE RUNNER
+
+a womans hand puts a card into an opening in artoos dome  
+artoo makes beeping sounds
+
+>>>>>INT REBEL BLOCKADE RUNNER
+
+threepio stands in a hallway somewhat bewildered artoo is 
+nowhere in sight the pitiful screams of the doomed rebel 
+soldiers can be heard in the distance
+
+>>>>>THREEPIO
+artoo artoodetoo where are you
+
+>>>>>DESC
+a familiar clanking sound attacks threepios attention and 
+he spots little artoo at the end of the hallway in a smoke
+filled alcove a beautiful young girl    
+old stands in front of artoo surreal and out of place 
+dreamlike and half hidden in the smoke she finishes adjusting 
+something on artoos computer face then watches as the little 
+robot joins his companion
+
+>>>>>THREEPIO
+at last where have you been
+
+>>>>>DESC
+stormtroopers can be heard battling in the distance
+
+>>>>>THREEPIO
+theyre heading in this direction 
+what are we going to do well be 
+sent to the spice mine of kessel or 
+smashed into who knows what
+
+>>>>>DESC
+artoo scoots past his bronze friend and races down the 
+subhallway threepio chases after him
+
+>>>>>THREEPIO
+wait a minute where are you going
+
+>>>>>DESC
+artoo responds with electronic beeps
+
+>>>>>INT REBEL BLOCKADE RUNNER  CORRIDOR
+
+the evil darth vader stands amid the broken and twisted bodies 
+of his foes he grabs a wounded rebel officer by the neck as 
+an imperial officer rushes up to the dark lord
+
+>>>>>IMPERIAL OFFICER
+the death star plans are not in the 
+main computer
+
+>>>>>DESC
+vader squeezes the neck of the rebel officer who struggles 
+in vain
+
+>>>>>VADER
+where are those transmissions you 
+intercepted
+
+>>>>>DESC
+vader lifts the rebel off his feet by his throat
+
+>>>>>VADER
+what have you done with those plans
+
+>>>>>REBEL OFFICER
+we intercepted no transmissions 
+aaah this is a consular ship 
+were on a diplomatic mission
+
+>>>>>VADER
+if this is a consular ship were 
+is the ambassador
+
+>>>>>DESC
+the rebel refuses to speak but eventually cries out as the 
+dark lord begins to squeeze the officers throat creating a 
+gruesome snapping and choking until the soldier goes limp 
+vader tosses the dead soldier against the wall and turns to 
+his troops
+
+>>>>>VADER
+commander tear this ship apart until 
+youve found those plans and bring 
+me the ambassador i want her alive
+
+>>>>>DESC
+the stormtroopers scurry into the subhallways
+
+>>>>>INT REBEL BLOCKADE RUNNER  SUBHALLWAY
+
+the lovely young girl huddles in a small alcove as the 
+stormtroopers search through the ship she is princess leia 
+organa a member of the alderaan senate the fear in her 
+eyes slowly gives way to anger as the muted crushing sounds 
+of the approaching stormtroopers grow louder one of the 
+troopers spots her
+
+>>>>>TROOPER
+there she is set for stun
+
+>>>>>DESC
+leia steps from her hiding place and blasts a trooper with 
+her laser pistol she starts to run but is felled by a 
+paralyzing ray the troopers inspect her inert body
+
+>>>>>TROOPER
+shell be all right inform lord 
+vader we have a prisoner
+
+>>>>>INT REBEL BLOCKADE RUNNER  SUBHALLWAY
+
+artoo stops before the small hatch of an emergency lifepod 
+he snaps the seal on the main latch and a red warning light 
+begins to flash the stubby astrorobot works his way into 
+the cramped fourman pod
+
+>>>>>THREEPIO
+hey youre not permitted in there 
+its restricted youll be deactivated 
+for sure
+
+>>>>>DESC
+artoo beeps something to him
+
+>>>>>THREEPIO
+dont call me a mindless philosopher 
+you overweight glob of grease now 
+come out before somebody sees you
+
+>>>>>DESC
+artoo whistles something at his reluctant friend regarding 
+the mission he is about to perform
+
+>>>>>THREEPIO
+secret mission what plans what are 
+you talking about im not getting 
+in there
+
+>>>>>DESC
+artoo isnt happy with threepios stubbornness and he beeps 
+and twangs angrily
+
+>>>>>DESC
+a new explosion this time very close sends dust and debris 
+through the narrow subhallway flames lick at threepio and 
+after a flurry of electronic swearing from artoo the lanky 
+robot jumps into the lifepod
+
+>>>>>THREEPIO
+im going to regret this
+
+>>>>>INT IMPERIAL STARDESTROYER
+
+on the main viewscreen the lifepod carrying the two terrified 
+robots speeds away from the stricken rebel spacecraft
+
+>>>>>CHIEF PILOT
+there goes another one
+
+>>>>>CAPTAIN
+hold your fire there are no life 
+forms it must have been short
+circuited
+
+>>>>>INT LIFEPOD
+
+artoo and threepio look out at the receding imperial starship  
+stars circle as the pod rotates through the galaxy
+
+>>>>>THREEPIO
+thats funny the damage doesnt 
+look as bad from out here
+
+>>>>>DESC
+artoo beeps an assuring response
+
+>>>>>THREEPIO
+are you sure this things safe
+
+>>>>>EXT TATOOINE  ANCHORHEAD SETTLEMENT  POWER STATION  DAY
+
+heat waves radiate from the dozen or so bleached white 
+buildings luke pilots his landspeeder through the dusty 
+empty street of the tiny settlement an old woman runs to 
+get out of the way of the speeding vehicle shaking her fist 
+at luke as he flies past
+
+>>>>>WOMAN
+ive told you kids to slow down
+
+>>>>>INT POWER STATION  DAY
+
+luke bursts into the power station waking the fixer a rugged 
+mechanic and camie a sexy disheveled girl who has been 
+asleep in his lap they grumbled as he races through the 
+office yelling wildly
+
+>>>>>FIXER
+did i hear a young noise blast through 
+here
+
+>>>>>CAMIE
+it was just wormie on another rampage
+
+>>>>>DESC
+luke bounces into a small room behind the office where deak 
+and windy two tough boys about the same age as luke are 
+playing a computer poollike game with biggs a burly 
+handsome boy a few years older than the rest his flashy 
+city attire is a sharp contrast to the loosefitting tunics 
+of the farm boys a robot repairs some equipment in the 
+background
+
+>>>>>LUKE
+shape it up you guys biggs
+
+>>>>>DESC
+lukes surprise at the appearance of biggs gives way to great 
+joy and emotion they give each other a great bear hug
+
+>>>>>LUKE
+i didnt know you were back when 
+did you get in
+
+>>>>>BIGGS
+just now i wanted to surprise you 
+hot shot i thought youd be here 
+certainly didnt expect you to be 
+out working
+ 
+
+>>>>>LUKE
+the academy didnt change you 
+muchbut youre back so soon hey 
+what happened didnt you get your 
+commission
+
+>>>>>DESC
+biggs has an air of cool that seems slightly phony
+
+>>>>>BIGGS
+of course i got it signed aboard 
+the rand ecliptic last week first 
+mate biggs darklighter at your 
+service
+ 
+i just came to say goodbye to 
+all you unfortunate landlocked 
+simpletons
+
+>>>>>DESC
+everyone laughs the dazzling spectacle of his dashing friend 
+is almost too much for luke but suddenly he snaps out of 
+it
+
+>>>>>LUKE
+i almost forgot theres a battle 
+going on right here in our system 
+come and look
+
+>>>>>DEAK
+not again forget it
+
+>>>>>EXT TATOOINE  ANCHORHEAD  SETTLEMENT  POWER STATION  
+>>>>>DAY
+
+the group stumbles out into the stifling desert sun camie 
+and the fixer complain and are forced to shade their eyes 
+luke has his binoculars out scanning the heavens
+
+>>>>>LUKE
+there they are
+
+>>>>>DESC
+biggs takes the binoculars from luke as the others strain to 
+see something with the naked eye through the binoculars 
+biggs sees two small silver specks
+
+>>>>>BIGGS
+thats no battle hot shot theyre 
+just sitting there probably a 
+freightertanker refueling
+
+>>>>>LUKE
+but there was a lot of firing 
+earlier
+
+>>>>>DESC
+camie grabs the binoculars away banging them against the 
+building in the process luke grabs them
+
+>>>>>LUKE
+hey easy with those
+
+>>>>>CAMIE
+dont worry about it wormie
+
+>>>>>DESC
+the fixer gives luke a hard look and the young farm boy shrugs 
+his shoulders in resignation
+
+>>>>>FIXER
+i keep telling you the rebellion is 
+a long way from here i doubt if the 
+empire would even fight to keep this 
+system believe me luke this planet 
+is a big hunk of nothing
+
+>>>>>DESC
+luke agrees although its obvious he isnt sure why the 
+group stumbles back into the power station grumbling about 
+lukes ineptitude
+
+>>>>>INT REBEL BLOCKADE RUNNER  HALLWAY
+
+princess leia is led down a lowceilinged hallway by a squad 
+of armored stormtroopers her hands are bound and she is 
+brutally shoved when she is unable to keep up with the briskly 
+marching troops they stop in a smoky hallway as darth vader 
+emerges from the shadows the sinister dark lord stares hard 
+at the frail young senator but she doesnt move
+
+>>>>>LEIA
+lord vader i should have known 
+only you could be so bold the 
+imperial senate will not sit for 
+this when they hear youve attacked 
+a diplomatic
+
+>>>>>VADER
+dont play games with me your 
+highness you werent on any mercy 
+mission this time you passed directly 
+through a restricted system several 
+transmissions were beamed to this 
+ship by rebel spies i want to know 
+what happened to the plans they sent 
+you
+
+>>>>>LEIA
+i dont know what youre talking 
+about im a member of the imperial 
+senate on a diplomatic mission to 
+alderaan
+
+>>>>>VADER
+youre a part of the rebel alliance 
+and a traitor take her away
+
+>>>>>DESC
+leia is marched away down the hallway and into the smoldering 
+hole blasted in the side of the ship an imperial commander 
+turns to vader
+
+>>>>>COMMANDER
+holding her is dangerous if word of 
+this gets out it could generate 
+sympathy for the rebellion in the 
+senate
+
+>>>>>VADER
+i have traced the rebel spies to 
+her now she is my only link to find 
+their secret base
+
+>>>>>COMMANDER
+shell die before she tells you 
+anything
+
+>>>>>VADER
+leave that to me send a distress 
+signal and then inform the senate 
+that all aboard were killed

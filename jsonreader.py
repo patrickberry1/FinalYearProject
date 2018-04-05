@@ -4,25 +4,26 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
 #opening files
-timings = open("timings.txt", "r")
-subs = open("formatted_subs.txt", "r")
-new_json = open("new_json.json", "w+")
+timings = open("outputs/sw4_timings.txt", "r")
+subs = open("outputs/sw4_fs.txt", "r")
+new_json = open("outputs/sw4_json.json", "w+")
+with open("inputs/sw4_parsed_script.json") as json_data:
+	d = json.load(json_data)
 
 sub_list = []
 
 for line in subs:
 	sub_list.append(line)	
 
-#splitting times into start and end times
+# splitting times into start and end times
 timing_list = []
 for line in timings:
 	split_time = line.split('-->')
 	timing_list.append(split_time)
 
 
-with open("sw4_parsed_script.json") as json_data:
-	d = json.load(json_data)
 
+# dropping all stage direction, locations etc. from json file for time being
 new_script = []
 
 for i in d['movie_script']:
@@ -44,8 +45,9 @@ for i in d['movie_script']:
 
 d['movie_script'] = new_script
 
-
-#fuzzy string comparison
+#
+# ---------- fuzzy string comparison ----------
+#
 sub_index = 0
 sub_len = len(sub_list)
 time_len = len(timing_list)
@@ -53,22 +55,47 @@ start_time = ''
 end_time = ''
 sub_text = ''
 
+# for j in d['movie_script']:
+# 	scr_text = j['text']
+# 	start_index = sub_index
+# 	curr_ratio = 1
+# 	prev_ratio = 0
+# 	sub_text = ""
+
+# 	while curr_ratio > prev_ratio and sub_index < sub_len:
+# 		sub_text = sub_text + sub_list[sub_index]
+# 		prev_ratio = curr_ratio
+# 		curr_ratio = fuzz.ratio(sub_text, scr_text)
+# 		sub_index = sub_index + 1
+	
+# 	sub_index = sub_index - 1
+# 	j['start_time'] = timing_list[start_index][0]
+# 	j['end_time'] = timing_list[sub_index-1][1]
+
+
 for j in d['movie_script']:
 	scr_text = j['text']
-	temp_index = sub_index
+	start_index = sub_index
 	curr_ratio = 1
 	prev_ratio = 0
 	sub_text = ""
+	temp_sub_index = sub_index + 1
 
 	while curr_ratio > prev_ratio and sub_index < sub_len:
 		sub_text = sub_text + sub_list[sub_index]
 		prev_ratio = curr_ratio
 		curr_ratio = fuzz.ratio(sub_text, scr_text)
 		sub_index = sub_index + 1
-	
-	sub_index = sub_index - 1
-	j['start_time'] = timing_list[temp_index][0]
-	j['end_time'] = timing_list[sub_index-1][1]
+
+	if curr_ratio < 50 and prev_ratio < 50:
+		sub_index = temp_sub_index
+	else:
+		sub_index = sub_index - 1
+		j['start_time'] = timing_list[start_index][0]
+		if sub_index == sub_len -1:
+			j['end_time'] = timing_list[sub_index][1]
+		else:
+			j['end_time'] = timing_list[sub_index-1][1]
 
 # sample_text = d['movie_script'][0]['text']
 # sample_sub = ''
@@ -77,7 +104,7 @@ for j in d['movie_script']:
 # 	pprint(fuzz.ratio(sample_text, sample_sub))
 # 	sub_index = sub_index + 1
 
-
+new_json.write(json.dumps(d, indent=2))
 		
 
 pprint(d)

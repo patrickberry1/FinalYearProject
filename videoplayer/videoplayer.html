@@ -1,13 +1,36 @@
 <!DOCTYPE html>
 <html>
 
+<script type="text/javascript">
+	function setVidTime(time) {
+		var splitArr = time.split(":")
+		var temp = splitArr[2]
+		tempArr = temp.split(',')
+		temp = tempArr[0]
+		var timeInSecs = parseInt(splitArr[0])*60*60 + parseInt(splitArr[1])*60 + parseInt(temp)
+		document.getElementById('vid1').currentTime = timeInSecs;
+	}
+
+</script>
+
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script>
 	$(function() {
-		$.getJSON('sw4.json', function(data) {
+		$.getJSON('https://raw.githubusercontent.com/patrickberry1/FinalYearProject/master/videoplayer/sw4.json', function(data) {
 			$.each(data.movie_script, function(i, s) {
-				var tblRow = "<tr>" + "<td>" + s.character + "</td>" +
-				"<td>" + s.start_time + "</td>" + "<td>" + s.end_time + "</td>" + "</tr>"
+				var endtime = s.end_time
+				endtime = endtime.replace('\n', '')
+				var starttime = s.start_time
+				starttime = starttime.replace('\n', '')
+				if(starttime != ''){
+					var tblRow = "<tr>" + "<td>" + s.character + "</td>" +
+					"<td>" + "<button onclick='setVidTime(&quot;"+starttime+"&quot;)'>" + s.start_time + "</button>" + "</td>" + 
+					"<td>" + "<button onclick='setVidTime(&quot;"+endtime+"&quot;)'>" + s.end_time + "</button>" + "</td>" + "<td>" + s.text + "</td>" + "</tr>"
+				}
+				else {
+					var tblRow = "<tr></tr>"
+				}
 				$(tblRow).appendTo("#script_stuff tbody");
 			});
 		});
@@ -28,11 +51,12 @@
 	<div id="list">
 		<h2 class="wrapper">Linx</h2>
 	</div>
-	<table id= "script_stuff" border="2">
+	<table id= "script_stuff" border="2" align="center">
 		<thead>
 			<th>Character  Name</th>
 			<th>Start Time</th>
 			<th>End Time</th>
+			<th>Text</th>
 		</thead>
 		<tbody>
 

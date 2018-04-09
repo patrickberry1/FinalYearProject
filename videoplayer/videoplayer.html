@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script>
+	$(function() {
+		$.getJSON('sw4.json', function(data) {
+			$.each(data.movie_script, function(i, s) {
+				var tblRow = "<tr>" + "<td>" + s.character + "</td>" +
+				"<td>" + s.start_time + "</td>" + "<td>" + s.end_time + "</td>" + "</tr>"
+				$(tblRow).appendTo("#script_stuff tbody");
+			});
+		});
+	});
+</script>
+
+<head>
+	<meta charset="utf-8">
+	<title>Vid Player</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body align="center">
+	<div class="wrapper">
+		<h1>HTML5 video player</h1>
+		<video src="videos/sw4.mp4" width="640" height="480" poster="thumbnails/sw4.jpg" controls id="vid1">
+		</video>
+	</div>
+	<div id="list">
+		<h2 class="wrapper">Linx</h2>
+	</div>
+	<table id= "script_stuff" border="2">
+		<thead>
+			<th>Character  Name</th>
+			<th>Start Time</th>
+			<th>End Time</th>
+		</thead>
+		<tbody>
+
+		</tbody>
+	</table>
+</body>
+</html>

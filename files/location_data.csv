@@ -1,372 +1,372 @@
 character,text,start_time,end_time,location,time in ms
-THREEPIO,did you hear that theyve shut down the main reactor well be destroyed for sure this is madness,"00:02:47,620","00:02:54,170", REBEL BLOCKADE RUNNER ,341790
-THREEPIO,were doomed,"00:03:04,180","00:03:05,640", REBEL BLOCKADE RUNNER ,369820
-THREEPIO,therell be no escape for the princess this time,"00:03:08,020","00:03:10,270", REBEL BLOCKADE RUNNER ,378290
-THREEPIO,whats that,"00:03:13,610","00:03:15,070", REBEL BLOCKADE RUNNER ,388680
-REBEL OFFICER,we intercepted no transmissions aaah this is a consular ship were on a diplomatic mission,"00:05:53,180","00:05:57,190", REBEL BLOCKADE RUNNER ,710370
-VADER,if this is a consular ship were is the ambassador,"00:05:57,270","00:06:01,900", REBEL BLOCKADE RUNNER ,719170
-VADER,commander tear this ship apart until youve found those plans and bring me the ambassador i want her alive,"00:06:05,320","00:06:11,910", REBEL BLOCKADE RUNNER ,737230
-TROOPER,there she is set for stun,"00:06:24,380","00:06:25,920", REBEL BLOCKADE RUNNER ,770300
-TROOPER,shell be all right inform lord vader we have a prisoner,"00:06:31,640","00:06:35,310", REBEL BLOCKADE RUNNER ,786950
-THREEPIO,hey youre not permitted in there its restricted youll be deactivated for sure,"00:06:36,890","00:06:41,440", REBEL BLOCKADE RUNNER ,798330
-THREEPIO,dont call me a mindless philosopher you overweight glob of grease now come out before somebody sees you,"00:06:43,400","00:06:47,780", REBEL BLOCKADE RUNNER ,811180
-THREEPIO,secret mission what plans what are you talking about im not getting in there,"00:06:50,160","00:06:55,080", REBEL BLOCKADE RUNNER ,825240
-THREEPIO,im going to regret this,"00:06:58,410","00:07:00,670", REBEL BLOCKADE RUNNER ,839080
-CAPTAIN,hold your fire there are no life forms it must have been short circuited,"00:07:11,220","00:07:12,550", IMPERIAL STARDESTROYER,863770
-THREEPIO,thats funny the damage doesnt look as bad from out here,"00:07:12,640","00:07:15,970", LIFEPOD,868610
-THREEPIO,are you sure this things safe,"00:07:18,310","00:07:20,310", LIFEPOD,878620
-THREEPIO,what makes you think there are settlements over there,"00:09:39,700","00:09:42,120", TATOOINE ,1161820
-THREEPIO,dont get technical with me,"00:09:43,870","00:09:45,620", TATOOINE ,1169490
-THREEPIO,what mission what are you talking about ive had just about enough of you go that way youll be malfunctioning within a day you nearsighted scrap pile,"00:09:46,920","00:09:58,340", TATOOINE ,1185260
-THREEPIO,and dont let me catch you following me begging for help because you wont get it,"00:09:59,050","00:10:02,680", TATOOINE ,1201730
-THREEPIO,no more adventures im not going that way,"00:10:17,150","00:10:20,950", TATOOINE ,1238100
-THREEPIO,that malfunctioning little twerp this is all his fault he tricked me into going this way but hell do no better,"00:10:54,860","00:11:03,080", TATOOINE ,1317940
-THREEPIO,wait whats that a transport im saved,"00:11:06,330","00:11:11,290", TATOOINE ,1337620
-THREEPIO,over here help please help,"00:11:11,380","00:11:19,380", TATOOINE ,1350760
-LUKE,obiwan kenobi i wonder if he means old ben kenobi,"00:22:13,790","00:22:16,960", LARS HOMESTEAD ,2670750
-THREEPIO,i beg your pardon sir but do you know what hes talking about,"00:22:17,040","00:22:19,710", LARS HOMESTEAD ,2676750
-LUKE,well i dont know anyone named obi wan but old ben lives out beyond the dune sea hes kind of a strange old hermit,"00:22:19,790","00:22:27,090", LARS HOMESTEAD ,2686880
-LUKE,i wonder who she is it sounds like shes in trouble id better play back the whole thing,"00:22:28,300","00:22:33,220", LARS HOMESTEAD ,2701520
-THREEPIO,he says the restraining bolt has short circuited his recording system he suggests that if you remove the bolt he might be able to play back the entire recording,"00:22:36,940","00:22:46,030", LARS HOMESTEAD ,2722970
-LUKE,hm oh yeah well i guess youre too small to run away on me if i take this off okay,"00:22:46,110","00:22:51,830", LARS HOMESTEAD ,2737940
-LUKE,there you go,"00:22:51,910","00:22:57,620", LARS HOMESTEAD ,2749530
-LUKE,well wait a minute whered she go bring her back play back the entire message,"00:22:59,170","00:23:02,500", LARS HOMESTEAD ,2761670
-THREEPIO,what message the one youre carrying inside your rusty innards,"00:23:02,590","00:23:08,260", LARS HOMESTEAD ,2770850
-LUKE,all right ill be right there aunt beru,"00:23:10,760","00:23:13,010", LARS HOMESTEAD ,2783770
-THREEPIO,im sorry sir but he appears to have picked up a slight flutter,"00:23:13,100","00:23:16,230", LARS HOMESTEAD ,2789330
-LUKE,well see what you can do with him ill be right back,"00:23:16,310","00:23:19,770", LARS HOMESTEAD ,2796080
-THREEPIO,just you reconsider playing that message for him,"00:23:22,440","00:23:25,280", LARS HOMESTEAD ,2807720
-THREEPIO,no i dont think he likes you at all,"00:23:26,400","00:23:28,240", LARS HOMESTEAD ,2814640
-THREEPIO,no i dont like you either,"00:23:28,860","00:23:31,280", LARS HOMESTEAD ,2820140
-LUKE,you know i think that r2 unit we bought might have been stolen,"00:23:40,000","00:23:43,840", LARS HOMESTEAD ,2843840
-LUKE,well i stumbled across a recording while i was cleaning him he says he belongs to someone called obiwan kenobi,"00:23:46,960","00:23:49,470", LARS HOMESTEAD ,2856430
-LUKE,i thought he might have meant old ben do you know what hes talking about well i wonder if hes related to ben,"00:23:52,260","00:23:59,640", LARS HOMESTEAD ,2871900
-OWEN,that old mans just a crazy old wizard tomorrow i want you to take that r2 unit into anchorhead and have its memory flushed thatll be the end of it it belongs to us now,"00:23:59,730","00:24:08,690", LARS HOMESTEAD ,2888420
-LUKE,but what if this obiwan comes looking for him,"00:24:10,400","00:24:13,070", LARS HOMESTEAD ,2903470
-OWEN,he wont i dont think he exists any more he died about the same time as your father,"00:24:13,160","00:24:19,250", LARS HOMESTEAD ,2912410
-LUKE,he knew my father,"00:24:19,330","00:24:22,460", LARS HOMESTEAD ,2921790
-OWEN,i told you to forget it your only concern is to prepare the new droids for tomorrow in the morning i want them on the south ridge working out those condensers,"00:24:23,580","00:24:30,630", LARS HOMESTEAD ,2934210
-LUKE,yes sir i think those new droids are going to work out fine in fact i uh was also thinking about our agreement about my staying on another season and if these new droids do work out i want to transmit my application to the academy this year,"00:24:31,300","00:24:47,690", LARS HOMESTEAD ,2958990
-OWEN,you mean the next semester before harvest,"00:24:48,610","00:24:50,530", LARS HOMESTEAD ,2979140
-LUKE,sure therere more than enough droids,"00:24:50,610","00:24:52,450", LARS HOMESTEAD ,2983060
-OWEN,harvest is when i need you the most only one more season this year well make enough on the harvest so ill be able to hire some more hands and then you can go to the academy next year,"00:24:52,530","00:25:02,330", LARS HOMESTEAD ,2994860
-OWEN,you must understand i need you here luke,"00:25:03,250","00:25:05,290", LARS HOMESTEAD ,3008540
-LUKE,but its a whole nother year,"00:25:05,380","00:25:08,300", LARS HOMESTEAD ,3013680
-OWEN,ill make it up to him next year i promise,"00:25:21,180","00:25:23,600", LARS HOMESTEAD ,3044780
-AUNT BERU,lukes just not a farmer owen he has too much of his father in him,"00:25:25,310","00:25:29,230", LARS HOMESTEAD ,3054540
-OWEN,thats what im afraid of,"00:25:30,030","00:25:31,530", LARS HOMESTEAD ,3061560
-LUKE,what are you doing hiding there,"00:26:20,700","00:26:23,870", LARS HOMESTEAD ,3164570
-THREEPIO,it wasnt my fault sir please dont deactivate me i told him not to go but hes faulty malfunctioning kept babbling on about his mission,"00:26:23,950","00:26:31,800", LARS HOMESTEAD ,3175750
-THREEPIO,that r2 unit has always been a problem these astrodroids are getting quite out of hand even i cant understand their logic at times,"00:26:42,760","00:26:47,730", TATOOINE ,3210490
-LUKE,how could i be so stupid hes nowhere in sight blast it,"00:26:47,810","00:26:51,570", TATOOINE ,3219380
-THREEPIO,pardon me sir but couldnt we go after him,"00:26:51,650","00:26:54,280", TATOOINE ,3225930
-LUKE,its too dangerous with all the sandpeople around well have to wait until morning,"00:26:54,360","00:26:57,570", TATOOINE ,3231930
-OWEN,luke im shutting the power down for the night,"00:26:57,650","00:26:59,660", TATOOINE ,3237310
-LUKE,all right ill be there in a few minutes boy am i gonna get it,"00:26:59,740","00:27:03,870", TATOOINE ,3243610
-LUKE,you know that little droid is going to cause me a lot of trouble,"00:27:05,000","00:27:06,960", TATOOINE ,3251960
-THREEPIO,oh he excels at that sir,"00:27:07,040","00:27:09,000", TATOOINE ,3256040
-OWEN,have you seen luke this morning,"00:27:31,690","00:27:33,610", LARS HOMESTEAD ,3305300
-AUNT BERU,he said he had some things to do before he started today so he left early,"00:27:33,690","00:27:37,110", LARS HOMESTEAD ,3310800
-OWEN,uh did he take those two new droids with him,"00:27:37,190","00:27:40,280", LARS HOMESTEAD ,3317470
-LUKE,there are two banthas down there but i dont see any wait a second theyre sandpeople all right i can see one of them now,"00:28:50,480","00:28:55,230", TATOOINE ,3465710
-BEN,hello there come here my little friend dont be afraid,"00:30:09,850","00:30:16,730", TATOOINE ,3626580
-BEN,dont worry hell be all right,"00:30:19,440","00:30:21,190", TATOOINE ,3640630
-BEN,rest easy son youve had a busy day youre fortunate youre still in one piece,"00:30:30,740","00:30:33,700", TATOOINE ,3664440
-LUKE,ben ben kenobi boy am i glad to see you,"00:30:36,960","00:30:41,250", TATOOINE ,3678210
-BEN,the jundland wastes are not to be traveled lightly tell me young luke what brings you out this far,"00:30:41,340","00:30:51,100", TATOOINE ,3692440
-LUKE,oh this little droid i think hes searching for his former master ive never seen such devotion in a droid before there seems to be no stopping him he claims to be the property of an obiwan kenobi is he a relative of yours do you know who hes talking about,"00:30:51,850","00:31:07,150", TATOOINE ,3719000
-BEN,obiwan kenobi obiwan now thats a name i havent heard in a long time a long time,"00:31:08,700","00:31:21,750", TATOOINE ,3750450
-LUKE,i think my uncle knew him he said he was dead,"00:31:22,920","00:31:25,840", TATOOINE ,3768760
-BEN,oh hes not dead not not yet,"00:31:25,920","00:31:28,930", TATOOINE ,3774850
-BEN,well of course of course i know him hes me i havent gone by the name obiwan since oh before you were born,"00:31:32,100","00:31:42,190", TATOOINE ,3794290
-LUKE,then the droid does belong to you,"00:31:42,270","00:31:43,900", TATOOINE ,3806170
-BEN,dont seem to remember ever owning a droid very interesting,"00:31:43,980","00:31:49,990", TATOOINE ,3813970
-BEN,i think we better get indoors the sandpeople are easily startled but they will soon be back and in greater numbers,"00:31:52,030","00:32:00,250", TATOOINE ,3832280
-THREEPIO,where am i i must have taken a bad step,"00:32:13,850","00:32:16,520", TATOOINE ,3870370
-LUKE,can you stand weve got to get out of here before the sandpeople return,"00:32:17,980","00:32:21,230", TATOOINE ,3879210
-THREEPIO,i dont think i can make it you go on master luke theres no sense in you risking yourself on my account im done for,"00:32:21,310","00:32:28,190", TATOOINE ,3889500
-LUKE,no youre not what kind of talk is that,"00:32:29,240","00:32:31,160", TATOOINE ,3900400
-BEN,quickly son theyre on the move,"00:32:31,240","00:32:33,160", TATOOINE ,3904400
-LUKE,no my father didnt fight in the wars he was a navigator on a spice freighter,"00:32:38,450","00:32:41,830", KENOBI'S DWELLING,3920280
-BEN,thats what your uncle told you he didnt hold with your fathers ideals thought he should have stayed here and not gotten involved,"00:32:41,920","00:32:48,880", KENOBI'S DWELLING,3930800
-LUKE,you fought in the clone wars,"00:32:49,590","00:32:51,930", KENOBI'S DWELLING,3941520
-BEN,yes i was once a jedi knight the same as your father,"00:32:52,010","00:32:55,680", KENOBI'S DWELLING,3947690
-LUKE,i wish id known him,"00:32:58,220","00:32:59,980", KENOBI'S DWELLING,3958200
-BEN,he was the best starpilot in the galaxy and a cunning warrior i understand youve become quite a good pilot yourself and he was a good friend which reminds me,"00:33:00,060","00:33:14,410", KENOBI'S DWELLING,3974470
-BEN,i have something here for you your father wanted you to have this when you were old enough but your uncle wouldnt allow it he feared you might follow old obiwan on some damnedfool idealistic crusade like your father did,"00:33:15,620","00:33:31,550", KENOBI'S DWELLING,4007170
-THREEPIO,sir if youll not be needing me ill close down for awhile,"00:33:31,630","00:33:34,590", KENOBI'S DWELLING,4026220
-LUKE,sure go ahead,"00:33:34,680","00:33:36,260", KENOBI'S DWELLING,4030940
-BEN,your fathers lightsaber this is the weapon of a jedi knight not as clumsy or as random as a blaster,"00:33:43,100","00:33:48,650", KENOBI'S DWELLING,4051750
-BEN,an elegant weapon for a more civilized time for over a thousand generations the jedi knights were the guardians of peace and justice in the old republic before the dark times before the empire,"00:33:49,650","00:34:07,920", KENOBI'S DWELLING,4077570
-LUKE,how did my father die,"00:34:10,920","00:34:12,880", KENOBI'S DWELLING,4103800
-BEN,a young jedi named darth vader who was a pupil of mine until he turned to evil helped the empire hunt down and destroy the jedi knights he betrayed and murdered your father now the jedi are all but extinct vader was seduced by the dark side of the force,"00:34:15,340","00:34:37,910", KENOBI'S DWELLING,4133250
-LUKE,the force,"00:34:37,990","00:34:39,580", KENOBI'S DWELLING,4157570
-BEN,well the force is what gives a jedi his power its an energy field created by all living things it surrounds us and penetrates us it binds the galaxy together,"00:34:40,870","00:34:51,340", KENOBI'S DWELLING,4172210
-BEN,now lets see if we cant figure out what you are my little friend and where you come from,"00:34:58,390","00:35:04,310", KENOBI'S DWELLING,4202700
-LUKE,i saw part of the message he was,"00:35:04,390","00:35:07,560", KENOBI'S DWELLING,4211950
-LEIA,general kenobi years ago you served my father in the clone wars now he begs you to help him in his struggle against the empire i regret that i am unable to present my fathers request to you in person but my ship has fallen under attack and im afraid my mission to bring you to alderaan has failed i have placed information vital to the survival of the rebellion into the memory systems of this r2 unit my father will know how to retrieve it you must see this droid safely delivered to him on alderaan this is our most desperate hour help me obiwan kenobi youre my only hope,"00:35:12,070","00:35:40,970", KENOBI'S DWELLING,4253040
-BEN,you must learn the ways of the force if youre to come with me to alderaan,"00:35:55,900","00:35:59,990", KENOBI'S DWELLING,4315890
-LUKE,alderaan im not going to alderaan ive got to go home its late im in for it as it is,"00:36:00,070","00:36:05,950", KENOBI'S DWELLING,4326020
-BEN,i need your help luke she needs your help im getting too old for this sort of thing,"00:36:06,040","00:36:11,710", KENOBI'S DWELLING,4337750
-LUKE,i cant get involved ive got work to do its not that i like the empire i hate it but theres nothing i can do about it right now its such a long way from here,"00:36:16,300","00:36:29,980", KENOBI'S DWELLING,4366280
-LUKE,look i can take you as far as anchorhead you can get a transport there to mos eisley or wherever youre going,"00:36:45,780","00:36:49,200", KENOBI'S DWELLING,4414980
-BEN,you must do what you feel is right of course,"00:36:50,410","00:36:53,420", KENOBI'S DWELLING,4423830
-TAGGE,until this battle station is fully operational we are vulnerable the rebel alliance is too well equipped theyre more dangerous than you realize,"00:37:00,970","00:37:08,850", DEATH STAR ,4449820
-MOTTI,dangerous to your starfleet commander not to this battle station,"00:37:08,930","00:37:13,650", DEATH STAR ,4462580
-TAGGE,the rebellion will continue to gain a support in the imperial senate as long as,"00:37:13,730","00:37:17,360", DEATH STAR ,4471090
-TARKIN,the imperial senate will no longer be of any concern to us ive just received word that the emperor has dissolved the council permanently the last remnants of the old republic have been swept away,"00:37:17,440","00:37:29,790", DEATH STAR ,4487230
-TAGGE,thats impossible how will the emperor maintain control without the bureaucracy,"00:37:30,450","00:37:34,250", DEATH STAR ,4504700
-TARKIN,the regional governors now have direct control over territories fear will keep the local systems in line fear of this battle station,"00:37:34,330","00:37:45,470", DEATH STAR ,4519800
-TAGGE,and what of the rebellion if the rebels have obtained a complete technical readout of this station it is possible however unlikely that they might find a weakness and exploit it,"00:37:45,550","00:37:54,310", DEATH STAR ,4539860
-VADER,the plans you refer to will soon be back in our hands,"00:37:55,060","00:37:58,650", DEATH STAR ,4553710
-MOTTI,any attack made by the rebels against this station would be a useless gesture no matter what technical data theyve obtained this station is now the ultimate power in the universe i suggest we use it,"00:37:58,730","00:38:11,250", DEATH STAR ,4569980
-VADER,dont be too proud of this technological terror youve constructed the ability to destroy a planet is insignificant next to the power of the force,"00:38:11,330","00:38:21,000", DEATH STAR ,4592330
-MOTTI,dont try to frighten us with your sorcerers ways lord vader your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes or given you clairvoyance enough to find the rebels hidden fort,"00:38:21,090","00:38:34,350", DEATH STAR ,4615440
-VADER,i find your lack of faith disturbing,"00:38:41,570","00:38:44,190", DEATH STAR ,4645760
-TARKIN,enough of this vader release him,"00:38:45,320","00:38:48,030", DEATH STAR ,4653350
-VADER,as you wish,"00:38:48,120","00:38:49,580", DEATH STAR ,4657700
-TARKIN,this bickering is pointless lord vader will provide us with the location of the rebel fortress by the time this station is operational we will then crush the rebellion with one swift stroke,"00:38:51,790","00:39:04,760", DEATH STAR ,4676550
-LUKE,it looks like sandpeople did this all right look here are gaffi sticks bantha tracks its just i never heard of them hitting anything this big before,"00:39:12,720","00:39:18,730", TATOOINE ,4711450
-BEN,they didnt but we are meant to think they did these tracks are side by side sandpeople always ride single file to hide there numbers,"00:39:18,810","00:39:28,410", TATOOINE ,4727220
-LUKE,these are the same jawas that sold us artoo and threepio,"00:39:28,490","00:39:31,370", TATOOINE ,4739860
-BEN,and these blast points too accurate for sandpeople only imperial stormtroopers are so precise,"00:39:31,450","00:39:40,250", TATOOINE ,4751700
-LUKE,why would imperial troops want to slaughter jawas,"00:39:40,330","00:39:42,880", TATOOINE ,4763210
-LUKE,if they traced the robots here they may have learned who they sold them to and that would lead them home,"00:39:48,300","00:39:53,390", TATOOINE ,4781690
-BEN,wait luke its too dangerous,"00:39:53,470","00:39:56,850", TATOOINE ,4790320
-LUKE,uncle owen aunt beru uncle owen,"00:40:21,120","00:40:26,170", TATOOINE ,4847290
-VADER,and now your highness we will discuss the location of your hidden rebel base,"00:41:16,470","00:41:22,060", DEATH STAR ,4958530
-BEN,theres nothing you could have done luke had you been there youd have been killed too and the droids would be in the hands of the empire,"00:42:05,060","00:42:12,950", TATOOINE ,5058010
-LUKE,i want to come with you to alderaan theres nothing here for me now i want to learn the ways of the force and become a jedi like my father,"00:42:14,740","00:42:22,580", TATOOINE ,5077320
-BEN,mos eisley spaceport you will never find a more wretched hive of scum and villainy we must be cautious,"00:42:38,300","00:42:47,980", TATOOINE ,5126280
-TROOPER,how long have you had these droids,"00:43:29,310","00:43:31,230", TATOOINE ,5220540
-TROOPER,let me see your identification,"00:43:37,360","00:43:39,870", TATOOINE ,5237230
-BEN,you dont need to see his identification,"00:43:40,490","00:43:42,330", TATOOINE ,5242820
-BEN,these are not the droids your looking for,"00:43:45,040","00:43:47,000", TATOOINE ,5252040
-BEN,he can go about his business,"00:43:50,630","00:43:53,880", TATOOINE ,5264510
-BEN,well most of the best freighter pilots can be found here only watch your step this place can be a little rough,"00:44:37,460","00:44:41,300", TATOOINE ,5358760
-LUKE,im ready for anything,"00:44:41,390","00:44:43,140", TATOOINE ,5364530
-THREEPIO,come along artoo,"00:44:47,060","00:44:48,390", TATOOINE ,5375450
-BARTENDER,we dont serve their kind here,"00:45:38,940","00:45:42,450", TATOOINE ,5481390
-HAN,ive outrun imperial starships not the local bulkcruisers mind you im talking about the big corellian ships now shes fast enough for you old man whats the cargo,"00:48:16,020","00:48:24,110", TATOOINE ,5800130
-BEN,only passengers myself the boy two droids and no questions asked,"00:48:25,150","00:48:34,080", TATOOINE ,5819230
-HAN,what is it some kind of local trouble,"00:48:35,290","00:48:37,160", TATOOINE ,5832450
-BEN,lets just say wed like to avoid any imperial entanglements,"00:48:37,250","00:48:42,460", TATOOINE ,5839710
-HAN,well thats the trick isnt it and its going to cost you something extra ten thousand in advance,"00:48:43,880","00:48:52,260", TATOOINE ,5856140
-LUKE,ten thousand we could almost buy our own ship for that,"00:48:53,970","00:48:59,140", TATOOINE ,5873110
-HAN,but whos going to fly it kid you,"00:48:59,230","00:49:01,480", TATOOINE ,5880710
-LUKE,you bet i could im not such a bad pilot myself we dont have to sit here and listen,"00:49:01,560","00:49:06,150", TATOOINE ,5887710
-BEN,we havent that much with us but we could pay you two thousand now plus fifteen when we reach alderaan,"00:49:06,230","00:49:12,490", TATOOINE ,5898720
-HAN,seventeen huh,"00:49:13,240","00:49:14,450", TATOOINE ,5907690
-HAN,okay you guys got yourself a ship well leave as soon as youre ready docking bay ninetyfour,"00:49:18,120","00:49:24,290", TATOOINE ,5922410
-HAN,seventeen thousand those guys must really be desperate this could really save my neck get back to the ship and get her ready,"00:49:48,400","00:49:51,860", TATOOINE ,5980260
-BEN,youll have to sell your speeder,"00:49:52,950","00:49:54,990", TATOOINE ,5987940
-LUKE,thats okay im never coming back to this planet again,"00:49:55,070","00:49:57,120", TATOOINE ,5992190
-GREEDO,going somewhere solo,"00:49:58,490","00:50:00,540", MOS EISLEY ,5999030
-HAN,yes greedo as a matter of fact i was just going to see your boss tell jabba that ive got his money,"00:50:00,790","00:50:06,130", MOS EISLEY ,6006920
-GREEDO,its too late you should have paid him when you had the chance jabbas put a price on your head so large that every bounty hunter in the galaxy will be looking for you im lucky i found you first,"00:50:06,210","00:50:19,310", MOS EISLEY ,6025520
-HAN,yeah but this time i got the money,"00:50:19,390","00:50:21,600", MOS EISLEY ,6040990
-GREEDO,if you give it to me i might forget i found you,"00:50:21,680","00:50:25,270", MOS EISLEY ,6046950
-HAN,i dont have it with me tell jabba,"00:50:25,350","00:50:28,520", MOS EISLEY ,6053870
-GREEDO,jabbas through with you he has no time for smugglers who drop their shipments at the first sign of an imperial cruiser,"00:50:28,570","00:50:38,200", MOS EISLEY ,6066770
-HAN,even i get boarded sometimes do you think i had a choice,"00:50:36,740","00:50:40,490", MOS EISLEY ,6077230
-GREEDO,you can tell that to jabba he may only take your ship,"00:50:40,580","00:50:44,710", MOS EISLEY ,6085290
-HAN,over my dead body,"00:50:44,790","00:50:46,920", MOS EISLEY ,6091710
-GREEDO,thats the idea ive been looking forward to killing you for a long time,"00:50:46,960","00:50:52,210", MOS EISLEY ,6099170
-HAN,yes ill bet you have,"00:50:52,420","00:50:53,760", MOS EISLEY ,6106180
-HAN,sorry about the mess,"00:51:07,810","00:51:09,440", MOS EISLEY ,6137250
-VADER,her resistance to the mind probe is considerable it will be some time before we can extract any information from her,"00:51:18,820","00:51:25,370", DEATH STAR ,6164190
-IMPERIAL OFFICER,the final checkout is complete all systems are operational what course shall we set,"00:51:25,460","00:51:31,380", DEATH STAR ,6176840
-TARKIN,perhaps she would respond to an alternative form of persuasion,"00:51:31,460","00:51:34,880", DEATH STAR ,6186340
-VADER,what do you mean,"00:51:34,970","00:51:36,590", DEATH STAR ,6191560
-TARKIN,i think it is time we demonstrate the full power of this station,"00:51:36,680","00:51:39,640", DEATH STAR ,6196320
-TARKIN,set your course for princess leias home planet of alderaan,"00:51:39,720","00:51:42,220", DEATH STAR ,6201940
-TROOPER,all right check that side of the street its secure move on to the next door,"00:51:53,690","00:51:56,320", TATOOINE ,6230010
-THREEPIO,i would much rather have gone with master luke than stay here with you i dont know what all the trouble is about but im sure it must be your fault,"00:52:03,160","00:52:10,080", TATOOINE ,6253240
-THREEPIO,you watch your language,"00:52:10,830","00:52:12,420", TATOOINE ,6263250
-LUKE,he says its the best he can do since the xp38 came out theyre just not in demand,"00:52:14,460","00:52:21,430", TATOOINE ,6275890
-BEN,it will be enough,"00:52:21,510","00:52:23,510", TATOOINE ,6285020
-HAN,ive been waiting for you jabba,"00:52:49,500","00:52:51,040", DOCKING BAY 94 ,6340540
-JABBA,han my boy there are times when you disappoint me why havent you paid me and why did you have to fry poor greedo like that after all weve been through together,"00:52:57,710","00:53:07,100", DOCKING BAY 94 ,6364810
-JABBA,han han if only you hadnt had to dump that shipment of spice you understand i just cant make an exception where would i be if every pilot who smuggled for me dumped their shipment at the first sign of an imperial starship its not good business,"00:53:15,940","00:53:26,330", DOCKING BAY 94 ,6402270
-HAN,you know even i get boarded sometimes jabba i had no choice but ive got a charter now and i can pay you back plus a little extra i just need some more time,"00:53:26,370","00:53:39,510", DOCKING BAY 94 ,6425880
-JABBA,put your blasters away han my boy im only doing this because youre the best and i need you so for an extra say twenty percent ill give you a little more time but this is it if you disappoint me again ill put a price on your head so large you wont be able to go near a civilized system for the rest of your short life,"00:53:39,590","00:54:00,990", DOCKING BAY 94 ,6460580
-HAN,shell make point five beyond the speed of light she may not look like much but shes got it where it counts kid ive added some special modifications myself,"00:54:12,960","00:54:50,870", MOS EISLEY SPACEPORT ,6543830
-HAN,were a little rushed so if youll hurry aboard well get out of here,"00:54:50,950","00:54:54,870", MOS EISLEY SPACEPORT ,6585820
-THREEPIO,hello sir,"00:54:59,460","00:55:00,960", MOS EISLEY SPACEPORT ,6600420
-TROOPER,which way,"00:55:09,890","00:55:11,140", TATOOINE ,6621030
-TROOPER,all right men load your weapons,"00:55:13,140","00:55:15,140", TATOOINE ,6628280
-TROOPER,stop that ship,"00:55:16,730","00:55:19,360", MOS EISLEY SPACEPORT ,6636090
-HAN,it looks like an imperial cruiser our passengers must be hotter than i thought try and hold them off angle the deflector shield while i make the calculations for the jump to light speed,"00:55:58,230","00:56:01,860", MILLENNIUM FALCON ,6720090
-HAN,stay sharp there are two more coming in theyre going to try to cut us off,"00:56:12,620","00:56:15,500", MILLENNIUM FALCON ,6748120
-LUKE,why dont you outrun them i thought you said this thing was fast,"00:56:15,580","00:56:17,660", MILLENNIUM FALCON ,6753240
-HAN,watch your mouth kid or youre going to find yourself floating home well be safe enough once we make the jump to hyperspace besides i know a few maneuvers well lose them,"00:56:17,750","00:56:25,090", MILLENNIUM FALCON ,6762840
-HAN,heres where the fun begins,"00:56:29,180","00:56:31,220", MILLENNIUM FALCON ,6780400
-BEN,how long before you can make the jump to light speed,"00:56:31,300","00:56:33,100", MILLENNIUM FALCON ,6784400
-HAN,itll take a few moments to get the coordinates from the navicomputer,"00:56:33,180","00:56:36,100", MILLENNIUM FALCON ,6789280
-LUKE,are you kidding at the rate theyre gaining,"00:56:36,180","00:56:37,770", MILLENNIUM FALCON ,6793950
-HAN,traveling through hyperspace isnt like dusting crops boy without precise calculations we could fly right through a star or bounce too close to a supernova and thatd end your trip real quick wouldnt it,"00:56:37,850","00:56:47,150", MILLENNIUM FALCON ,6805000
-HAN,were losing our deflector shield go strap yourself in im going to make the jump to light speed,"00:56:49,700","00:56:52,660", MILLENNIUM FALCON ,6822360
-MOTTI,weve entered the alderaan system,"00:57:13,640","00:57:15,970", DEATH STAR ,6869610
-LEIA,governor tarkin i should have expected to find you holding vaders leash i recognized your foul stench when i was brought on board,"00:57:16,970","00:57:24,690", DEATH STAR ,6881660
-TARKIN,charming to the last you dont know how hard i found it signing the order to terminate your life,"00:57:26,320","00:57:32,820", DEATH STAR ,6899140
-LEIA,i surprised you had the courage to take the responsibility yourself,"00:57:32,910","00:57:35,780", DEATH STAR ,6908690
-TARKIN,princess leia before your execution i would like you to be my guest at a ceremony that will make this battle station operational no star system will dare oppose the emperor now,"00:57:35,870","00:57:47,340", DEATH STAR ,6923210
-LEIA,the more you tighten your grip tarkin the more star systems will slip through your fingers,"00:57:48,010","00:57:52,930", DEATH STAR ,6940940
-TARKIN,not after we demonstrate the power of this station in a way you have determined the choice of the planet thatll be destroyed first since you are reluctant to provide us with the location of the rebel base i have chosen to test this stations destructive power on your home planet of alderaan,"00:57:53,010","00:58:11,700", DEATH STAR ,6964710
-LEIA,no alderaan is peaceful we have no weapons you cant possibly,"00:58:12,700","00:58:15,450", DEATH STAR ,6988150
-TARKIN,you would prefer another target a military target then name the system,"00:58:15,530","00:58:20,200", DEATH STAR ,6995730
-TARKIN,i grow tired of asking this so itll be the last time where is the rebel base,"00:58:22,080","00:58:28,210", DEATH STAR ,7010290
-LEIA,dantooine,"00:58:31,760","00:58:33,380", DEATH STAR ,7025140
-LEIA,theyre on dantooine,"00:58:34,050","00:58:35,840", DEATH STAR ,7029890
-TARKIN,there you see lord vader she can be reasonable,"00:58:35,930","00:58:39,310", DEATH STAR ,7035240
-TARKIN,continue with the operation you may fire when ready,"00:58:39,390","00:58:42,270", DEATH STAR ,7041660
-TARKIN,youre far too trusting dantooine is too remote to make an effective demonstration but dont worry we will deal with your rebel friends soon enough,"00:58:44,600","00:58:51,740", DEATH STAR ,7056340
-BEN,i felt a great disturbance in the force as if millions of voices suddenly cried out in terror and were suddenly silenced i fear something terrible has happened,"00:59:25,440","00:59:33,440", MILLENNIUM FALCON ,7138880
-BEN,youd better get on with your exercises,"00:59:35,110","00:59:37,410", MILLENNIUM FALCON ,7152520
-HAN,well you can forget your troubles with those imperial slugs i told you id outrun em,"00:59:39,950","00:59:44,450", MILLENNIUM FALCON ,7164400
-HAN,dont everyone thank me at once,"00:59:48,420","00:59:50,500", MILLENNIUM FALCON ,7178920
-HAN,anyway we should be at alderaan about ohtwohundred hours,"00:59:50,590","00:59:54,010", MILLENNIUM FALCON ,7184600
-THREEPIO,now be careful artoo,"01:00:02,560","01:00:04,560", MILLENNIUM FALCON ,7120
-THREEPIO,he made a fair move screaming about it wont help you,"01:00:13,940","01:00:16,530", MILLENNIUM FALCON ,30470
-HAN,let him have it its not wise to upset a wookiee,"01:00:16,610","01:00:18,780", MILLENNIUM FALCON ,35390
-THREEPIO,but sir nobody worries about upsetting a droid,"01:00:18,860","01:00:21,240", MILLENNIUM FALCON ,40100
-HAN,thats cause droids dont pull peoples arms out of their socket when they lose wookiees are known to do that,"01:00:21,330","01:00:28,210", MILLENNIUM FALCON ,49540
-THREEPIO,i see your point sir i suggest a new strategy artoo let the wookiee win,"01:00:29,920","01:00:35,510", MILLENNIUM FALCON ,65430
-BEN,remember a jedi can feel the force flowing through him,"01:00:53,980","01:00:57,610", MILLENNIUM FALCON ,111590
-LUKE,you mean it controls your actions,"01:00:58,360","01:01:00,700", MILLENNIUM FALCON ,119060
-BEN,partially but it also obeys your commands,"01:01:00,780","01:01:02,700", MILLENNIUM FALCON ,123480
-HAN,hokey religions and ancient weapons are no match for a good blaster at your side kid,"01:01:07,910","01:01:12,170", MILLENNIUM FALCON ,140080
-LUKE,you dont believe in the force do you,"01:01:12,840","01:01:14,550", MILLENNIUM FALCON ,147390
-HAN,kid ive flown from one side of this galaxy to the other ive seen a lot of strange stuff but ive never seen anything to make me believe theres one allpowerful force controlling everything theres no mystical energy field that controls my destiny,"01:01:15,380","01:01:29,810", MILLENNIUM FALCON ,165190
-HAN,its all a lot of simple tricks and nonsense,"01:01:29,890","01:01:32,770", MILLENNIUM FALCON ,182660
-BEN,i suggest you try it again luke,"01:01:32,860","01:01:35,730", MILLENNIUM FALCON ,188590
-BEN,this time let go your conscious self and act on instinct,"01:01:37,440","01:01:44,160", MILLENNIUM FALCON ,201600
-LUKE,with the blast shield down i cant even see how am i supposed to fight,"01:01:45,240","01:01:48,700", MILLENNIUM FALCON ,213940
-BEN,your eyes can deceive you dont trust them,"01:01:48,790","01:01:51,250", MILLENNIUM FALCON ,220040
-BEN,stretch out with your feelings,"01:02:00,630","01:02:02,970", MILLENNIUM FALCON ,243600
-BEN,you see you can do it,"01:02:17,400","01:02:19,570", MILLENNIUM FALCON ,276970
-HAN,i call it luck,"01:02:19,650","01:02:21,320", MILLENNIUM FALCON ,280970
-BEN,in my experience theres no such thing as luck,"01:02:21,400","01:02:24,030", MILLENNIUM FALCON ,285430
-HAN,look going good against remotes is one thing going good against the living thats something else,"01:02:24,110","01:02:29,450", MILLENNIUM FALCON ,293560
-HAN,looks like were coming up on alderaan,"01:02:30,580","01:02:32,580", MILLENNIUM FALCON ,303160
-LUKE,you know i did feel something i could almost see the remote,"01:02:35,920","01:02:38,630", MILLENNIUM FALCON ,314550
-BEN,thats good you have taken your first step into a larger world,"01:02:38,710","01:02:43,130", MILLENNIUM FALCON ,321840
-OFFICER CASS,our scout ships have reached dantooine they found the remains of a rebel base but they estimate that it has been deserted for some time they are now conducting an extensive search of the surrounding systems,"01:02:49,970","01:02:59,900", DEATH STAR ,349870
-TARKIN,she lied she lied to us,"01:03:00,900","01:03:03,490", DEATH STAR ,364390
-VADER,i told you she would never consciously betray the rebellion,"01:03:03,570","01:03:07,280", DEATH STAR ,370850
-TARKIN,terminate her immediately,"01:03:08,620","01:03:10,410", DEATH STAR ,379030
-HAN,stand by chewie here we go cut in the sublight engines,"01:03:13,750","01:03:16,460", MILLENNIUM FALCON ,390210
-HAN,what the aw weve come out of hyperspace into a meteor shower some kind of asteroid collision its not on any of the charts,"01:03:19,130","01:03:29,510", MILLENNIUM FALCON ,408640
-OFFICER,close all outboard shields close all outboard shields,"01:05:56,330","01:05:59,750", DEATH STAR ,716080
-VOICE,weve captured a freighter entering the remains of the alderaan system its markings match those of a ship that blasted its way out of mos eisley,"01:06:02,500","01:06:09,420", DEATH STAR ,731920
-VADER,they must be trying to return the stolen plans to the princess she may yet be of some use to us,"01:06:09,510","01:06:16,510", DEATH STAR ,746020
-VOICE,unlock onefiveseven and nine release charges,"01:06:21,520","01:06:24,860", DEATH STAR ,766380
-OFFICER,theres no one on board sir according to the log the crew abandoned ship right after takeoff it must be a decoy sir several of the escape pods have been jettisoned,"01:06:32,360","01:06:40,580", DEATH STAR ,792940
-VADER,did you find any droids,"01:06:40,660","01:06:42,620", DEATH STAR ,803280
-OFFICER,no sir if there were any on board they must also have jettisoned,"01:06:42,710","01:06:44,580", DEATH STAR ,807290
-VADER,send a scanning crew on board i want every part of this ship checked,"01:06:44,670","01:06:48,170", DEATH STAR ,812840
-OFFICER,yes sir,"01:06:48,250","01:06:49,510", DEATH STAR ,817760
-VADER,i sense something a presence i havent felt since,"01:06:49,590","01:06:53,720", DEATH STAR ,823310
-OFFICER,get me a scanning crew in here on the double i want every part of this ship checked,"01:06:56,430","01:06:59,850", DEATH STAR ,836280
-LUKE,boy its lucky you had these compartments,"01:07:08,820","01:07:21,830", MILLENNIUM FALCON ,870650
-HAN,i use them for smuggling i never thought id be smuggling myself in them this is ridiculous even if i could take off id never get past the tractor beam,"01:07:21,910","01:07:28,960", MILLENNIUM FALCON ,890870
-BEN,leave that to me,"01:07:29,040","01:07:30,380", MILLENNIUM FALCON ,899420
-HAN,damn fool i knew that you were going to say that,"01:07:30,460","01:07:33,510", MILLENNIUM FALCON ,903970
-BEN,whos the more foolish the fool or the fool who follows him,"01:07:33,590","01:07:37,090", MILLENNIUM FALCON ,910680
-TROOPER,the ships all yours if the scanners pick up anything report it immediately all right lets go,"01:07:46,690","01:07:53,440", DEATH STAR ,940130
-HAN'S VOICE,hey down there could you give us a hand with this,"01:08:08,130","01:08:13,800", DEATH STAR ,981930
-GANTRY OFFICER,txfouronetwo why arent you at your post txfouronetwo do you copy,"01:08:22,180","01:08:27,810", DEATH STAR ,1009990
-GANTRY OFFICER,take over weve got a bad transmitter ill see what i can do,"01:08:39,820","01:08:42,780", DEATH STAR ,1042600
-LUKE,you know between his howling and your blasting everything in sight its a wonder the whole station doesnt know were here,"01:09:00,590","01:09:05,140", DEATH STAR ,1085730
-HAN,bring them on i prefer a straight fight to all this sneaking around,"01:09:05,220","01:09:08,520", DEATH STAR ,1093740
-THREEPIO,we found the computer outlet sir,"01:09:08,600","01:09:10,400", DEATH STAR ,1099000
-BEN,plug in he should be able to interpret the entire imperial computer network,"01:09:10,480","01:09:13,520", DEATH STAR ,1104000
-THREEPIO,he says hes found the main computer to power the tractor beam thats holding the ship here hell try to make the precise location appear on the monitor,"01:09:24,700","01:09:31,170", DEATH STAR ,1135870
-THREEPIO,the tractor beam is coupled to the main reactor in seven locations a power loss at one of the terminals will allow the ship to leave,"01:09:31,250","01:09:38,630", DEATH STAR ,1149880
-BEN,i dont think you boys can help i must go alone,"01:09:41,390","01:09:44,640", DEATH STAR ,1166030
-HAN,whatever you say ive done more that i bargained for on this trip already,"01:09:44,720","01:09:48,140", DEATH STAR ,1172860
-BEN,they must be delivered safely or other star systems will suffer the same fate as alderaan your destiny lies along a different path than mine the force will be with you always,"01:09:57,530","01:10:07,910", DEATH STAR ,1205440
-HAN,boy you said it chewie,"01:10:17,420","01:10:19,720", DEATH STAR ,1237140
-HAN,where did you dig up that old fossil,"01:10:19,800","01:10:22,220", DEATH STAR ,1242020
-LUKE,ben is a great man,"01:10:23,260","01:10:24,850", DEATH STAR ,1248110
-HAN,yeah great at getting us into trouble,"01:10:24,930","01:10:27,890", DEATH STAR ,1252820
-THREEPIO,princess leia,"01:10:45,070","01:10:46,780", DEATH STAR ,1291850
-THREEPIO,level five detention block a atwenty three im afraid shes scheduled to be terminated,"01:11:01,800","01:11:04,470", DEATH STAR ,1326270
-LUKE,oh no weve got to do something,"01:11:04,550","01:11:07,550", DEATH STAR ,1332100
-HAN,what are you talking about,"01:11:07,640","01:11:10,100", DEATH STAR ,1337740
-LUKE,the droid belongs to her shes the one in the message weve got to help her,"01:11:10,180","01:11:12,100", DEATH STAR ,1342280
-HAN,now look dont get any funny ideas the old man wants us to wait right here,"01:11:12,180","01:11:15,060", DEATH STAR ,1347240
-LUKE,but he didnt know she was here look will you just find a way back into the detention block,"01:11:15,150","01:11:18,440", DEATH STAR ,1353590
-HAN,im not going anywhere,"01:11:18,520","01:11:20,980", DEATH STAR ,1359500
-LUKE,theyre going to execute her look a few minutes ago you said you didnt want to just wait here to be captured now all you want to do is stay,"01:11:21,070","01:11:24,660", DEATH STAR ,1365730
-HAN,marching into the detention area is not what i had in mind,"01:11:24,740","01:11:27,830", DEATH STAR ,1372570
-LUKE,but theyre going to kill her,"01:11:27,910","01:11:30,740", DEATH STAR ,1378650
-HAN,uh had a slight weapons malfunction but uh everythings perfectly all right now were fine were all fine here now thank you how are you,"01:15:28,320","01:15:33,990", DETENTION AREA,1862310
-INTERCOM VOICE,were sending a squad up,"01:15:34,070","01:15:36,740", DETENTION AREA,1870810
-HAN,uh uh negative we had a reactor leak here now give us a few minutes to lock it down large leak very dangerous,"01:15:37,740","01:15:44,920", DETENTION AREA,1882660
-INTERCOM VOICE,who is this whats your operating number,"01:15:45,000","01:15:47,580", DETENTION AREA,1892580
-HAN,boring conversation anyway,"01:15:50,000","01:15:53,470", DETENTION AREA,1903470
-LUKE,what oh the uniform im luke skywalker im here to rescue you,"01:16:13,940","01:16:16,030", DEATH STAR ,1949970
-TARKIN,the jedi are extinct their fire has gone out of the universe you my friend are all thats left of their religion,"01:16:45,810","01:16:48,400", DEATH STAR ,2014210
-INTERCOM VOICE,governor tarkin we have an emergency alert in detention block a atwenty three,"01:16:50,480","01:16:53,980", DEATH STAR ,2024460
-TARKIN,the princess put all sections on alert,"01:16:54,650","01:16:57,200", DEATH STAR ,2031850
-VADER,obiwan is here the force is with him,"01:16:57,280","01:17:00,990", DEATH STAR ,2038270
-TARKIN,if youre right he must not be allowed to escape,"01:17:01,070","01:17:03,910", DEATH STAR ,2044980
-VADER,escape is not his plan i must face him alone,"01:17:03,990","01:17:07,500", DEATH STAR ,2051490
-THREEPIO,i said all systems have been alerted to your presence sir the main entrance seems to be the only way in or out all other information on your level is restricted,"01:17:57,420","01:18:02,300", DEATH STAR ,2159720
-TROOPER VOICE,open up in there,"01:18:02,390","01:18:04,970", DEATH STAR ,2167360
-THREEPIO,oh no,"01:18:05,930","01:18:07,640", DEATH STAR ,2173570
-LUKE,there isnt any other way out,"01:18:07,720","01:18:09,350", DEATH STAR ,2177070
-HAN,i cant hold them off forever now what,"01:18:14,900","01:18:17,110", DEATH STAR ,2192010
-LEIA,this is some rescue when you came in here didnt you have a plan for getting out,"01:18:17,190","01:18:20,740", DEATH STAR ,2197930
-HAN,hes the brains sweetheart,"01:18:20,820","01:18:22,870", DEATH STAR ,2203690
-LUKE,well i didnt,"01:18:22,950","01:18:24,700", DEATH STAR ,2207650
-HAN,what the hell are you doing,"01:18:25,830","01:18:29,370", DEATH STAR ,2215200
-HAN,get in there you big furry oaf i dont care what you smell get in there and dont worry about it,"01:18:40,840","01:18:49,600", DEATH STAR ,2250440
-HAN,wonderful girl either im going to kill her or im beginning to like her get in there,"01:18:51,600","01:19:01,900", DEATH STAR ,2273500
-HAN,oh the garbage chute was a really wonderful idea what an incredible smell youve discovered lets get out of here get away from there,"01:19:14,580","01:19:27,810", DEATH STAR ,2322390
-HAN,absolutely your worship look i had everything under control until you led us down here you know its not going to take them long to figure out what happened to us,"01:19:41,490","01:19:46,870", DEATH STAR ,2368360
-LEIA,it could be worse,"01:19:46,950","01:19:48,240", DEATH STAR ,2375190
-HAN,its worse,"01:19:52,790","01:19:54,080", DEATH STAR ,2386870
-LUKE,theres something alive in here,"01:19:54,160","01:19:57,250", DEATH STAR ,2391410
-THREEPIO,oh all this excitement has overrun the circuits of my counterpart here if you dont mind id like to take him down to maintenance,"01:23:01,020","01:23:04,150", DEATH STAR ,2765170
-TROOPER,all right,"01:23:04,230","01:23:05,810", DEATH STAR ,2770040
-LUKE,where could he be threepio threepio will you come in,"01:23:25,080","01:23:30,210", DEATH STAR ,2815290
-THREEPIO,they arent here something must have happened to them see if theyve been captured,"01:23:30,960","01:23:35,510", DEATH STAR ,2826470
-THREEPIO,listen to them theyre dying artoo curse my metal body i wasnt fast enough its all my fault my poor master,"01:24:44,960","01:24:50,340", DEATH STAR ,2975300
-LEIA,listen i dont know who you are or where you came from but from now on you do as i tell you okay,"01:26:05,910","01:26:08,750", DEATH STAR ,3134660
-HAN,look your worshipfulness lets get one thing straight i take orders from one person me,"01:26:09,670","01:26:15,340", DEATH STAR ,3145010
-LEIA,its a wonder youre still alive,"01:26:16,050","01:26:17,970", DEATH STAR ,3154020
-LEIA,will somebody get this big walking carpet out of my way,"01:26:18,050","01:26:21,260", DEATH STAR ,3159310
-HAN,no reward is worth this,"01:26:21,340","01:26:23,640", DEATH STAR ,3164980
-FIRST TROOPER,do you know whats going on,"01:26:39,110","01:26:42,410", DEATH STAR ,3201520
-LUKE,what good will it do us if he gets himself killed come on,"01:27:27,120","01:27:34,750", DEATH STAR ,3301870
-LUKE,i think we took a wrong turn,"01:27:59,650","01:28:01,650", DEATH STAR ,3361300
-LEIA,theres no lock,"01:28:06,620","01:28:07,530", DEATH STAR ,3374150
-LUKE,that oughta hold it for a while,"01:28:11,620","01:28:14,540", DEATH STAR ,3386160
-THREEPIO,where could they be,"01:29:38,960","01:29:41,000", DEATH STAR ,3559960
-TROOPER,close the blast doors,"01:29:44,710","01:29:46,630", DEATH STAR ,3571340
-TROOPER,open the blast doors open the blast doors,"01:29:53,760","01:29:56,230", DEATH STAR ,3589990
-VADER,ive been waiting for you obiwan we meet again at last the circle is now complete,"01:30:14,580","01:30:21,830", DEATH STAR ,3636410
-VADER,when i left you i was but the learner now i am the master,"01:30:21,920","01:30:26,590", DEATH STAR ,3648510
-BEN,only a master of evil darth,"01:30:26,670","01:30:28,670", DEATH STAR ,3655340
-VADER,your powers are weak old man,"01:30:48,990","01:30:51,280", DEATH STAR ,3700270
-BEN,you cant win darth if you strike me down i shall become more powerful than you can possibly imagine,"01:30:51,360","01:30:58,500", DEATH STAR ,3709860
-HAN,didnt we just leave this party,"01:31:05,960","01:31:35,370", DEATH STAR ,3761330
-LEIA,you neednt worry about your reward if money is all that you love then thats what youll receive,"01:37:19,840","01:37:25,050", MILLENNIUM FALCON ,4484890
-LEIA,your friend is quite a mercenary i wonder if he really cares about anything or anyone,"01:37:28,220","01:37:33,470", MILLENNIUM FALCON ,4501690
-LUKE,i care,"01:37:34,560","01:37:36,060", MILLENNIUM FALCON ,4510620
-LUKE,so what do you think of her han,"01:37:42,690","01:37:46,320", MILLENNIUM FALCON ,4529010
-HAN,im trying not to kid,"01:37:46,400","01:37:48,280", MILLENNIUM FALCON ,4534680
-HAN,still shes got a lot of spirit i dont know what do you think do you think a princess and a guy like me,"01:37:53,790","01:38:01,920", MILLENNIUM FALCON ,4555710
-WILLARD,youre safe we had feared the worst,"01:38:50,260","01:38:53,470", MASSASSI ,4663730
-DODONNA,the battle station is heavily shielded and carries a firepower greater than half the star fleet its defenses are designed around a direct large scale assault a small oneman fighter should be able to penetrate the outer defense,"01:39:24,540","01:39:53,740", MASSASSI ,4758280
-GOLD LEADER,pardon me for asking sir but what good are snub fighters going to be against that,"01:39:55,490","01:39:59,290", MASSASSI ,4794780
-DODONNA,well the empire doesnt consider a small oneman fighter to be any threat or theyd have a tighter defense an analysis of the plans provided by princess leia has demonstrated a weakness in the battle station,"01:39:59,370","01:40:13,340", MASSASSI ,4812710
-DODONNA,the approach will not be easy you are required to maneuver straight down this trench and skim the surface to this point the target area is only two meters wide its a small thermal exhaust port right below the main port the shaft leads directly to the reactor system a precise hit will start a chain reaction which should destroy the station,"01:40:14,180","01:40:38,990", MASSASSI ,4853170
-DODONNA,only a precise hit will set up a chain reaction the shaft is ray shielded so youll have to use proton torpedoes,"01:40:39,080","01:40:45,870", MASSASSI ,4884950
-WEDGE,thats impossible even for a computer,"01:40:45,960","01:40:48,130", MASSASSI ,4894090
-LUKE,its not impossible i used to bulls eye womp rats in my tsixteen back home theyre not much bigger than two meters,"01:40:48,210","01:40:54,510", MASSASSI ,4902720
-DODONNA,man your ships and may the force be with you,"01:40:54,590","01:40:57,760", MASSASSI ,4912350
-THREEPIO,you must repair him sir if any of my circuits or gears will help ill gladly donate them,"01:58:08,330","01:58:24,140", MASSASSI OUTPOST ,6992470
-LUKE,hell be all right,"01:58:22,140","01:58:24,140", MASSASSI OUTPOST ,7006280
+THREEPIO,did you hear that theyve shut down the main reactor well be destroyed for sure this is madness,"00:02:47,620","00:02:54,170", REBEL BLOCKADE RUNNER ,6550
+THREEPIO,were doomed,"00:03:04,180","00:03:05,640", REBEL BLOCKADE RUNNER ,1460
+THREEPIO,therell be no escape for the princess this time,"00:03:08,020","00:03:10,270", REBEL BLOCKADE RUNNER ,2250
+THREEPIO,whats that,"00:03:13,610","00:03:15,070", REBEL BLOCKADE RUNNER ,1460
+REBEL OFFICER,we intercepted no transmissions aaah this is a consular ship were on a diplomatic mission,"00:05:53,180","00:05:57,190", REBEL BLOCKADE RUNNER ,4010
+VADER,if this is a consular ship were is the ambassador,"00:05:57,270","00:06:01,900", REBEL BLOCKADE RUNNER ,4630
+VADER,commander tear this ship apart until youve found those plans and bring me the ambassador i want her alive,"00:06:05,320","00:06:11,910", REBEL BLOCKADE RUNNER ,6590
+TROOPER,there she is set for stun,"00:06:24,380","00:06:25,920", REBEL BLOCKADE RUNNER ,1540
+TROOPER,shell be all right inform lord vader we have a prisoner,"00:06:31,640","00:06:35,310", REBEL BLOCKADE RUNNER ,3670
+THREEPIO,hey youre not permitted in there its restricted youll be deactivated for sure,"00:06:36,890","00:06:41,440", REBEL BLOCKADE RUNNER ,4550
+THREEPIO,dont call me a mindless philosopher you overweight glob of grease now come out before somebody sees you,"00:06:43,400","00:06:47,780", REBEL BLOCKADE RUNNER ,4380
+THREEPIO,secret mission what plans what are you talking about im not getting in there,"00:06:50,160","00:06:55,080", REBEL BLOCKADE RUNNER ,4920
+THREEPIO,im going to regret this,"00:06:58,410","00:07:00,670", REBEL BLOCKADE RUNNER ,2260
+CAPTAIN,hold your fire there are no life forms it must have been short circuited,"00:07:11,220","00:07:12,550", IMPERIAL STARDESTROYER,1330
+THREEPIO,thats funny the damage doesnt look as bad from out here,"00:07:12,640","00:07:15,970", LIFEPOD,3330
+THREEPIO,are you sure this things safe,"00:07:18,310","00:07:20,310", LIFEPOD,2000
+THREEPIO,what makes you think there are settlements over there,"00:09:39,700","00:09:42,120", TATOOINE ,2420
+THREEPIO,dont get technical with me,"00:09:43,870","00:09:45,620", TATOOINE ,1750
+THREEPIO,what mission what are you talking about ive had just about enough of you go that way youll be malfunctioning within a day you nearsighted scrap pile,"00:09:46,920","00:09:58,340", TATOOINE ,11420
+THREEPIO,and dont let me catch you following me begging for help because you wont get it,"00:09:59,050","00:10:02,680", TATOOINE ,3630
+THREEPIO,no more adventures im not going that way,"00:10:17,150","00:10:20,950", TATOOINE ,3800
+THREEPIO,that malfunctioning little twerp this is all his fault he tricked me into going this way but hell do no better,"00:10:54,860","00:11:03,080", TATOOINE ,8220
+THREEPIO,wait whats that a transport im saved,"00:11:06,330","00:11:11,290", TATOOINE ,4960
+THREEPIO,over here help please help,"00:11:11,380","00:11:19,380", TATOOINE ,8000
+LUKE,obiwan kenobi i wonder if he means old ben kenobi,"00:22:13,790","00:22:16,960", LARS HOMESTEAD ,3170
+THREEPIO,i beg your pardon sir but do you know what hes talking about,"00:22:17,040","00:22:19,710", LARS HOMESTEAD ,2670
+LUKE,well i dont know anyone named obi wan but old ben lives out beyond the dune sea hes kind of a strange old hermit,"00:22:19,790","00:22:27,090", LARS HOMESTEAD ,7300
+LUKE,i wonder who she is it sounds like shes in trouble id better play back the whole thing,"00:22:28,300","00:22:33,220", LARS HOMESTEAD ,4920
+THREEPIO,he says the restraining bolt has short circuited his recording system he suggests that if you remove the bolt he might be able to play back the entire recording,"00:22:36,940","00:22:46,030", LARS HOMESTEAD ,9090
+LUKE,hm oh yeah well i guess youre too small to run away on me if i take this off okay,"00:22:46,110","00:22:51,830", LARS HOMESTEAD ,5720
+LUKE,there you go,"00:22:51,910","00:22:57,620", LARS HOMESTEAD ,5710
+LUKE,well wait a minute whered she go bring her back play back the entire message,"00:22:59,170","00:23:02,500", LARS HOMESTEAD ,3330
+THREEPIO,what message the one youre carrying inside your rusty innards,"00:23:02,590","00:23:08,260", LARS HOMESTEAD ,5670
+LUKE,all right ill be right there aunt beru,"00:23:10,760","00:23:13,010", LARS HOMESTEAD ,2250
+THREEPIO,im sorry sir but he appears to have picked up a slight flutter,"00:23:13,100","00:23:16,230", LARS HOMESTEAD ,3130
+LUKE,well see what you can do with him ill be right back,"00:23:16,310","00:23:19,770", LARS HOMESTEAD ,3460
+THREEPIO,just you reconsider playing that message for him,"00:23:22,440","00:23:25,280", LARS HOMESTEAD ,2840
+THREEPIO,no i dont think he likes you at all,"00:23:26,400","00:23:28,240", LARS HOMESTEAD ,1840
+THREEPIO,no i dont like you either,"00:23:28,860","00:23:31,280", LARS HOMESTEAD ,2420
+LUKE,you know i think that r2 unit we bought might have been stolen,"00:23:40,000","00:23:43,840", LARS HOMESTEAD ,3840
+LUKE,well i stumbled across a recording while i was cleaning him he says he belongs to someone called obiwan kenobi,"00:23:46,960","00:23:49,470", LARS HOMESTEAD ,2510
+LUKE,i thought he might have meant old ben do you know what hes talking about well i wonder if hes related to ben,"00:23:52,260","00:23:59,640", LARS HOMESTEAD ,7380
+OWEN,that old mans just a crazy old wizard tomorrow i want you to take that r2 unit into anchorhead and have its memory flushed thatll be the end of it it belongs to us now,"00:23:59,730","00:24:08,690", LARS HOMESTEAD ,8960
+LUKE,but what if this obiwan comes looking for him,"00:24:10,400","00:24:13,070", LARS HOMESTEAD ,2670
+OWEN,he wont i dont think he exists any more he died about the same time as your father,"00:24:13,160","00:24:19,250", LARS HOMESTEAD ,6090
+LUKE,he knew my father,"00:24:19,330","00:24:22,460", LARS HOMESTEAD ,3130
+OWEN,i told you to forget it your only concern is to prepare the new droids for tomorrow in the morning i want them on the south ridge working out those condensers,"00:24:23,580","00:24:30,630", LARS HOMESTEAD ,7050
+LUKE,yes sir i think those new droids are going to work out fine in fact i uh was also thinking about our agreement about my staying on another season and if these new droids do work out i want to transmit my application to the academy this year,"00:24:31,300","00:24:47,690", LARS HOMESTEAD ,16390
+OWEN,you mean the next semester before harvest,"00:24:48,610","00:24:50,530", LARS HOMESTEAD ,1920
+LUKE,sure therere more than enough droids,"00:24:50,610","00:24:52,450", LARS HOMESTEAD ,1840
+OWEN,harvest is when i need you the most only one more season this year well make enough on the harvest so ill be able to hire some more hands and then you can go to the academy next year,"00:24:52,530","00:25:02,330", LARS HOMESTEAD ,9800
+OWEN,you must understand i need you here luke,"00:25:03,250","00:25:05,290", LARS HOMESTEAD ,2040
+LUKE,but its a whole nother year,"00:25:05,380","00:25:08,300", LARS HOMESTEAD ,2920
+OWEN,ill make it up to him next year i promise,"00:25:21,180","00:25:23,600", LARS HOMESTEAD ,2420
+AUNT BERU,lukes just not a farmer owen he has too much of his father in him,"00:25:25,310","00:25:29,230", LARS HOMESTEAD ,3920
+OWEN,thats what im afraid of,"00:25:30,030","00:25:31,530", LARS HOMESTEAD ,1500
+LUKE,what are you doing hiding there,"00:26:20,700","00:26:23,870", LARS HOMESTEAD ,3170
+THREEPIO,it wasnt my fault sir please dont deactivate me i told him not to go but hes faulty malfunctioning kept babbling on about his mission,"00:26:23,950","00:26:31,800", LARS HOMESTEAD ,7850
+THREEPIO,that r2 unit has always been a problem these astrodroids are getting quite out of hand even i cant understand their logic at times,"00:26:42,760","00:26:47,730", TATOOINE ,4970
+LUKE,how could i be so stupid hes nowhere in sight blast it,"00:26:47,810","00:26:51,570", TATOOINE ,3760
+THREEPIO,pardon me sir but couldnt we go after him,"00:26:51,650","00:26:54,280", TATOOINE ,2630
+LUKE,its too dangerous with all the sandpeople around well have to wait until morning,"00:26:54,360","00:26:57,570", TATOOINE ,3210
+OWEN,luke im shutting the power down for the night,"00:26:57,650","00:26:59,660", TATOOINE ,2010
+LUKE,all right ill be there in a few minutes boy am i gonna get it,"00:26:59,740","00:27:03,870", TATOOINE ,4130
+LUKE,you know that little droid is going to cause me a lot of trouble,"00:27:05,000","00:27:06,960", TATOOINE ,1960
+THREEPIO,oh he excels at that sir,"00:27:07,040","00:27:09,000", TATOOINE ,1960
+OWEN,have you seen luke this morning,"00:27:31,690","00:27:33,610", LARS HOMESTEAD ,1920
+AUNT BERU,he said he had some things to do before he started today so he left early,"00:27:33,690","00:27:37,110", LARS HOMESTEAD ,3420
+OWEN,uh did he take those two new droids with him,"00:27:37,190","00:27:40,280", LARS HOMESTEAD ,3090
+LUKE,there are two banthas down there but i dont see any wait a second theyre sandpeople all right i can see one of them now,"00:28:50,480","00:28:55,230", TATOOINE ,4750
+BEN,hello there come here my little friend dont be afraid,"00:30:09,850","00:30:16,730", TATOOINE ,6880
+BEN,dont worry hell be all right,"00:30:19,440","00:30:21,190", TATOOINE ,1750
+BEN,rest easy son youve had a busy day youre fortunate youre still in one piece,"00:30:30,740","00:30:33,700", TATOOINE ,2960
+LUKE,ben ben kenobi boy am i glad to see you,"00:30:36,960","00:30:41,250", TATOOINE ,4290
+BEN,the jundland wastes are not to be traveled lightly tell me young luke what brings you out this far,"00:30:41,340","00:30:51,100", TATOOINE ,9760
+LUKE,oh this little droid i think hes searching for his former master ive never seen such devotion in a droid before there seems to be no stopping him he claims to be the property of an obiwan kenobi is he a relative of yours do you know who hes talking about,"00:30:51,850","00:31:07,150", TATOOINE ,15300
+BEN,obiwan kenobi obiwan now thats a name i havent heard in a long time a long time,"00:31:08,700","00:31:21,750", TATOOINE ,13050
+LUKE,i think my uncle knew him he said he was dead,"00:31:22,920","00:31:25,840", TATOOINE ,2920
+BEN,oh hes not dead not not yet,"00:31:25,920","00:31:28,930", TATOOINE ,3010
+BEN,well of course of course i know him hes me i havent gone by the name obiwan since oh before you were born,"00:31:32,100","00:31:42,190", TATOOINE ,10090
+LUKE,then the droid does belong to you,"00:31:42,270","00:31:43,900", TATOOINE ,1630
+BEN,dont seem to remember ever owning a droid very interesting,"00:31:43,980","00:31:49,990", TATOOINE ,6010
+BEN,i think we better get indoors the sandpeople are easily startled but they will soon be back and in greater numbers,"00:31:52,030","00:32:00,250", TATOOINE ,8220
+THREEPIO,where am i i must have taken a bad step,"00:32:13,850","00:32:16,520", TATOOINE ,2670
+LUKE,can you stand weve got to get out of here before the sandpeople return,"00:32:17,980","00:32:21,230", TATOOINE ,3250
+THREEPIO,i dont think i can make it you go on master luke theres no sense in you risking yourself on my account im done for,"00:32:21,310","00:32:28,190", TATOOINE ,6880
+LUKE,no youre not what kind of talk is that,"00:32:29,240","00:32:31,160", TATOOINE ,1920
+BEN,quickly son theyre on the move,"00:32:31,240","00:32:33,160", TATOOINE ,1920
+LUKE,no my father didnt fight in the wars he was a navigator on a spice freighter,"00:32:38,450","00:32:41,830", KENOBI'S DWELLING,3380
+BEN,thats what your uncle told you he didnt hold with your fathers ideals thought he should have stayed here and not gotten involved,"00:32:41,920","00:32:48,880", KENOBI'S DWELLING,6960
+LUKE,you fought in the clone wars,"00:32:49,590","00:32:51,930", KENOBI'S DWELLING,2340
+BEN,yes i was once a jedi knight the same as your father,"00:32:52,010","00:32:55,680", KENOBI'S DWELLING,3670
+LUKE,i wish id known him,"00:32:58,220","00:32:59,980", KENOBI'S DWELLING,1760
+BEN,he was the best starpilot in the galaxy and a cunning warrior i understand youve become quite a good pilot yourself and he was a good friend which reminds me,"00:33:00,060","00:33:14,410", KENOBI'S DWELLING,14350
+BEN,i have something here for you your father wanted you to have this when you were old enough but your uncle wouldnt allow it he feared you might follow old obiwan on some damnedfool idealistic crusade like your father did,"00:33:15,620","00:33:31,550", KENOBI'S DWELLING,15930
+THREEPIO,sir if youll not be needing me ill close down for awhile,"00:33:31,630","00:33:34,590", KENOBI'S DWELLING,2960
+LUKE,sure go ahead,"00:33:34,680","00:33:36,260", KENOBI'S DWELLING,1580
+BEN,your fathers lightsaber this is the weapon of a jedi knight not as clumsy or as random as a blaster,"00:33:43,100","00:33:48,650", KENOBI'S DWELLING,5550
+BEN,an elegant weapon for a more civilized time for over a thousand generations the jedi knights were the guardians of peace and justice in the old republic before the dark times before the empire,"00:33:49,650","00:34:07,920", KENOBI'S DWELLING,18270
+LUKE,how did my father die,"00:34:10,920","00:34:12,880", KENOBI'S DWELLING,1960
+BEN,a young jedi named darth vader who was a pupil of mine until he turned to evil helped the empire hunt down and destroy the jedi knights he betrayed and murdered your father now the jedi are all but extinct vader was seduced by the dark side of the force,"00:34:15,340","00:34:37,910", KENOBI'S DWELLING,22570
+LUKE,the force,"00:34:37,990","00:34:39,580", KENOBI'S DWELLING,1590
+BEN,well the force is what gives a jedi his power its an energy field created by all living things it surrounds us and penetrates us it binds the galaxy together,"00:34:40,870","00:34:51,340", KENOBI'S DWELLING,10470
+BEN,now lets see if we cant figure out what you are my little friend and where you come from,"00:34:58,390","00:35:04,310", KENOBI'S DWELLING,5920
+LUKE,i saw part of the message he was,"00:35:04,390","00:35:07,560", KENOBI'S DWELLING,3170
+LEIA,general kenobi years ago you served my father in the clone wars now he begs you to help him in his struggle against the empire i regret that i am unable to present my fathers request to you in person but my ship has fallen under attack and im afraid my mission to bring you to alderaan has failed i have placed information vital to the survival of the rebellion into the memory systems of this r2 unit my father will know how to retrieve it you must see this droid safely delivered to him on alderaan this is our most desperate hour help me obiwan kenobi youre my only hope,"00:35:12,070","00:35:40,970", KENOBI'S DWELLING,28900
+BEN,you must learn the ways of the force if youre to come with me to alderaan,"00:35:55,900","00:35:59,990", KENOBI'S DWELLING,4090
+LUKE,alderaan im not going to alderaan ive got to go home its late im in for it as it is,"00:36:00,070","00:36:05,950", KENOBI'S DWELLING,5880
+BEN,i need your help luke she needs your help im getting too old for this sort of thing,"00:36:06,040","00:36:11,710", KENOBI'S DWELLING,5670
+LUKE,i cant get involved ive got work to do its not that i like the empire i hate it but theres nothing i can do about it right now its such a long way from here,"00:36:16,300","00:36:29,980", KENOBI'S DWELLING,13680
+LUKE,look i can take you as far as anchorhead you can get a transport there to mos eisley or wherever youre going,"00:36:45,780","00:36:49,200", KENOBI'S DWELLING,3420
+BEN,you must do what you feel is right of course,"00:36:50,410","00:36:53,420", KENOBI'S DWELLING,3010
+TAGGE,until this battle station is fully operational we are vulnerable the rebel alliance is too well equipped theyre more dangerous than you realize,"00:37:00,970","00:37:08,850", DEATH STAR ,7880
+MOTTI,dangerous to your starfleet commander not to this battle station,"00:37:08,930","00:37:13,650", DEATH STAR ,4720
+TAGGE,the rebellion will continue to gain a support in the imperial senate as long as,"00:37:13,730","00:37:17,360", DEATH STAR ,3630
+TARKIN,the imperial senate will no longer be of any concern to us ive just received word that the emperor has dissolved the council permanently the last remnants of the old republic have been swept away,"00:37:17,440","00:37:29,790", DEATH STAR ,12350
+TAGGE,thats impossible how will the emperor maintain control without the bureaucracy,"00:37:30,450","00:37:34,250", DEATH STAR ,3800
+TARKIN,the regional governors now have direct control over territories fear will keep the local systems in line fear of this battle station,"00:37:34,330","00:37:45,470", DEATH STAR ,11140
+TAGGE,and what of the rebellion if the rebels have obtained a complete technical readout of this station it is possible however unlikely that they might find a weakness and exploit it,"00:37:45,550","00:37:54,310", DEATH STAR ,8760
+VADER,the plans you refer to will soon be back in our hands,"00:37:55,060","00:37:58,650", DEATH STAR ,3590
+MOTTI,any attack made by the rebels against this station would be a useless gesture no matter what technical data theyve obtained this station is now the ultimate power in the universe i suggest we use it,"00:37:58,730","00:38:11,250", DEATH STAR ,12520
+VADER,dont be too proud of this technological terror youve constructed the ability to destroy a planet is insignificant next to the power of the force,"00:38:11,330","00:38:21,000", DEATH STAR ,9670
+MOTTI,dont try to frighten us with your sorcerers ways lord vader your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes or given you clairvoyance enough to find the rebels hidden fort,"00:38:21,090","00:38:34,350", DEATH STAR ,13260
+VADER,i find your lack of faith disturbing,"00:38:41,570","00:38:44,190", DEATH STAR ,2620
+TARKIN,enough of this vader release him,"00:38:45,320","00:38:48,030", DEATH STAR ,2710
+VADER,as you wish,"00:38:48,120","00:38:49,580", DEATH STAR ,1460
+TARKIN,this bickering is pointless lord vader will provide us with the location of the rebel fortress by the time this station is operational we will then crush the rebellion with one swift stroke,"00:38:51,790","00:39:04,760", DEATH STAR ,12970
+LUKE,it looks like sandpeople did this all right look here are gaffi sticks bantha tracks its just i never heard of them hitting anything this big before,"00:39:12,720","00:39:18,730", TATOOINE ,6010
+BEN,they didnt but we are meant to think they did these tracks are side by side sandpeople always ride single file to hide there numbers,"00:39:18,810","00:39:28,410", TATOOINE ,9600
+LUKE,these are the same jawas that sold us artoo and threepio,"00:39:28,490","00:39:31,370", TATOOINE ,2880
+BEN,and these blast points too accurate for sandpeople only imperial stormtroopers are so precise,"00:39:31,450","00:39:40,250", TATOOINE ,8800
+LUKE,why would imperial troops want to slaughter jawas,"00:39:40,330","00:39:42,880", TATOOINE ,2550
+LUKE,if they traced the robots here they may have learned who they sold them to and that would lead them home,"00:39:48,300","00:39:53,390", TATOOINE ,5090
+BEN,wait luke its too dangerous,"00:39:53,470","00:39:56,850", TATOOINE ,3380
+LUKE,uncle owen aunt beru uncle owen,"00:40:21,120","00:40:26,170", TATOOINE ,5050
+VADER,and now your highness we will discuss the location of your hidden rebel base,"00:41:16,470","00:41:22,060", DEATH STAR ,5590
+BEN,theres nothing you could have done luke had you been there youd have been killed too and the droids would be in the hands of the empire,"00:42:05,060","00:42:12,950", TATOOINE ,7890
+LUKE,i want to come with you to alderaan theres nothing here for me now i want to learn the ways of the force and become a jedi like my father,"00:42:14,740","00:42:22,580", TATOOINE ,7840
+BEN,mos eisley spaceport you will never find a more wretched hive of scum and villainy we must be cautious,"00:42:38,300","00:42:47,980", TATOOINE ,9680
+TROOPER,how long have you had these droids,"00:43:29,310","00:43:31,230", TATOOINE ,1920
+TROOPER,let me see your identification,"00:43:37,360","00:43:39,870", TATOOINE ,2510
+BEN,you dont need to see his identification,"00:43:40,490","00:43:42,330", TATOOINE ,1840
+BEN,these are not the droids your looking for,"00:43:45,040","00:43:47,000", TATOOINE ,1960
+BEN,he can go about his business,"00:43:50,630","00:43:53,880", TATOOINE ,3250
+BEN,well most of the best freighter pilots can be found here only watch your step this place can be a little rough,"00:44:37,460","00:44:41,300", TATOOINE ,3840
+LUKE,im ready for anything,"00:44:41,390","00:44:43,140", TATOOINE ,1750
+THREEPIO,come along artoo,"00:44:47,060","00:44:48,390", TATOOINE ,1330
+BARTENDER,we dont serve their kind here,"00:45:38,940","00:45:42,450", TATOOINE ,3510
+HAN,ive outrun imperial starships not the local bulkcruisers mind you im talking about the big corellian ships now shes fast enough for you old man whats the cargo,"00:48:16,020","00:48:24,110", TATOOINE ,8090
+BEN,only passengers myself the boy two droids and no questions asked,"00:48:25,150","00:48:34,080", TATOOINE ,8930
+HAN,what is it some kind of local trouble,"00:48:35,290","00:48:37,160", TATOOINE ,1870
+BEN,lets just say wed like to avoid any imperial entanglements,"00:48:37,250","00:48:42,460", TATOOINE ,5210
+HAN,well thats the trick isnt it and its going to cost you something extra ten thousand in advance,"00:48:43,880","00:48:52,260", TATOOINE ,8380
+LUKE,ten thousand we could almost buy our own ship for that,"00:48:53,970","00:48:59,140", TATOOINE ,5170
+HAN,but whos going to fly it kid you,"00:48:59,230","00:49:01,480", TATOOINE ,2250
+LUKE,you bet i could im not such a bad pilot myself we dont have to sit here and listen,"00:49:01,560","00:49:06,150", TATOOINE ,4590
+BEN,we havent that much with us but we could pay you two thousand now plus fifteen when we reach alderaan,"00:49:06,230","00:49:12,490", TATOOINE ,6260
+HAN,seventeen huh,"00:49:13,240","00:49:14,450", TATOOINE ,1210
+HAN,okay you guys got yourself a ship well leave as soon as youre ready docking bay ninetyfour,"00:49:18,120","00:49:24,290", TATOOINE ,6170
+HAN,seventeen thousand those guys must really be desperate this could really save my neck get back to the ship and get her ready,"00:49:48,400","00:49:51,860", TATOOINE ,3460
+BEN,youll have to sell your speeder,"00:49:52,950","00:49:54,990", TATOOINE ,2040
+LUKE,thats okay im never coming back to this planet again,"00:49:55,070","00:49:57,120", TATOOINE ,2050
+GREEDO,going somewhere solo,"00:49:58,490","00:50:00,540", MOS EISLEY ,2050
+HAN,yes greedo as a matter of fact i was just going to see your boss tell jabba that ive got his money,"00:50:00,790","00:50:06,130", MOS EISLEY ,5340
+GREEDO,its too late you should have paid him when you had the chance jabbas put a price on your head so large that every bounty hunter in the galaxy will be looking for you im lucky i found you first,"00:50:06,210","00:50:19,310", MOS EISLEY ,13100
+HAN,yeah but this time i got the money,"00:50:19,390","00:50:21,600", MOS EISLEY ,2210
+GREEDO,if you give it to me i might forget i found you,"00:50:21,680","00:50:25,270", MOS EISLEY ,3590
+HAN,i dont have it with me tell jabba,"00:50:25,350","00:50:28,520", MOS EISLEY ,3170
+GREEDO,jabbas through with you he has no time for smugglers who drop their shipments at the first sign of an imperial cruiser,"00:50:28,570","00:50:38,200", MOS EISLEY ,9630
+HAN,even i get boarded sometimes do you think i had a choice,"00:50:36,740","00:50:40,490", MOS EISLEY ,3750
+GREEDO,you can tell that to jabba he may only take your ship,"00:50:40,580","00:50:44,710", MOS EISLEY ,4130
+HAN,over my dead body,"00:50:44,790","00:50:46,920", MOS EISLEY ,2130
+GREEDO,thats the idea ive been looking forward to killing you for a long time,"00:50:46,960","00:50:52,210", MOS EISLEY ,5250
+HAN,yes ill bet you have,"00:50:52,420","00:50:53,760", MOS EISLEY ,1340
+HAN,sorry about the mess,"00:51:07,810","00:51:09,440", MOS EISLEY ,1630
+VADER,her resistance to the mind probe is considerable it will be some time before we can extract any information from her,"00:51:18,820","00:51:25,370", DEATH STAR ,6550
+IMPERIAL OFFICER,the final checkout is complete all systems are operational what course shall we set,"00:51:25,460","00:51:31,380", DEATH STAR ,5920
+TARKIN,perhaps she would respond to an alternative form of persuasion,"00:51:31,460","00:51:34,880", DEATH STAR ,3420
+VADER,what do you mean,"00:51:34,970","00:51:36,590", DEATH STAR ,1620
+TARKIN,i think it is time we demonstrate the full power of this station,"00:51:36,680","00:51:39,640", DEATH STAR ,2960
+TARKIN,set your course for princess leias home planet of alderaan,"00:51:39,720","00:51:42,220", DEATH STAR ,2500
+TROOPER,all right check that side of the street its secure move on to the next door,"00:51:53,690","00:51:56,320", TATOOINE ,2630
+THREEPIO,i would much rather have gone with master luke than stay here with you i dont know what all the trouble is about but im sure it must be your fault,"00:52:03,160","00:52:10,080", TATOOINE ,6920
+THREEPIO,you watch your language,"00:52:10,830","00:52:12,420", TATOOINE ,1590
+LUKE,he says its the best he can do since the xp38 came out theyre just not in demand,"00:52:14,460","00:52:21,430", TATOOINE ,6970
+BEN,it will be enough,"00:52:21,510","00:52:23,510", TATOOINE ,2000
+HAN,ive been waiting for you jabba,"00:52:49,500","00:52:51,040", DOCKING BAY 94 ,1540
+JABBA,han my boy there are times when you disappoint me why havent you paid me and why did you have to fry poor greedo like that after all weve been through together,"00:52:57,710","00:53:07,100", DOCKING BAY 94 ,9390
+JABBA,han han if only you hadnt had to dump that shipment of spice you understand i just cant make an exception where would i be if every pilot who smuggled for me dumped their shipment at the first sign of an imperial starship its not good business,"00:53:15,940","00:53:26,330", DOCKING BAY 94 ,10390
+HAN,you know even i get boarded sometimes jabba i had no choice but ive got a charter now and i can pay you back plus a little extra i just need some more time,"00:53:26,370","00:53:39,510", DOCKING BAY 94 ,13140
+JABBA,put your blasters away han my boy im only doing this because youre the best and i need you so for an extra say twenty percent ill give you a little more time but this is it if you disappoint me again ill put a price on your head so large you wont be able to go near a civilized system for the rest of your short life,"00:53:39,590","00:54:00,990", DOCKING BAY 94 ,21400
+HAN,shell make point five beyond the speed of light she may not look like much but shes got it where it counts kid ive added some special modifications myself,"00:54:12,960","00:54:50,870", MOS EISLEY SPACEPORT ,37910
+HAN,were a little rushed so if youll hurry aboard well get out of here,"00:54:50,950","00:54:54,870", MOS EISLEY SPACEPORT ,3920
+THREEPIO,hello sir,"00:54:59,460","00:55:00,960", MOS EISLEY SPACEPORT ,1500
+TROOPER,which way,"00:55:09,890","00:55:11,140", TATOOINE ,1250
+TROOPER,all right men load your weapons,"00:55:13,140","00:55:15,140", TATOOINE ,2000
+TROOPER,stop that ship,"00:55:16,730","00:55:19,360", MOS EISLEY SPACEPORT ,2630
+HAN,it looks like an imperial cruiser our passengers must be hotter than i thought try and hold them off angle the deflector shield while i make the calculations for the jump to light speed,"00:55:58,230","00:56:01,860", MILLENNIUM FALCON ,3630
+HAN,stay sharp there are two more coming in theyre going to try to cut us off,"00:56:12,620","00:56:15,500", MILLENNIUM FALCON ,2880
+LUKE,why dont you outrun them i thought you said this thing was fast,"00:56:15,580","00:56:17,660", MILLENNIUM FALCON ,2080
+HAN,watch your mouth kid or youre going to find yourself floating home well be safe enough once we make the jump to hyperspace besides i know a few maneuvers well lose them,"00:56:17,750","00:56:25,090", MILLENNIUM FALCON ,7340
+HAN,heres where the fun begins,"00:56:29,180","00:56:31,220", MILLENNIUM FALCON ,2040
+BEN,how long before you can make the jump to light speed,"00:56:31,300","00:56:33,100", MILLENNIUM FALCON ,1800
+HAN,itll take a few moments to get the coordinates from the navicomputer,"00:56:33,180","00:56:36,100", MILLENNIUM FALCON ,2920
+LUKE,are you kidding at the rate theyre gaining,"00:56:36,180","00:56:37,770", MILLENNIUM FALCON ,1590
+HAN,traveling through hyperspace isnt like dusting crops boy without precise calculations we could fly right through a star or bounce too close to a supernova and thatd end your trip real quick wouldnt it,"00:56:37,850","00:56:47,150", MILLENNIUM FALCON ,9300
+HAN,were losing our deflector shield go strap yourself in im going to make the jump to light speed,"00:56:49,700","00:56:52,660", MILLENNIUM FALCON ,2960
+MOTTI,weve entered the alderaan system,"00:57:13,640","00:57:15,970", DEATH STAR ,2330
+LEIA,governor tarkin i should have expected to find you holding vaders leash i recognized your foul stench when i was brought on board,"00:57:16,970","00:57:24,690", DEATH STAR ,7720
+TARKIN,charming to the last you dont know how hard i found it signing the order to terminate your life,"00:57:26,320","00:57:32,820", DEATH STAR ,6500
+LEIA,i surprised you had the courage to take the responsibility yourself,"00:57:32,910","00:57:35,780", DEATH STAR ,2870
+TARKIN,princess leia before your execution i would like you to be my guest at a ceremony that will make this battle station operational no star system will dare oppose the emperor now,"00:57:35,870","00:57:47,340", DEATH STAR ,11470
+LEIA,the more you tighten your grip tarkin the more star systems will slip through your fingers,"00:57:48,010","00:57:52,930", DEATH STAR ,4920
+TARKIN,not after we demonstrate the power of this station in a way you have determined the choice of the planet thatll be destroyed first since you are reluctant to provide us with the location of the rebel base i have chosen to test this stations destructive power on your home planet of alderaan,"00:57:53,010","00:58:11,700", DEATH STAR ,18690
+LEIA,no alderaan is peaceful we have no weapons you cant possibly,"00:58:12,700","00:58:15,450", DEATH STAR ,2750
+TARKIN,you would prefer another target a military target then name the system,"00:58:15,530","00:58:20,200", DEATH STAR ,4670
+TARKIN,i grow tired of asking this so itll be the last time where is the rebel base,"00:58:22,080","00:58:28,210", DEATH STAR ,6130
+LEIA,dantooine,"00:58:31,760","00:58:33,380", DEATH STAR ,1620
+LEIA,theyre on dantooine,"00:58:34,050","00:58:35,840", DEATH STAR ,1790
+TARKIN,there you see lord vader she can be reasonable,"00:58:35,930","00:58:39,310", DEATH STAR ,3380
+TARKIN,continue with the operation you may fire when ready,"00:58:39,390","00:58:42,270", DEATH STAR ,2880
+TARKIN,youre far too trusting dantooine is too remote to make an effective demonstration but dont worry we will deal with your rebel friends soon enough,"00:58:44,600","00:58:51,740", DEATH STAR ,7140
+BEN,i felt a great disturbance in the force as if millions of voices suddenly cried out in terror and were suddenly silenced i fear something terrible has happened,"00:59:25,440","00:59:33,440", MILLENNIUM FALCON ,8000
+BEN,youd better get on with your exercises,"00:59:35,110","00:59:37,410", MILLENNIUM FALCON ,2300
+HAN,well you can forget your troubles with those imperial slugs i told you id outrun em,"00:59:39,950","00:59:44,450", MILLENNIUM FALCON ,4500
+HAN,dont everyone thank me at once,"00:59:48,420","00:59:50,500", MILLENNIUM FALCON ,2080
+HAN,anyway we should be at alderaan about ohtwohundred hours,"00:59:50,590","00:59:54,010", MILLENNIUM FALCON ,3420
+THREEPIO,now be careful artoo,"01:00:02,560","01:00:04,560", MILLENNIUM FALCON ,2000
+THREEPIO,he made a fair move screaming about it wont help you,"01:00:13,940","01:00:16,530", MILLENNIUM FALCON ,2590
+HAN,let him have it its not wise to upset a wookiee,"01:00:16,610","01:00:18,780", MILLENNIUM FALCON ,2170
+THREEPIO,but sir nobody worries about upsetting a droid,"01:00:18,860","01:00:21,240", MILLENNIUM FALCON ,2380
+HAN,thats cause droids dont pull peoples arms out of their socket when they lose wookiees are known to do that,"01:00:21,330","01:00:28,210", MILLENNIUM FALCON ,6880
+THREEPIO,i see your point sir i suggest a new strategy artoo let the wookiee win,"01:00:29,920","01:00:35,510", MILLENNIUM FALCON ,5590
+BEN,remember a jedi can feel the force flowing through him,"01:00:53,980","01:00:57,610", MILLENNIUM FALCON ,3630
+LUKE,you mean it controls your actions,"01:00:58,360","01:01:00,700", MILLENNIUM FALCON ,2340
+BEN,partially but it also obeys your commands,"01:01:00,780","01:01:02,700", MILLENNIUM FALCON ,1920
+HAN,hokey religions and ancient weapons are no match for a good blaster at your side kid,"01:01:07,910","01:01:12,170", MILLENNIUM FALCON ,4260
+LUKE,you dont believe in the force do you,"01:01:12,840","01:01:14,550", MILLENNIUM FALCON ,1710
+HAN,kid ive flown from one side of this galaxy to the other ive seen a lot of strange stuff but ive never seen anything to make me believe theres one allpowerful force controlling everything theres no mystical energy field that controls my destiny,"01:01:15,380","01:01:29,810", MILLENNIUM FALCON ,14430
+HAN,its all a lot of simple tricks and nonsense,"01:01:29,890","01:01:32,770", MILLENNIUM FALCON ,2880
+BEN,i suggest you try it again luke,"01:01:32,860","01:01:35,730", MILLENNIUM FALCON ,2870
+BEN,this time let go your conscious self and act on instinct,"01:01:37,440","01:01:44,160", MILLENNIUM FALCON ,6720
+LUKE,with the blast shield down i cant even see how am i supposed to fight,"01:01:45,240","01:01:48,700", MILLENNIUM FALCON ,3460
+BEN,your eyes can deceive you dont trust them,"01:01:48,790","01:01:51,250", MILLENNIUM FALCON ,2460
+BEN,stretch out with your feelings,"01:02:00,630","01:02:02,970", MILLENNIUM FALCON ,2340
+BEN,you see you can do it,"01:02:17,400","01:02:19,570", MILLENNIUM FALCON ,2170
+HAN,i call it luck,"01:02:19,650","01:02:21,320", MILLENNIUM FALCON ,1670
+BEN,in my experience theres no such thing as luck,"01:02:21,400","01:02:24,030", MILLENNIUM FALCON ,2630
+HAN,look going good against remotes is one thing going good against the living thats something else,"01:02:24,110","01:02:29,450", MILLENNIUM FALCON ,5340
+HAN,looks like were coming up on alderaan,"01:02:30,580","01:02:32,580", MILLENNIUM FALCON ,2000
+LUKE,you know i did feel something i could almost see the remote,"01:02:35,920","01:02:38,630", MILLENNIUM FALCON ,2710
+BEN,thats good you have taken your first step into a larger world,"01:02:38,710","01:02:43,130", MILLENNIUM FALCON ,4420
+OFFICER CASS,our scout ships have reached dantooine they found the remains of a rebel base but they estimate that it has been deserted for some time they are now conducting an extensive search of the surrounding systems,"01:02:49,970","01:02:59,900", DEATH STAR ,9930
+TARKIN,she lied she lied to us,"01:03:00,900","01:03:03,490", DEATH STAR ,2590
+VADER,i told you she would never consciously betray the rebellion,"01:03:03,570","01:03:07,280", DEATH STAR ,3710
+TARKIN,terminate her immediately,"01:03:08,620","01:03:10,410", DEATH STAR ,1790
+HAN,stand by chewie here we go cut in the sublight engines,"01:03:13,750","01:03:16,460", MILLENNIUM FALCON ,2710
+HAN,what the aw weve come out of hyperspace into a meteor shower some kind of asteroid collision its not on any of the charts,"01:03:19,130","01:03:29,510", MILLENNIUM FALCON ,10380
+OFFICER,close all outboard shields close all outboard shields,"01:05:56,330","01:05:59,750", DEATH STAR ,3420
+VOICE,weve captured a freighter entering the remains of the alderaan system its markings match those of a ship that blasted its way out of mos eisley,"01:06:02,500","01:06:09,420", DEATH STAR ,6920
+VADER,they must be trying to return the stolen plans to the princess she may yet be of some use to us,"01:06:09,510","01:06:16,510", DEATH STAR ,7000
+VOICE,unlock onefiveseven and nine release charges,"01:06:21,520","01:06:24,860", DEATH STAR ,3340
+OFFICER,theres no one on board sir according to the log the crew abandoned ship right after takeoff it must be a decoy sir several of the escape pods have been jettisoned,"01:06:32,360","01:06:40,580", DEATH STAR ,8220
+VADER,did you find any droids,"01:06:40,660","01:06:42,620", DEATH STAR ,1960
+OFFICER,no sir if there were any on board they must also have jettisoned,"01:06:42,710","01:06:44,580", DEATH STAR ,1870
+VADER,send a scanning crew on board i want every part of this ship checked,"01:06:44,670","01:06:48,170", DEATH STAR ,3500
+OFFICER,yes sir,"01:06:48,250","01:06:49,510", DEATH STAR ,1260
+VADER,i sense something a presence i havent felt since,"01:06:49,590","01:06:53,720", DEATH STAR ,4130
+OFFICER,get me a scanning crew in here on the double i want every part of this ship checked,"01:06:56,430","01:06:59,850", DEATH STAR ,3420
+LUKE,boy its lucky you had these compartments,"01:07:08,820","01:07:21,830", MILLENNIUM FALCON ,13010
+HAN,i use them for smuggling i never thought id be smuggling myself in them this is ridiculous even if i could take off id never get past the tractor beam,"01:07:21,910","01:07:28,960", MILLENNIUM FALCON ,7050
+BEN,leave that to me,"01:07:29,040","01:07:30,380", MILLENNIUM FALCON ,1340
+HAN,damn fool i knew that you were going to say that,"01:07:30,460","01:07:33,510", MILLENNIUM FALCON ,3050
+BEN,whos the more foolish the fool or the fool who follows him,"01:07:33,590","01:07:37,090", MILLENNIUM FALCON ,3500
+TROOPER,the ships all yours if the scanners pick up anything report it immediately all right lets go,"01:07:46,690","01:07:53,440", DEATH STAR ,6750
+HAN'S VOICE,hey down there could you give us a hand with this,"01:08:08,130","01:08:13,800", DEATH STAR ,5670
+GANTRY OFFICER,txfouronetwo why arent you at your post txfouronetwo do you copy,"01:08:22,180","01:08:27,810", DEATH STAR ,5630
+GANTRY OFFICER,take over weve got a bad transmitter ill see what i can do,"01:08:39,820","01:08:42,780", DEATH STAR ,2960
+LUKE,you know between his howling and your blasting everything in sight its a wonder the whole station doesnt know were here,"01:09:00,590","01:09:05,140", DEATH STAR ,4550
+HAN,bring them on i prefer a straight fight to all this sneaking around,"01:09:05,220","01:09:08,520", DEATH STAR ,3300
+THREEPIO,we found the computer outlet sir,"01:09:08,600","01:09:10,400", DEATH STAR ,1800
+BEN,plug in he should be able to interpret the entire imperial computer network,"01:09:10,480","01:09:13,520", DEATH STAR ,3040
+THREEPIO,he says hes found the main computer to power the tractor beam thats holding the ship here hell try to make the precise location appear on the monitor,"01:09:24,700","01:09:31,170", DEATH STAR ,6470
+THREEPIO,the tractor beam is coupled to the main reactor in seven locations a power loss at one of the terminals will allow the ship to leave,"01:09:31,250","01:09:38,630", DEATH STAR ,7380
+BEN,i dont think you boys can help i must go alone,"01:09:41,390","01:09:44,640", DEATH STAR ,3250
+HAN,whatever you say ive done more that i bargained for on this trip already,"01:09:44,720","01:09:48,140", DEATH STAR ,3420
+BEN,they must be delivered safely or other star systems will suffer the same fate as alderaan your destiny lies along a different path than mine the force will be with you always,"01:09:57,530","01:10:07,910", DEATH STAR ,10380
+HAN,boy you said it chewie,"01:10:17,420","01:10:19,720", DEATH STAR ,2300
+HAN,where did you dig up that old fossil,"01:10:19,800","01:10:22,220", DEATH STAR ,2420
+LUKE,ben is a great man,"01:10:23,260","01:10:24,850", DEATH STAR ,1590
+HAN,yeah great at getting us into trouble,"01:10:24,930","01:10:27,890", DEATH STAR ,2960
+THREEPIO,princess leia,"01:10:45,070","01:10:46,780", DEATH STAR ,1710
+THREEPIO,level five detention block a atwenty three im afraid shes scheduled to be terminated,"01:11:01,800","01:11:04,470", DEATH STAR ,2670
+LUKE,oh no weve got to do something,"01:11:04,550","01:11:07,550", DEATH STAR ,3000
+HAN,what are you talking about,"01:11:07,640","01:11:10,100", DEATH STAR ,2460
+LUKE,the droid belongs to her shes the one in the message weve got to help her,"01:11:10,180","01:11:12,100", DEATH STAR ,1920
+HAN,now look dont get any funny ideas the old man wants us to wait right here,"01:11:12,180","01:11:15,060", DEATH STAR ,2880
+LUKE,but he didnt know she was here look will you just find a way back into the detention block,"01:11:15,150","01:11:18,440", DEATH STAR ,3290
+HAN,im not going anywhere,"01:11:18,520","01:11:20,980", DEATH STAR ,2460
+LUKE,theyre going to execute her look a few minutes ago you said you didnt want to just wait here to be captured now all you want to do is stay,"01:11:21,070","01:11:24,660", DEATH STAR ,3590
+HAN,marching into the detention area is not what i had in mind,"01:11:24,740","01:11:27,830", DEATH STAR ,3090
+LUKE,but theyre going to kill her,"01:11:27,910","01:11:30,740", DEATH STAR ,2830
+HAN,uh had a slight weapons malfunction but uh everythings perfectly all right now were fine were all fine here now thank you how are you,"01:15:28,320","01:15:33,990", DETENTION AREA,5670
+INTERCOM VOICE,were sending a squad up,"01:15:34,070","01:15:36,740", DETENTION AREA,2670
+HAN,uh uh negative we had a reactor leak here now give us a few minutes to lock it down large leak very dangerous,"01:15:37,740","01:15:44,920", DETENTION AREA,7180
+INTERCOM VOICE,who is this whats your operating number,"01:15:45,000","01:15:47,580", DETENTION AREA,2580
+HAN,boring conversation anyway,"01:15:50,000","01:15:53,470", DETENTION AREA,3470
+LUKE,what oh the uniform im luke skywalker im here to rescue you,"01:16:13,940","01:16:16,030", DEATH STAR ,2090
+TARKIN,the jedi are extinct their fire has gone out of the universe you my friend are all thats left of their religion,"01:16:45,810","01:16:48,400", DEATH STAR ,2590
+INTERCOM VOICE,governor tarkin we have an emergency alert in detention block a atwenty three,"01:16:50,480","01:16:53,980", DEATH STAR ,3500
+TARKIN,the princess put all sections on alert,"01:16:54,650","01:16:57,200", DEATH STAR ,2550
+VADER,obiwan is here the force is with him,"01:16:57,280","01:17:00,990", DEATH STAR ,3710
+TARKIN,if youre right he must not be allowed to escape,"01:17:01,070","01:17:03,910", DEATH STAR ,2840
+VADER,escape is not his plan i must face him alone,"01:17:03,990","01:17:07,500", DEATH STAR ,3510
+THREEPIO,i said all systems have been alerted to your presence sir the main entrance seems to be the only way in or out all other information on your level is restricted,"01:17:57,420","01:18:02,300", DEATH STAR ,4880
+TROOPER VOICE,open up in there,"01:18:02,390","01:18:04,970", DEATH STAR ,2580
+THREEPIO,oh no,"01:18:05,930","01:18:07,640", DEATH STAR ,1710
+LUKE,there isnt any other way out,"01:18:07,720","01:18:09,350", DEATH STAR ,1630
+HAN,i cant hold them off forever now what,"01:18:14,900","01:18:17,110", DEATH STAR ,2210
+LEIA,this is some rescue when you came in here didnt you have a plan for getting out,"01:18:17,190","01:18:20,740", DEATH STAR ,3550
+HAN,hes the brains sweetheart,"01:18:20,820","01:18:22,870", DEATH STAR ,2050
+LUKE,well i didnt,"01:18:22,950","01:18:24,700", DEATH STAR ,1750
+HAN,what the hell are you doing,"01:18:25,830","01:18:29,370", DEATH STAR ,3540
+HAN,get in there you big furry oaf i dont care what you smell get in there and dont worry about it,"01:18:40,840","01:18:49,600", DEATH STAR ,8760
+HAN,wonderful girl either im going to kill her or im beginning to like her get in there,"01:18:51,600","01:19:01,900", DEATH STAR ,10300
+HAN,oh the garbage chute was a really wonderful idea what an incredible smell youve discovered lets get out of here get away from there,"01:19:14,580","01:19:27,810", DEATH STAR ,13230
+HAN,absolutely your worship look i had everything under control until you led us down here you know its not going to take them long to figure out what happened to us,"01:19:41,490","01:19:46,870", DEATH STAR ,5380
+LEIA,it could be worse,"01:19:46,950","01:19:48,240", DEATH STAR ,1290
+HAN,its worse,"01:19:52,790","01:19:54,080", DEATH STAR ,1290
+LUKE,theres something alive in here,"01:19:54,160","01:19:57,250", DEATH STAR ,3090
+THREEPIO,oh all this excitement has overrun the circuits of my counterpart here if you dont mind id like to take him down to maintenance,"01:23:01,020","01:23:04,150", DEATH STAR ,3130
+TROOPER,all right,"01:23:04,230","01:23:05,810", DEATH STAR ,1580
+LUKE,where could he be threepio threepio will you come in,"01:23:25,080","01:23:30,210", DEATH STAR ,5130
+THREEPIO,they arent here something must have happened to them see if theyve been captured,"01:23:30,960","01:23:35,510", DEATH STAR ,4550
+THREEPIO,listen to them theyre dying artoo curse my metal body i wasnt fast enough its all my fault my poor master,"01:24:44,960","01:24:50,340", DEATH STAR ,5380
+LEIA,listen i dont know who you are or where you came from but from now on you do as i tell you okay,"01:26:05,910","01:26:08,750", DEATH STAR ,2840
+HAN,look your worshipfulness lets get one thing straight i take orders from one person me,"01:26:09,670","01:26:15,340", DEATH STAR ,5670
+LEIA,its a wonder youre still alive,"01:26:16,050","01:26:17,970", DEATH STAR ,1920
+LEIA,will somebody get this big walking carpet out of my way,"01:26:18,050","01:26:21,260", DEATH STAR ,3210
+HAN,no reward is worth this,"01:26:21,340","01:26:23,640", DEATH STAR ,2300
+FIRST TROOPER,do you know whats going on,"01:26:39,110","01:26:42,410", DEATH STAR ,3300
+LUKE,what good will it do us if he gets himself killed come on,"01:27:27,120","01:27:34,750", DEATH STAR ,7630
+LUKE,i think we took a wrong turn,"01:27:59,650","01:28:01,650", DEATH STAR ,2000
+LEIA,theres no lock,"01:28:06,620","01:28:07,530", DEATH STAR ,910
+LUKE,that oughta hold it for a while,"01:28:11,620","01:28:14,540", DEATH STAR ,2920
+THREEPIO,where could they be,"01:29:38,960","01:29:41,000", DEATH STAR ,2040
+TROOPER,close the blast doors,"01:29:44,710","01:29:46,630", DEATH STAR ,1920
+TROOPER,open the blast doors open the blast doors,"01:29:53,760","01:29:56,230", DEATH STAR ,2470
+VADER,ive been waiting for you obiwan we meet again at last the circle is now complete,"01:30:14,580","01:30:21,830", DEATH STAR ,7250
+VADER,when i left you i was but the learner now i am the master,"01:30:21,920","01:30:26,590", DEATH STAR ,4670
+BEN,only a master of evil darth,"01:30:26,670","01:30:28,670", DEATH STAR ,2000
+VADER,your powers are weak old man,"01:30:48,990","01:30:51,280", DEATH STAR ,2290
+BEN,you cant win darth if you strike me down i shall become more powerful than you can possibly imagine,"01:30:51,360","01:30:58,500", DEATH STAR ,7140
+HAN,didnt we just leave this party,"01:31:05,960","01:31:35,370", DEATH STAR ,29410
+LEIA,you neednt worry about your reward if money is all that you love then thats what youll receive,"01:37:19,840","01:37:25,050", MILLENNIUM FALCON ,5210
+LEIA,your friend is quite a mercenary i wonder if he really cares about anything or anyone,"01:37:28,220","01:37:33,470", MILLENNIUM FALCON ,5250
+LUKE,i care,"01:37:34,560","01:37:36,060", MILLENNIUM FALCON ,1500
+LUKE,so what do you think of her han,"01:37:42,690","01:37:46,320", MILLENNIUM FALCON ,3630
+HAN,im trying not to kid,"01:37:46,400","01:37:48,280", MILLENNIUM FALCON ,1880
+HAN,still shes got a lot of spirit i dont know what do you think do you think a princess and a guy like me,"01:37:53,790","01:38:01,920", MILLENNIUM FALCON ,8130
+WILLARD,youre safe we had feared the worst,"01:38:50,260","01:38:53,470", MASSASSI ,3210
+DODONNA,the battle station is heavily shielded and carries a firepower greater than half the star fleet its defenses are designed around a direct large scale assault a small oneman fighter should be able to penetrate the outer defense,"01:39:24,540","01:39:53,740", MASSASSI ,29200
+GOLD LEADER,pardon me for asking sir but what good are snub fighters going to be against that,"01:39:55,490","01:39:59,290", MASSASSI ,3800
+DODONNA,well the empire doesnt consider a small oneman fighter to be any threat or theyd have a tighter defense an analysis of the plans provided by princess leia has demonstrated a weakness in the battle station,"01:39:59,370","01:40:13,340", MASSASSI ,13970
+DODONNA,the approach will not be easy you are required to maneuver straight down this trench and skim the surface to this point the target area is only two meters wide its a small thermal exhaust port right below the main port the shaft leads directly to the reactor system a precise hit will start a chain reaction which should destroy the station,"01:40:14,180","01:40:38,990", MASSASSI ,24810
+DODONNA,only a precise hit will set up a chain reaction the shaft is ray shielded so youll have to use proton torpedoes,"01:40:39,080","01:40:45,870", MASSASSI ,6790
+WEDGE,thats impossible even for a computer,"01:40:45,960","01:40:48,130", MASSASSI ,2170
+LUKE,its not impossible i used to bulls eye womp rats in my tsixteen back home theyre not much bigger than two meters,"01:40:48,210","01:40:54,510", MASSASSI ,6300
+DODONNA,man your ships and may the force be with you,"01:40:54,590","01:40:57,760", MASSASSI ,3170
+THREEPIO,you must repair him sir if any of my circuits or gears will help ill gladly donate them,"01:58:08,330","01:58:24,140", MASSASSI OUTPOST ,15810
+LUKE,hell be all right,"01:58:22,140","01:58:24,140", MASSASSI OUTPOST ,2000

@@ -27,7 +27,7 @@ for item in d['movie_script']:
 		temp_st = st_arr[2].split(',')
 		temp_et = et_arr[2].split(',')
 
-		time_in_ms = (int(et_arr[0])*60*60*1000) + (int(et_arr[1])*60*1000) + int(temp_et[0])*1000 + int(temp_et[1]) - (int(st_arr[0])*60*60*1000) + (int(st_arr[1])*60*1000) + int(temp_st[0])*1000 + int(temp_st[1])
+		time_in_ms = ((int(et_arr[0])*60*60*1000) + (int(et_arr[1])*60*1000) + (int(temp_et[0])*1000) + int(temp_et[1])) - ((int(st_arr[0])*60*60*1000) + (int(st_arr[1])*60*1000) + (int(temp_st[0])*1000) + int(temp_st[1]))
 
 		line = [item['character'], item['text'], item['start_time'], item['end_time'], curr_location, str(time_in_ms)]
 		lines.append(line)

@@ -286,9 +286,9 @@ line_num = 1
 timing = False
 times = []
 temp = ""
-sub = open("inputs/sw4_sub.txt", "r")
-subout = open("outputs/sw4_fs.txt", "w+")
-timeout = open("outputs/sw4_timings.txt", "w+")
+sub = open("files/sw4_sub.txt", "r")
+subout = open("files/sw4_fs.txt", "w+")
+timeout = open("files/sw4_timings.txt", "w+")
 formatted_subs = []
 
 for l in sub:

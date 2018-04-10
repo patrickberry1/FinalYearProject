@@ -4,14 +4,15 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
 #opening files
-timings = open("outputs/sw4_timings.txt", "r")
-subs = open("outputs/sw4_fs.txt", "r")
-new_json1 = open("outputs/sw4_speech.json", "w+")
-new_json2 = open("outputs/sw4_script.json", "w+")
-with open("inputs/sw4_parsed_script.json") as json_data:
+timings = open("files/sw4_timings.txt", "r")
+subs = open("files/sw4_fs.txt", "r")
+new_json1 = open("files/sw4_speech.json", "w+")
+new_json2 = open("files/sw4_script.json", "w+")
+with open("files/sw4_parsed_script.json") as json_data:
 	d = json.load(json_data)
 
-new_d = d
+with open("files/sw4_parsed_script.json") as json_data:
+	new_d = json.load(json_data)
 
 sub_list = []
 
@@ -53,7 +54,9 @@ sub_text = ''
 
 
 for j in d['movie_script']:
-	if(j['type'] == 'speech'):
+	if j['type'] == 'speech':
+		j['start_time'] = ''
+		j['end_time'] = ''
 		scr_text = j['text']
 		start_index = sub_index
 		curr_ratio = 1
@@ -93,8 +96,6 @@ for i in d['movie_script']:
 			tt_index = tt_index + 1
 		temp_text = ''.join(tt_list)
 		i['text'] = temp_text.lower()
-		i['start_time'] = ''
-		i['end_time'] = ''
 		new_script.append(i)
 
 new_d['movie_script'] = new_script
@@ -108,8 +109,6 @@ new_d['movie_script'] = new_script
 
 new_json1.write(json.dumps(new_d, indent=2))
 new_json2.write(json.dumps(d, indent=2))		
-
-pprint(d)
 
 
 

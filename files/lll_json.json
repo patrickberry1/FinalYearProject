@@ -1,0 +1,4347 @@
+{
+  "movie_year": "2016", 
+  "movie_title": "La La Land", 
+  "movie_script": [
+    {
+      "text": "and i swear to god she was wrecked it was pure insanity", 
+      "start_time": "00:00:26,320 ", 
+      "type": "speech", 
+      "end_time": " 01:58:41,638\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "pure lunacy oh god i know", 
+      "start_time": "01:59:43,080 ", 
+      "type": "speech", 
+      "end_time": " 01:58:32,440\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "this doesnt taste like almond milk", 
+      "start_time": "01:58:38,520 ", 
+      "type": "speech", 
+      "end_time": " 01:51:43,837\r\n", 
+      "character": "CUSTOMER #1"
+    }, 
+    {
+      "text": "dont worry it is i know sometimes it ", 
+      "start_time": "01:58:30,960 ", 
+      "type": "speech", 
+      "end_time": " 01:49:51,512\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "can i see the carton", 
+      "start_time": "01:51:41,720 ", 
+      "type": "speech", 
+      "end_time": " 01:49:49,514\r\n", 
+      "character": "CUSTOMER #1"
+    }, 
+    {
+      "text": "ill have a black coffee", 
+      "start_time": "01:49:49,600 ", 
+      "type": "speech", 
+      "end_time": " 01:49:36,119\r\n", 
+      "character": "CUSTOMER #1 (CONT'D)"
+    }, 
+    {
+      "text": "cappuccino please", 
+      "start_time": "01:49:46,760 ", 
+      "type": "speech", 
+      "end_time": " 01:49:34,475\r\n", 
+      "character": "WOMAN"
+    }, 
+    {
+      "text": "on us", 
+      "start_time": "01:49:34,560 ", 
+      "type": "speech", 
+      "end_time": " 01:49:31,794\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "no i insist", 
+      "start_time": "01:49:31,880 ", 
+      "type": "speech", 
+      "end_time": " 01:49:30,350\r\n", 
+      "character": "WOMAN"
+    }, 
+    {
+      "text": "shit", 
+      "start_time": "01:49:30,440 ", 
+      "type": "speech", 
+      "end_time": " 01:49:25,400\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "where do you think youre going", 
+      "start_time": "01:49:25,480 ", 
+      "type": "speech", 
+      "end_time": " 01:49:22,679\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "its  five past", 
+      "start_time": "01:49:22,760 ", 
+      "type": "speech", 
+      "end_time": " 01:49:20,872\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youd better be here early tomorrow", 
+      "start_time": "01:49:20,960 ", 
+      "type": "speech", 
+      "end_time": " 01:48:29,953\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:49:18,880 ", 
+      "type": "speech", 
+      "end_time": " 01:48:17,834\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "and i swear to god she was wrecked it was pure lunacy oh god i know", 
+      "start_time": "01:48:28,200 ", 
+      "type": "speech", 
+      "end_time": " 01:47:54,351\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no no turners fine so you  are you waiting til denver to tell her", 
+      "start_time": "01:48:16,400 ", 
+      "type": "speech", 
+      "end_time": " 01:47:24,195\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "oh i see", 
+      "start_time": "01:47:52,200 ", 
+      "type": "speech", 
+      "end_time": " 01:47:22,837\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no youre right i understand", 
+      "start_time": "01:47:22,920 ", 
+      "type": "speech", 
+      "end_time": " 01:47:18,634\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "ok i just oh", 
+      "start_time": "01:47:20,800 ", 
+      "type": "speech", 
+      "end_time": " 01:47:09,791\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no im happy for you i  i just ", 
+      "start_time": "01:47:15,880 ", 
+      "type": "speech", 
+      "end_time": " 01:47:04,679\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "one second", 
+      "start_time": "01:47:06,480 ", 
+      "type": "speech", 
+      "end_time": " 01:47:03,033\r\n", 
+      "character": "CASTING DIRECTOR"
+    }, 
+    {
+      "text": "ill call her back tell her im almost done in here", 
+      "start_time": "01:47:03,120 ", 
+      "type": "speech", 
+      "end_time": " 01:47:00,031\r\n", 
+      "character": "CASTING DIRECTOR (CONT'D)"
+    }, 
+    {
+      "text": "you know what i think were good thanks for coming in", 
+      "start_time": "01:47:00,120 ", 
+      "type": "speech", 
+      "end_time": " 01:46:56,758\r\n", 
+      "character": "CASTING DIRECTOR (CONT'D)"
+    }, 
+    {
+      "text": "holy mother of god", 
+      "start_time": "01:46:57,800 ", 
+      "type": "speech", 
+      "end_time": " 01:46:45,836\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "ever heard of a vent", 
+      "start_time": "01:46:54,960 ", 
+      "type": "speech", 
+      "end_time": " 01:46:43,553\r\n", 
+      "character": "TRACY (CONT'D)"
+    }, 
+    {
+      "text": "i wanted to give you an entrance", 
+      "start_time": "01:46:43,640 ", 
+      "type": "speech", 
+      "end_time": " 01:46:41,794\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "mia howd it go", 
+      "start_time": "01:46:41,880 ", 
+      "type": "speech", 
+      "end_time": " 01:46:40,351\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "eh", 
+      "start_time": "01:46:40,440 ", 
+      "type": "speech", 
+      "end_time": " 01:46:38,120\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "same here was jen there or rachel", 
+      "start_time": "01:46:38,200 ", 
+      "type": "speech", 
+      "end_time": " 01:46:36,712\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "i dont know who jen and rachel are", 
+      "start_time": "01:46:36,800 ", 
+      "type": "speech", 
+      "end_time": " 01:46:34,635\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "theyre the worst", 
+      "start_time": "01:46:34,720 ", 
+      "type": "speech", 
+      "end_time": " 01:46:31,960\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "i dont know if they were there", 
+      "start_time": "01:46:32,040 ", 
+      "type": "speech", 
+      "end_time": " 01:45:49,792\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i bet they were", 
+      "start_time": "01:46:29,400 ", 
+      "type": "speech", 
+      "end_time": " 01:45:46,631\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "why is there a convention in the bathroom", 
+      "start_time": "01:45:46,720 ", 
+      "type": "speech", 
+      "end_time": " 01:45:44,390\r\n", 
+      "character": "CAITLIN"
+    }, 
+    {
+      "text": "two minutes people mia youre coming right", 
+      "start_time": "01:45:44,480 ", 
+      "type": "speech", 
+      "end_time": " 01:45:39,317\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "cant working", 
+      "start_time": "01:45:40,680 ", 
+      "type": "speech", 
+      "end_time": " 01:45:37,109\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what", 
+      "start_time": "01:45:37,200 ", 
+      "type": "speech", 
+      "end_time": " 01:45:35,799\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "did she say working", 
+      "start_time": "01:45:35,880 ", 
+      "type": "speech", 
+      "end_time": " 01:45:30,271\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yes", 
+      "start_time": "01:45:34,160 ", 
+      "type": "speech", 
+      "end_time": " 01:45:28,119\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "look i know things didnt go well today there are four things in my inbox that youre perfect for and i will submit you but right now  youre coming", 
+      "start_time": "01:45:28,200 ", 
+      "type": "speech", 
+      "end_time": " 01:45:06,000\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "itll be fun", 
+      "start_time": "01:45:26,560 ", 
+      "type": "speech", 
+      "end_time": " 01:45:04,599\r\n", 
+      "character": "TRACY (CONT'D)"
+    }, 
+    {
+      "text": "itll be a bunch of social climbers packed into one of those glass houses", 
+      "start_time": "01:45:04,680 ", 
+      "type": "speech", 
+      "end_time": " 01:45:01,637\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "exactly fun", 
+      "start_time": "01:45:01,720 ", 
+      "type": "speech", 
+      "end_time": " 01:44:57,394\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "back", 
+      "start_time": "01:44:59,680 ", 
+      "type": "speech", 
+      "end_time": " 01:44:55,880\r\n", 
+      "character": "TRACY (CONT'D)                        MIA"
+    }, 
+    {
+      "text": "come on mia when else do you get to see every hollywood clich\u00e9 crammed into a single home", 
+      "start_time": "01:44:55,960 ", 
+      "type": "speech", 
+      "end_time": " 01:44:53,235\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "lex im disappointed in you theres nothing to make fun of this party will be humanity at its finest", 
+      "start_time": "01:44:53,320 ", 
+      "type": "speech", 
+      "end_time": " 01:44:19,272\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:44:49,400 ", 
+      "type": "speech", 
+      "end_time": " 01:44:17,269\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:44:17,360 ", 
+      "type": "speech", 
+      "end_time": " 01:44:14,719\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "you gotta stop breaking into my home", 
+      "start_time": "01:44:14,800 ", 
+      "type": "speech", 
+      "end_time": " 01:43:20,552\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "you think mom or dad would call this a home", 
+      "start_time": "01:44:13,160 ", 
+      "type": "speech", 
+      "end_time": " 01:43:14,200\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "please dont sit on that", 
+      "start_time": "01:43:18,560 ", 
+      "type": "speech", 
+      "end_time": " 01:43:10,272\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "are you serious", 
+      "start_time": "01:43:11,640 ", 
+      "type": "speech", 
+      "end_time": " 01:43:00,153\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "yes hoagy carmichael sat on that stool the baked potato was gonna throw it away", 
+      "start_time": "01:43:08,280 ", 
+      "type": "speech", 
+      "end_time": " 01:42:56,872\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i wonder why", 
+      "start_time": "01:42:58,560 ", 
+      "type": "speech", 
+      "end_time": " 01:42:45,990\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i brought you this its a throw rug", 
+      "start_time": "01:42:55,040 ", 
+      "type": "speech", 
+      "end_time": " 01:42:34,309\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "dont need it", 
+      "start_time": "01:42:43,680 ", 
+      "type": "speech", 
+      "end_time": " 01:42:31,356\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "yeah what if i told you miles davis pissed on it", 
+      "start_time": "01:42:33,080 ", 
+      "type": "speech", 
+      "end_time": " 01:42:26,439\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "thats almost insulting", 
+      "start_time": "01:42:26,520 ", 
+      "type": "speech", 
+      "end_time": " 01:42:16,071\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "did he", 
+      "start_time": "01:42:22,160 ", 
+      "type": "speech", 
+      "end_time": " 01:42:13,918\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "when are you going to unpack these boxes", 
+      "start_time": "01:42:14,000 ", 
+      "type": "speech", 
+      "end_time": " 01:42:11,957\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "when i unpack them in my club", 
+      "start_time": "01:42:12,040 ", 
+      "type": "speech", 
+      "end_time": " 01:42:09,919\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "oh my god its like a girl broke up with you and youre stalking her", 
+      "start_time": "01:42:10,000 ", 
+      "type": "speech", 
+      "end_time": " 01:42:07,189\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "youre not still going by there are you", 
+      "start_time": "01:42:08,200 ", 
+      "type": "speech", 
+      "end_time": " 01:42:04,071\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:42:05,960 ", 
+      "type": "speech", 
+      "end_time": " 01:41:59,193\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "theyve turned it into a tapassamba place you believe that", 
+      "start_time": "01:41:59,280 ", 
+      "type": "speech", 
+      "end_time": " 01:41:56,199\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "seb ", 
+      "start_time": "01:41:56,280 ", 
+      "type": "speech", 
+      "end_time": " 01:41:53,158\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "who wants to tapas while they samba", 
+      "start_time": "01:41:53,240 ", 
+      "type": "speech", 
+      "end_time": " 01:41:48,553\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i have someone i want you to meet", 
+      "start_time": "01:41:51,280 ", 
+      "type": "speech", 
+      "end_time": " 01:41:45,433\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i dont want to meet anyone", 
+      "start_time": "01:41:46,880 ", 
+      "type": "speech", 
+      "end_time": " 01:41:43,599\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "youll like her", 
+      "start_time": "01:41:43,680 ", 
+      "type": "speech", 
+      "end_time": " 01:41:37,069\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "uhhuh does she like jazz", 
+      "start_time": "01:41:40,720 ", 
+      "type": "speech", 
+      "end_time": " 01:41:33,760\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "probably not", 
+      "start_time": "01:41:35,840 ", 
+      "type": "speech", 
+      "end_time": " 01:41:31,034\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "then what are we gonna talk about", 
+      "start_time": "01:41:31,120 ", 
+      "type": "speech", 
+      "end_time": " 01:41:28,280\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "youll talk about the weather", 
+      "start_time": "01:41:28,360 ", 
+      "type": "speech", 
+      "end_time": " 01:41:26,869\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "ok then i have someone id like you to meet hes got a face tattoo but a heart of gold", 
+      "start_time": "01:41:26,960 ", 
+      "type": "speech", 
+      "end_time": " 01:41:25,510\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "sebastian ", 
+      "start_time": "01:41:25,640 ", 
+      "type": "speech", 
+      "end_time": " 01:41:23,040\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "how longs it been", 
+      "start_time": "01:41:23,120 ", 
+      "type": "speech", 
+      "end_time": " 01:41:19,633\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "you need to get serious you live like a hermit youre driving without insurance", 
+      "start_time": "01:41:20,480 ", 
+      "type": "speech", 
+      "end_time": " 01:41:03,714\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "i am serious i had a very serious plan for my future its not my fault i got shanghaied", 
+      "start_time": "01:41:18,040 ", 
+      "type": "speech", 
+      "end_time": " 01:40:59,359\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "you did not get shanghaied you got ripped off", 
+      "start_time": "01:41:02,280 ", 
+      "type": "speech", 
+      "end_time": " 01:40:53,597\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "whats the difference", 
+      "start_time": "01:40:55,160 ", 
+      "type": "speech", 
+      "end_time": " 01:40:47,032\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "its not as romantic as that", 
+      "start_time": "01:40:50,160 ", 
+      "type": "speech", 
+      "end_time": " 01:40:38,591\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "and everyone knew that guy was shady except for you", 
+      "start_time": "01:40:41,400 ", 
+      "type": "speech", 
+      "end_time": " 01:40:35,034\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "why do you say romantic like its a dirty word", 
+      "start_time": "01:40:35,120 ", 
+      "type": "speech", 
+      "end_time": " 01:40:29,720\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "unpaid bills are not romantic call her", 
+      "start_time": "01:40:33,520 ", 
+      "type": "speech", 
+      "end_time": " 01:40:27,079\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "youre acting like lifes got me on the ropes  what you dont understand is i want to be on the ropes im letting life hit me til it gets tired then im gonna make my move its a classic ropeadope", 
+      "start_time": "01:40:27,160 ", 
+      "type": "speech", 
+      "end_time": " 01:40:24,000\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "i love you unpack your boxes", 
+      "start_time": "01:40:24,120 ", 
+      "type": "speech", 
+      "end_time": " 01:40:18,794\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "im changing the locks", 
+      "start_time": "01:40:18,880 ", 
+      "type": "speech", 
+      "end_time": " 01:40:13,479\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "you cant afford it", 
+      "start_time": "01:40:13,560 ", 
+      "type": "speech", 
+      "end_time": " 01:40:10,590\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "im a phoenix rising from the ashes", 
+      "start_time": "01:40:10,680 ", 
+      "type": "speech", 
+      "end_time": " 01:40:06,793\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "seb", 
+      "start_time": "01:40:06,880 ", 
+      "type": "speech", 
+      "end_time": " 01:40:02,395\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "bill thanks for having me back", 
+      "start_time": "01:40:02,480 ", 
+      "type": "speech", 
+      "end_time": " 01:39:59,798\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "your welcome stick to the set list", 
+      "start_time": "01:39:59,880 ", 
+      "type": "speech", 
+      "end_time": " 01:39:56,512\r\n", 
+      "character": "Revision                      12."
+    }, 
+    {
+      "text": "of course", 
+      "start_time": "01:39:56,600 ", 
+      "type": "speech", 
+      "end_time": " 01:39:52,031\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "though i dont think they care what i play", 
+      "start_time": "01:39:52,120 ", 
+      "type": "speech", 
+      "end_time": " 01:39:45,752\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i do and i dont want to hear the free jazz", 
+      "start_time": "01:39:47,400 ", 
+      "type": "speech", 
+      "end_time": " 01:39:41,394\r\n", 
+      "character": "BOSS"
+    }, 
+    {
+      "text": "how bout one for you one for me or two for you one for me", 
+      "start_time": "01:39:42,520 ", 
+      "type": "speech", 
+      "end_time": " 01:39:38,471\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "or all for you none for me ok that works good deal", 
+      "start_time": "01:39:38,560 ", 
+      "type": "speech", 
+      "end_time": " 01:39:34,918\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "well welcome back", 
+      "start_time": "01:39:35,000 ", 
+      "type": "speech", 
+      "end_time": " 01:39:30,471\r\n", 
+      "character": "WAITRESS"
+    }, 
+    {
+      "text": "theres a nice way to say that", 
+      "start_time": "01:39:30,560 ", 
+      "type": "speech", 
+      "end_time": " 01:39:24,397\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "every goddamned night", 
+      "start_time": "01:39:24,520 ", 
+      "type": "speech", 
+      "end_time": " 01:39:17,515\r\n", 
+      "character": "BOSS"
+    }, 
+    {
+      "text": "ill stick to the set list i promise ", 
+      "start_time": "01:39:18,560 ", 
+      "type": "speech", 
+      "end_time": " 01:39:10,079\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "too late youre done", 
+      "start_time": "01:39:12,360 ", 
+      "type": "speech", 
+      "end_time": " 01:39:05,838\r\n", 
+      "character": "BOSS"
+    }, 
+    {
+      "text": "youre not gonna find a better player you know that", 
+      "start_time": "01:39:05,960 ", 
+      "type": "speech", 
+      "end_time": " 01:39:02,716\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "do you think anyone here gives a shit", 
+      "start_time": "01:39:02,800 ", 
+      "type": "speech", 
+      "end_time": " 01:38:57,199\r\n", 
+      "character": "BOSS"
+    }, 
+    {
+      "text": "i just wanted to say  i saw your playing and i ", 
+      "start_time": "01:38:59,200 ", 
+      "type": "speech", 
+      "end_time": " 01:38:52,992\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i dont like the fissure on the gt scan did you test for achromatopsia", 
+      "start_time": "01:38:53,080 ", 
+      "type": "speech", 
+      "end_time": " 01:38:49,760\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "doa on 23rd perp laughing his face off at pd damn miranda rights", 
+      "start_time": "01:38:49,840 ", 
+      "type": "speech", 
+      "end_time": " 01:38:44,634\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "this is my classroom you dont like it the doors to my left", 
+      "start_time": "01:38:47,120 ", 
+      "type": "speech", 
+      "end_time": " 01:38:37,392\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "lady why you be trippin like that", 
+      "start_time": "01:38:39,240 ", 
+      "type": "speech", 
+      "end_time": " 01:38:29,559\r\n", 
+      "character": "READER (O.S.)"
+    }, 
+    {
+      "text": "no jamal you be trippin", 
+      "start_time": "01:38:31,680 ", 
+      "type": "speech", 
+      "end_time": " 01:38:21,560\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "there you are you need to meet someone carlo this is mia mia carlos a writer carlo                           tracy", 
+      "start_time": "01:38:24,200 ", 
+      "type": "speech", 
+      "end_time": " 01:38:13,471\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "town", 
+      "start_time": "01:38:16,440 ", 
+      "type": "speech", 
+      "end_time": " 01:38:08,757\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "they say i have a knack for worldbuilding", 
+      "start_time": "01:38:08,840 ", 
+      "type": "speech", 
+      "end_time": " 01:38:04,154\r\n", 
+      "character": "CARLO"
+    }, 
+    {
+      "text": "congratulations i have to grab a drink", 
+      "start_time": "01:38:04,240 ", 
+      "type": "speech", 
+      "end_time": " 01:37:56,989\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "alright one more for yall before we break do i hear any requests", 
+      "start_time": "01:38:00,160 ", 
+      "type": "speech", 
+      "end_time": " 01:37:54,399\r\n", 
+      "character": "SINGER"
+    }, 
+    {
+      "text": "i ran", 
+      "start_time": "01:37:55,760 ", 
+      "type": "speech", 
+      "end_time": " 01:37:47,113\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i ran it is", 
+      "start_time": "01:37:50,200 ", 
+      "type": "speech", 
+      "end_time": " 01:37:42,794\r\n", 
+      "character": "SINGER"
+    }, 
+    {
+      "text": "wanna start us off pianoman", 
+      "start_time": "01:37:42,880 ", 
+      "type": "speech", 
+      "end_time": " 01:37:38,712\r\n", 
+      "character": "SINGER"
+    }, 
+    {
+      "text": "i walked along the avenue", 
+      "start_time": "01:37:39,960 ", 
+      "type": "speech", 
+      "end_time": " 01:37:34,598\r\n", 
+      "character": "SINGER (CONT'D)"
+    }, 
+    {
+      "text": "ok i remember you", 
+      "start_time": "01:37:36,800 ", 
+      "type": "speech", 
+      "end_time": " 01:37:30,069\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "and im sorry if i was curt that night", 
+      "start_time": "01:37:31,400 ", 
+      "type": "speech", 
+      "end_time": " 01:37:26,440\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "curt", 
+      "start_time": "01:37:28,840 ", 
+      "type": "speech", 
+      "end_time": " 01:37:21,069\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "ok i was an asshole i can admit that", 
+      "start_time": "01:37:21,160 ", 
+      "type": "speech", 
+      "end_time": " 01:37:15,076\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:37:19,840 ", 
+      "type": "speech", 
+      "end_time": " 01:37:03,032\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "but requesting i ran from a serious musician  its too far", 
+      "start_time": "01:37:12,880 ", 
+      "type": "speech", 
+      "end_time": " 01:36:57,877\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "my god did you just call yourself a serious musician", 
+      "start_time": "01:37:01,040 ", 
+      "type": "speech", 
+      "end_time": " 01:36:55,679\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i dont think so", 
+      "start_time": "01:36:55,760 ", 
+      "type": "speech", 
+      "end_time": " 01:36:52,796\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "can i borrow what youre wearing", 
+      "start_time": "01:36:52,880 ", 
+      "type": "speech", 
+      "end_time": " 01:36:49,029\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why", 
+      "start_time": "01:36:49,120 ", 
+      "type": "speech", 
+      "end_time": " 01:36:47,710\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because i have an audition next week im playing a serious firefighter", 
+      "start_time": "01:36:47,800 ", 
+      "type": "speech", 
+      "end_time": " 01:36:44,073\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "so youre an actress that makes sense have i seen you in anything", 
+      "start_time": "01:36:44,160 ", 
+      "type": "speech", 
+      "end_time": " 01:36:40,320\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "uh the coffee shop on the warner brothers lot thats a classic", 
+      "start_time": "01:36:42,320 ", 
+      "type": "speech", 
+      "end_time": " 01:36:37,597\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "oh youre a barista well now i see how you can look down on me from all the way up there", 
+      "start_time": "01:36:37,680 ", 
+      "type": "speech", 
+      "end_time": " 01:36:35,440\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "sebastian second set", 
+      "start_time": "01:36:35,560 ", 
+      "type": "speech", 
+      "end_time": " 01:36:33,880\r\n", 
+      "character": "SINGER"
+    }, 
+    {
+      "text": "he doesnt tell me what to do", 
+      "start_time": "01:36:33,960 ", 
+      "type": "speech", 
+      "end_time": " 01:36:27,594\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "he just told you what to do", 
+      "start_time": "01:36:28,600 ", 
+      "type": "speech", 
+      "end_time": " 01:36:26,071\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i let him", 
+      "start_time": "01:36:26,160 ", 
+      "type": "speech", 
+      "end_time": " 01:36:23,715\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "whats your name", 
+      "start_time": "01:36:23,840 ", 
+      "type": "speech", 
+      "end_time": " 01:36:22,356\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "01:36:22,440 ", 
+      "type": "speech", 
+      "end_time": " 01:36:14,075\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "mia guess ill see you in the movies", 
+      "start_time": "01:36:20,160 ", 
+      "type": "speech", 
+      "end_time": " 01:35:54,712\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "never seen you lookin so lovely as you did tonight", 
+      "start_time": "01:36:12,800 ", 
+      "type": "speech", 
+      "end_time": " 01:35:09,433\r\n", 
+      "character": "SINGER"
+    }, 
+    {
+      "text": "goldilocks from the point of view of the bears homeinvasion thriller fox and warners are going crazy for it", 
+      "start_time": "01:35:52,720 ", 
+      "type": "speech", 
+      "end_time": " 01:35:06,354\r\n", 
+      "character": "CARLO"
+    }, 
+    {
+      "text": "were going after charlize for the bear were flipping it feels like a franchise but the thing is its grounded", 
+      "start_time": "01:35:06,440 ", 
+      "type": "speech", 
+      "end_time": " 01:35:03,196\r\n", 
+      "character": "CARLO (CONT'D)"
+    }, 
+    {
+      "text": "george michael", 
+      "start_time": "01:35:04,840 ", 
+      "type": "speech", 
+      "end_time": " 01:35:00,714\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you again", 
+      "start_time": "01:35:00,840 ", 
+      "type": "speech", 
+      "end_time": " 01:34:57,958\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "did you just get your keys", 
+      "start_time": "01:34:58,040 ", 
+      "type": "speech", 
+      "end_time": " 01:34:54,759\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yeah", 
+      "start_time": "01:34:54,840 ", 
+      "type": "speech", 
+      "end_time": " 01:34:53,114\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "can you grab mine", 
+      "start_time": "01:34:53,200 ", 
+      "type": "speech", 
+      "end_time": " 01:34:50,155\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "which one is it", 
+      "start_time": "01:34:51,600 ", 
+      "type": "speech", 
+      "end_time": " 01:34:46,629\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "the prius", 
+      "start_time": "01:34:48,880 ", 
+      "type": "speech", 
+      "end_time": " 01:34:42,073\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "the one with the green ribbon", 
+      "start_time": "01:34:44,160 ", 
+      "type": "speech", 
+      "end_time": " 01:34:36,869\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "shit", 
+      "start_time": "01:34:39,160 ", 
+      "type": "speech", 
+      "end_time": " 01:34:31,913\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "those look comfortable", 
+      "start_time": "01:34:35,640 ", 
+      "type": "speech", 
+      "end_time": " 01:34:30,234\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "they arent", 
+      "start_time": "01:34:30,320 ", 
+      "type": "speech", 
+      "end_time": " 01:34:26,157\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "thank you for saving the day back there", 
+      "start_time": "01:34:26,240 ", 
+      "type": "speech", 
+      "end_time": " 01:34:23,957\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "you didnt give me much of a choice", 
+      "start_time": "01:34:24,040 ", 
+      "type": "speech", 
+      "end_time": " 01:34:21,836\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "strange that we keep running into each other", 
+      "start_time": "01:34:21,920 ", 
+      "type": "speech", 
+      "end_time": " 01:34:19,554\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "it is strange maybe it means something", 
+      "start_time": "01:34:19,640 ", 
+      "type": "speech", 
+      "end_time": " 01:34:16,634\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i doubt it", 
+      "start_time": "01:34:16,720 ", 
+      "type": "speech", 
+      "end_time": " 01:34:15,112\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yeah i dont think so either", 
+      "start_time": "01:34:15,200 ", 
+      "type": "speech", 
+      "end_time": " 01:34:11,795\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "put the clicker under your chin", 
+      "start_time": "01:34:11,880 ", 
+      "type": "speech", 
+      "end_time": " 01:34:05,639\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "what", 
+      "start_time": "01:34:08,040 ", 
+      "type": "speech", 
+      "end_time": " 01:34:02,759\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "it turns your head into an antenna probably gives you cancer but you find your car more quickly", 
+      "start_time": "01:34:02,840 ", 
+      "type": "speech", 
+      "end_time": " 01:34:01,116\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "uhhuh", 
+      "start_time": "01:34:01,200 ", 
+      "type": "speech", 
+      "end_time": " 01:33:58,759\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you dont live as long but you get things done faster so it all evens out", 
+      "start_time": "01:33:58,840 ", 
+      "type": "speech", 
+      "end_time": " 01:33:57,039\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "oh my god", 
+      "start_time": "01:33:57,120 ", 
+      "type": "speech", 
+      "end_time": " 01:33:52,757\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "eh", 
+      "start_time": "01:33:52,840 ", 
+      "type": "speech", 
+      "end_time": " 01:33:50,640\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "not much to look at", 
+      "start_time": "01:33:50,720 ", 
+      "type": "speech", 
+      "end_time": " 01:33:47,914\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "agreed ive seen better", 
+      "start_time": "01:33:48,000 ", 
+      "type": "speech", 
+      "end_time": " 01:33:44,994\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "hey greg can you hear me yeah im just leaving now k see you soon", 
+      "start_time": "01:33:45,080 ", 
+      "type": "speech", 
+      "end_time": " 01:33:42,236\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "ah great well do you want a ride to your car", 
+      "start_time": "01:33:42,320 ", 
+      "type": "speech", 
+      "end_time": " 01:33:41,109\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no thats fine thanks", 
+      "start_time": "01:33:41,200 ", 
+      "type": "speech", 
+      "end_time": " 01:33:39,797\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:33:39,880 ", 
+      "type": "speech", 
+      "end_time": " 01:33:37,597\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "night", 
+      "start_time": "01:33:37,680 ", 
+      "type": "speech", 
+      "end_time": " 01:33:35,394\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "are these pastries glutenfree", 
+      "start_time": "01:33:35,480 ", 
+      "type": "speech", 
+      "end_time": " 01:33:33,838\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:33:33,960 ", 
+      "type": "speech", 
+      "end_time": " 01:33:31,954\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what i want a refund", 
+      "start_time": "01:33:32,040 ", 
+      "type": "speech", 
+      "end_time": " 01:33:29,032\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youre closing up friday", 
+      "start_time": "01:33:30,520 ", 
+      "type": "speech", 
+      "end_time": " 01:33:27,115\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "i have an audition remember", 
+      "start_time": "01:33:27,200 ", 
+      "type": "speech", 
+      "end_time": " 01:33:25,760\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "do i look like i care reschedule it", 
+      "start_time": "01:33:25,840 ", 
+      "type": "speech", 
+      "end_time": " 01:33:22,956\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "but you said ", 
+      "start_time": "01:33:23,040 ", 
+      "type": "speech", 
+      "end_time": " 01:33:19,600\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "and fix your apron", 
+      "start_time": "01:33:21,840 ", 
+      "type": "speech", 
+      "end_time": " 01:33:15,954\r\n", 
+      "character": "MANAGER"
+    }, 
+    {
+      "text": "hi", 
+      "start_time": "01:33:18,120 ", 
+      "type": "speech", 
+      "end_time": " 01:33:13,194\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what are you doing here", 
+      "start_time": "01:33:13,280 ", 
+      "type": "speech", 
+      "end_time": " 01:33:09,197\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "meetings studio heads", 
+      "start_time": "01:33:09,280 ", 
+      "type": "speech", 
+      "end_time": " 01:33:05,750\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "uhhuh howd you get on the lot", 
+      "start_time": "01:33:05,840 ", 
+      "type": "speech", 
+      "end_time": " 01:33:02,031\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "piece of cake", 
+      "start_time": "01:33:02,120 ", 
+      "type": "speech", 
+      "end_time": " 01:32:59,669\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "actually it took me four hours and i ended up running we probably have twenty minutes before the guy finds me you got a break coming up", 
+      "start_time": "01:32:59,800 ", 
+      "type": "speech", 
+      "end_time": " 01:32:47,709\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "im off in ten", 
+      "start_time": "01:32:58,440 ", 
+      "type": "speech", 
+      "end_time": " 01:32:40,840\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "great ill hide in the bathroom", 
+      "start_time": "01:32:46,480 ", 
+      "type": "speech", 
+      "end_time": " 01:32:30,949\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "thats the window ingrid bergman and humphrey bogart looked out of in casablanca", 
+      "start_time": "01:32:39,520 ", 
+      "type": "speech", 
+      "end_time": " 01:32:23,879\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "whats your bogarts name", 
+      "start_time": "01:32:29,720 ", 
+      "type": "speech", 
+      "end_time": " 01:32:22,239\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "is it greg", 
+      "start_time": "01:32:22,320 ", 
+      "type": "speech", 
+      "end_time": " 01:32:20,431\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "yeah greg", 
+      "start_time": "01:32:20,520 ", 
+      "type": "speech", 
+      "end_time": " 01:32:18,189\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "how long have", 
+      "start_time": "01:32:18,280 ", 
+      "type": "speech", 
+      "end_time": " 01:32:16,880\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "weve been seeing each other for a few months", 
+      "start_time": "01:32:16,960 ", 
+      "type": "speech", 
+      "end_time": " 01:32:14,229\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i love this stuff makes coming to work easier", 
+      "start_time": "01:32:14,320 ", 
+      "type": "speech", 
+      "end_time": " 01:32:11,639\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i know what you mean i get breakfast five miles out of the way just to sit outside a jazz club", 
+      "start_time": "01:32:13,000 ", 
+      "type": "speech", 
+      "end_time": " 01:29:53,355\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "oh yeah", 
+      "start_time": "01:32:08,760 ", 
+      "type": "speech", 
+      "end_time": " 01:29:50,675\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "it was called van beek the swing bands played there count basie chick webb", 
+      "start_time": "01:29:50,760 ", 
+      "type": "speech", 
+      "end_time": " 01:29:46,838\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its a sambatapas place now", 
+      "start_time": "01:29:46,920 ", 
+      "type": "speech", 
+      "end_time": " 01:29:43,675\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "a what", 
+      "start_time": "01:29:45,040 ", 
+      "type": "speech", 
+      "end_time": " 01:29:41,159\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "sambatapas its exactly the jokes on history", 
+      "start_time": "01:29:41,240 ", 
+      "type": "speech", 
+      "end_time": " 01:29:38,390\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "anyway thats la they worship everything and they value nothing", 
+      "start_time": "01:29:39,440 ", 
+      "type": "speech", 
+      "end_time": " 01:29:34,754\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "clear the frame", 
+      "start_time": "01:29:34,840 ", 
+      "type": "speech", 
+      "end_time": " 01:29:31,400\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "we need to wait here", 
+      "start_time": "01:29:33,240 ", 
+      "type": "speech", 
+      "end_time": " 01:29:29,992\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i know they shoot movies on my street cstands apple box dont forget to sign out", 
+      "start_time": "01:29:30,080 ", 
+      "type": "speech", 
+      "end_time": " 01:29:27,911\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "quiet on set", 
+      "start_time": "01:29:28,000 ", 
+      "type": "speech", 
+      "end_time": " 01:29:18,315\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "howd you get into all this", 
+      "start_time": "01:29:24,440 ", 
+      "type": "speech", 
+      "end_time": " 01:29:14,394\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "into oh  i  my aunt was an actress she was in this traveling theater company and there was this little library across the street from my house when i was growing up this was boulder city nevada  every house looked exactly the same i was ten and already i needed to get out and one day my aunt flew into town and she showed me the librarys oldmovie section we spent a whole day watching one after the other bringing up baby notorious casablanca", 
+      "start_time": "01:29:14,480 ", 
+      "type": "speech", 
+      "end_time": " 01:29:11,556\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i never knew the world was so big", 
+      "start_time": "01:29:11,640 ", 
+      "type": "speech", 
+      "end_time": " 01:29:09,115\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "cut", 
+      "start_time": "01:29:09,200 ", 
+      "type": "speech", 
+      "end_time": " 01:29:06,600\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i started putting on plays in my garage id write the scripts and print up programs and shed give me props to use from wherever shed just been  new york london paris and then shed jet off again and i wouldnt hear from her for another year", 
+      "start_time": "01:29:06,680 ", 
+      "type": "speech", 
+      "end_time": " 01:29:01,714\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "who would you invite to watch your parents", 
+      "start_time": "01:29:04,040 ", 
+      "type": "speech", 
+      "end_time": " 01:28:57,029\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "god no  i didnt invite anyone that would have been terrifying", 
+      "start_time": "01:28:59,040 ", 
+      "type": "speech", 
+      "end_time": " 01:28:32,519\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "honestly i wish i loved something else ive tried so hard to want other things", 
+      "start_time": "01:28:55,800 ", 
+      "type": "speech", 
+      "end_time": " 01:28:29,552\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i left school after two years to come here my fourth manager just dropped me and my last audition was for a teen soap pitched as dangerous minds meets the oc", 
+      "start_time": "01:28:29,640 ", 
+      "type": "speech", 
+      "end_time": " 01:28:27,640\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "shouldve been a lawyer", 
+      "start_time": "01:28:27,720 ", 
+      "type": "speech", 
+      "end_time": " 01:28:24,910\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "cause the world needs more lawyers", 
+      "start_time": "01:28:25,000 ", 
+      "type": "speech", 
+      "end_time": " 01:28:22,439\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "well it doesnt need more actresses", 
+      "start_time": "01:28:22,520 ", 
+      "type": "speech", 
+      "end_time": " 01:28:20,719\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youre not just an actress", 
+      "start_time": "01:28:20,800 ", 
+      "type": "speech", 
+      "end_time": " 01:28:19,077\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "what do you mean just an actress", 
+      "start_time": "01:28:19,160 ", 
+      "type": "speech", 
+      "end_time": " 01:27:35,920\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you said it yourself youre a child prodigy playwright", 
+      "start_time": "01:28:15,640 ", 
+      "type": "speech", 
+      "end_time": " 01:27:33,197\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "that is not what i said", 
+      "start_time": "01:27:33,280 ", 
+      "type": "speech", 
+      "end_time": " 01:27:31,072\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youre too modest to say it but its true so you could write your own roles write something thats as interesting as you are", 
+      "start_time": "01:27:31,160 ", 
+      "type": "speech", 
+      "end_time": " 01:27:29,159\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "last thing i wrote was a standup routine for an openmic night it was horrible", 
+      "start_time": "01:27:29,240 ", 
+      "type": "speech", 
+      "end_time": " 01:27:14,920\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "all im saying is  louis armstrong could have played the marchingband charts he was given what did he do instead he made history", 
+      "start_time": "01:27:26,280 ", 
+      "type": "speech", 
+      "end_time": " 01:27:12,117\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok ill stop auditioning and make history instead", 
+      "start_time": "01:27:12,200 ", 
+      "type": "speech", 
+      "end_time": " 01:27:09,915\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "anyway  im getting a feeling theres something i should tell you", 
+      "start_time": "01:27:10,000 ", 
+      "type": "speech", 
+      "end_time": " 01:27:07,400\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "yeah", 
+      "start_time": "01:27:07,480 ", 
+      "type": "speech", 
+      "end_time": " 01:27:04,680\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i hate jazz", 
+      "start_time": "01:27:04,760 ", 
+      "type": "speech", 
+      "end_time": " 01:27:03,278\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what does that mean i hate jazz", 
+      "start_time": "01:27:03,360 ", 
+      "type": "speech", 
+      "end_time": " 01:27:00,155\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "it means when i listen to it i dont like it", 
+      "start_time": "01:27:00,240 ", 
+      "type": "speech", 
+      "end_time": " 01:26:57,473\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "but its such a blanket statement its like saying i hate animals", 
+      "start_time": "01:26:57,560 ", 
+      "type": "speech", 
+      "end_time": " 01:26:55,716\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i do hate some animals", 
+      "start_time": "01:26:55,800 ", 
+      "type": "speech", 
+      "end_time": " 01:26:53,395\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "do you need to be anywhere right now", 
+      "start_time": "01:26:53,520 ", 
+      "type": "speech", 
+      "end_time": " 01:26:50,717\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "most people say they hate jazz because they dont have context they dont get where it came from all these people packed into flophouses in new orleans speaking five different languages and jazz was how they talked to each other", 
+      "start_time": "01:26:50,800 ", 
+      "type": "speech", 
+      "end_time": " 01:26:47,349\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "i thought it was just kenny g", 
+      "start_time": "01:26:47,440 ", 
+      "type": "speech", 
+      "end_time": " 01:26:46,034\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what", 
+      "start_time": "01:26:46,120 ", 
+      "type": "speech", 
+      "end_time": " 01:26:42,158\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i associate it with facials its relaxing", 
+      "start_time": "01:26:43,280 ", 
+      "type": "speech", 
+      "end_time": " 01:26:40,189\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its not relaxing sid bechet got into a gunfight cause somebody told him he played a wrong note", 
+      "start_time": "01:26:40,280 ", 
+      "type": "speech", 
+      "end_time": " 01:26:38,870\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "right but its good to talk over where i grew up theres this jazz station theyd play at cocktail parties whenever they served the salami and cheese", 
+      "start_time": "01:26:38,960 ", 
+      "type": "speech", 
+      "end_time": " 01:26:35,149\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "mia these are things you cant unsay", 
+      "start_time": "01:26:35,240 ", 
+      "type": "speech", 
+      "end_time": " 01:26:31,275\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its not cocktail music  its a high wire act these guys are performing and composing and rearranging all at once", 
+      "start_time": "01:26:31,360 ", 
+      "type": "speech", 
+      "end_time": " 01:26:27,353\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "thats why you need to be in the space and see whats at stake this whole thing  its dying in twenty minutes theyll head off to cut commercial sessions or do pit at the pantages cause they have to  but when i have my own place  my club  theyll play whatever they want", 
+      "start_time": "01:26:27,440 ", 
+      "type": "speech", 
+      "end_time": " 01:26:24,276\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "your club", 
+      "start_time": "01:26:24,360 ", 
+      "type": "speech", 
+      "end_time": " 01:26:21,912\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its gonna be the old van beek im getting the lease back itll be perfect", 
+      "start_time": "01:26:22,000 ", 
+      "type": "speech", 
+      "end_time": " 01:26:17,233\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "the world tells everyone to move on says the musics had its moment but i love it too much im not moving on", 
+      "start_time": "01:26:18,680 ", 
+      "type": "speech", 
+      "end_time": " 01:26:15,477\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "so", 
+      "start_time": "01:26:15,560 ", 
+      "type": "speech", 
+      "end_time": " 01:26:11,952\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "hi i just missed a call", 
+      "start_time": "01:26:12,040 ", 
+      "type": "speech", 
+      "end_time": " 01:25:13,634\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i got a callback", 
+      "start_time": "01:26:10,040 ", 
+      "type": "speech", 
+      "end_time": " 01:25:09,591\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "really for what", 
+      "start_time": "01:25:12,200 ", 
+      "type": "speech", 
+      "end_time": " 01:25:03,511\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "that show i told you about", 
+      "start_time": "01:25:06,200 ", 
+      "type": "speech", 
+      "end_time": " 01:25:01,160\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "dangerous minds meets the oc", 
+      "start_time": "01:25:01,280 ", 
+      "type": "speech", 
+      "end_time": " 01:24:58,514\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "right its  actually more like rebel without a cause", 
+      "start_time": "01:24:58,600 ", 
+      "type": "speech", 
+      "end_time": " 01:24:55,879\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "thats amazing i got the bulletsssss", 
+      "start_time": "01:24:57,000 ", 
+      "type": "speech", 
+      "end_time": " 01:24:54,149\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "youve seen it right", 
+      "start_time": "01:24:54,240 ", 
+      "type": "speech", 
+      "end_time": " 01:24:52,836\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "obviously", 
+      "start_time": "01:24:52,920 ", 
+      "type": "speech", 
+      "end_time": " 01:23:30,109\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:24:50,480 ", 
+      "type": "speech", 
+      "end_time": " 01:23:07,791\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what youre the movie person", 
+      "start_time": "01:23:28,880 ", 
+      "type": "speech", 
+      "end_time": " 01:23:00,751\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its the one i lie about", 
+      "start_time": "01:23:05,560 ", 
+      "type": "speech", 
+      "end_time": " 01:22:58,599\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "come on you cant do this audition and never see rebel the theater near mes playing it if you want  i can take you for research", 
+      "start_time": "01:22:58,680 ", 
+      "type": "speech", 
+      "end_time": " 01:22:38,752\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:22:56,880 ", 
+      "type": "speech", 
+      "end_time": " 01:22:36,672\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "10pm monday at the rialto cool", 
+      "start_time": "01:22:36,760 ", 
+      "type": "speech", 
+      "end_time": " 01:22:34,640\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:22:34,760 ", 
+      "type": "speech", 
+      "end_time": " 01:22:33,074\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "for research", 
+      "start_time": "01:22:33,160 ", 
+      "type": "speech", 
+      "end_time": " 01:22:31,635\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "hi mom", 
+      "start_time": "01:22:31,720 ", 
+      "type": "speech", 
+      "end_time": " 01:22:27,712\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "hi sweetie how are you", 
+      "start_time": "01:22:27,800 ", 
+      "type": "speech", 
+      "end_time": " 01:22:24,551\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "great actually i got a callback on a pilot", 
+      "start_time": "01:22:24,640 ", 
+      "type": "speech", 
+      "end_time": " 01:22:22,235\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "oh my god youre going to be on tv", 
+      "start_time": "01:22:22,320 ", 
+      "type": "speech", 
+      "end_time": " 01:22:20,877\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "well  its not picked up yet", 
+      "start_time": "01:22:20,960 ", 
+      "type": "speech", 
+      "end_time": " 01:22:18,673\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "not picked up", 
+      "start_time": "01:22:18,760 ", 
+      "type": "speech", 
+      "end_time": " 01:22:16,839\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "first they make the pilot then if they like the pilot it goes on tv", 
+      "start_time": "01:22:16,920 ", 
+      "type": "speech", 
+      "end_time": " 01:22:15,034\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "and youre in the pilot", 
+      "start_time": "01:22:15,120 ", 
+      "type": "speech", 
+      "end_time": " 01:22:13,519\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "well no i have a callback", 
+      "start_time": "01:22:13,600 ", 
+      "type": "speech", 
+      "end_time": " 01:22:11,713\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i see didnt you audition for a tv thing last week", 
+      "start_time": "01:22:11,800 ", 
+      "type": "speech", 
+      "end_time": " 01:22:09,951\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "its another audition", 
+      "start_time": "01:22:10,040 ", 
+      "type": "speech", 
+      "end_time": " 01:22:07,796\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i see so you might get a role in a thing that might one day be put on tv", 
+      "start_time": "01:22:07,880 ", 
+      "type": "speech", 
+      "end_time": " 01:22:00,436\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "well when you put it like that it sounds like a huge accomplishment", 
+      "start_time": "01:22:04,120 ", 
+      "type": "speech", 
+      "end_time": " 01:21:57,996\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no i dont mean that its so exciting what channel abc hbo", 
+      "start_time": "01:21:58,080 ", 
+      "type": "speech", 
+      "end_time": " 01:21:55,599\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "oxygen", 
+      "start_time": "01:21:55,720 ", 
+      "type": "speech", 
+      "end_time": " 01:21:52,680\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "oxygen", 
+      "start_time": "01:21:52,800 ", 
+      "type": "speech", 
+      "end_time": " 01:21:49,956\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "you know what i have to go i love you", 
+      "start_time": "01:21:50,040 ", 
+      "type": "speech", 
+      "end_time": " 01:21:48,710\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "well be seeing you very soon", 
+      "start_time": "01:21:48,840 ", 
+      "type": "speech", 
+      "end_time": " 01:21:47,638\r\n", 
+      "character": "DIRECTOR (O.S.)"
+    }, 
+    {
+      "text": "mia dolan", 
+      "start_time": "01:21:47,720 ", 
+      "type": "speech", 
+      "end_time": " 01:21:44,355\r\n", 
+      "character": "ASSISTANT"
+    }, 
+    {
+      "text": "whenever youre ready", 
+      "start_time": "01:21:44,440 ", 
+      "type": "speech", 
+      "end_time": " 01:21:41,838\r\n", 
+      "character": "DIRECTOR"
+    }, 
+    {
+      "text": "two options follow my rules or follow my rules kapish you want to bully youd best be ready to get bullied ", 
+      "start_time": "01:21:41,920 ", 
+      "type": "speech", 
+      "end_time": " 01:21:39,911\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "thanks", 
+      "start_time": "01:21:40,040 ", 
+      "type": "speech", 
+      "end_time": " 01:21:37,670\r\n", 
+      "character": "DIRECTOR"
+    }, 
+    {
+      "text": "i can do it another way ", 
+      "start_time": "01:21:37,760 ", 
+      "type": "speech", 
+      "end_time": " 01:21:36,517\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no thanks that was great", 
+      "start_time": "01:21:36,600 ", 
+      "type": "speech", 
+      "end_time": " 01:21:34,395\r\n", 
+      "character": "DIRECTOR"
+    }, 
+    {
+      "text": "dad just helped me find oxygen on the guide so exciting so will you be getting health insurance now", 
+      "start_time": "01:21:34,480 ", 
+      "type": "speech", 
+      "end_time": " 01:21:31,792\r\n", 
+      "character": "MIA'S MOM (O.S.)"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "01:21:31,880 ", 
+      "type": "speech", 
+      "end_time": " 01:21:29,796\r\n", 
+      "character": "ALEXIS"
+    }, 
+    {
+      "text": "gregs here", 
+      "start_time": "01:21:29,880 ", 
+      "type": "speech", 
+      "end_time": " 01:21:27,355\r\n", 
+      "character": "ALEXIS (CONT'D)"
+    }, 
+    {
+      "text": "hey im parked out front but we should hurry my brother just landed", 
+      "start_time": "01:21:27,440 ", 
+      "type": "speech", 
+      "end_time": " 01:21:25,997\r\n", 
+      "character": "GREG"
+    }, 
+    {
+      "text": "did you forget", 
+      "start_time": "01:21:26,080 ", 
+      "type": "speech", 
+      "end_time": " 01:21:23,957\r\n", 
+      "character": "GREG (CONT'D)"
+    }, 
+    {
+      "text": "shit no yes ill change", 
+      "start_time": "01:21:24,040 ", 
+      "type": "speech", 
+      "end_time": " 01:21:21,911\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its ok", 
+      "start_time": "01:21:22,000 ", 
+      "type": "speech", 
+      "end_time": " 01:21:18,480\r\n", 
+      "character": "GREG"
+    }, 
+    {
+      "text": "josh yep just picking mia up now will be there in twenty", 
+      "start_time": "01:21:18,600 ", 
+      "type": "speech", 
+      "end_time": " 01:21:15,676\r\n", 
+      "character": "GREG (O.S.) (CONT'D)"
+    }, 
+    {
+      "text": "thats right  but now weve got a surroundsound setup so its like ", 
+      "start_time": "01:21:15,760 ", 
+      "type": "speech", 
+      "end_time": " 01:21:14,517\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "its like being in a movie theater", 
+      "start_time": "01:21:14,640 ", 
+      "type": "speech", 
+      "end_time": " 01:21:12,309\r\n", 
+      "character": "FIANCEE"
+    }, 
+    {
+      "text": "its better than going to a theater really you know theaters these days ", 
+      "start_time": "01:21:12,400 ", 
+      "type": "speech", 
+      "end_time": " 01:21:09,753\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "oh sure ", 
+      "start_time": "01:21:09,840 ", 
+      "type": "speech", 
+      "end_time": " 01:21:07,911\r\n", 
+      "character": "GREG"
+    }, 
+    {
+      "text": " theyre so dirty and theyre either too hot or too cold and theres always people talking which is just ", 
+      "start_time": "01:21:08,000 ", 
+      "type": "speech", 
+      "end_time": " 01:21:05,676\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": " just so annoying i mean youre trying to watch a movie  one second ", 
+      "start_time": "01:21:05,760 ", 
+      "type": "speech", 
+      "end_time": " 01:21:04,560\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "hello", 
+      "start_time": "01:21:04,640 ", 
+      "type": "speech", 
+      "end_time": " 01:21:02,998\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "probably work", 
+      "start_time": "01:21:03,080 ", 
+      "type": "speech", 
+      "end_time": " 01:20:59,790\r\n", 
+      "character": "FIANCEE"
+    }, 
+    {
+      "text": "yeah ill have to call you back", 
+      "start_time": "01:20:59,880 ", 
+      "type": "speech", 
+      "end_time": " 01:20:57,316\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "so yeah we love it", 
+      "start_time": "01:20:57,400 ", 
+      "type": "speech", 
+      "end_time": " 01:20:54,880\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "one word for you nicaragua", 
+      "start_time": "01:20:54,960 ", 
+      "type": "speech", 
+      "end_time": " 01:20:50,840\r\n", 
+      "character": "JOSH (CONT'D)"
+    }, 
+    {
+      "text": "ive never heard anyone say that was it amazing", 
+      "start_time": "01:20:50,920 ", 
+      "type": "speech", 
+      "end_time": " 01:20:46,836\r\n", 
+      "character": "GREG"
+    }, 
+    {
+      "text": "oh my god a fivestar jungle ecoresort it was unbelievable", 
+      "start_time": "01:20:49,440 ", 
+      "type": "speech", 
+      "end_time": " 01:20:41,832\r\n", 
+      "character": "JOSH"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "01:20:41,920 ", 
+      "type": "speech", 
+      "end_time": " 01:20:38,676\r\n", 
+      "character": "GREG"
+    }, 
+    {
+      "text": "im sorry", 
+      "start_time": "01:20:38,760 ", 
+      "type": "speech", 
+      "end_time": " 01:20:34,997\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i have an idea", 
+      "start_time": "01:20:35,080 ", 
+      "type": "speech", 
+      "end_time": " 01:20:31,354\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "whats that", 
+      "start_time": "01:20:33,040 ", 
+      "type": "speech", 
+      "end_time": " 01:20:28,039\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "is that a script", 
+      "start_time": "01:20:28,600 ", 
+      "type": "speech", 
+      "end_time": " 01:20:26,240\r\n", 
+      "character": "TRACY (CONT'D)"
+    }, 
+    {
+      "text": "its a play im going to put it on myself", 
+      "start_time": "01:20:26,320 ", 
+      "type": "speech", 
+      "end_time": " 01:20:23,430\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "a play you better give us roles", 
+      "start_time": "01:20:23,520 ", 
+      "type": "speech", 
+      "end_time": " 01:20:20,959\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "actually  its a  its a onewoman show", 
+      "start_time": "01:20:21,040 ", 
+      "type": "speech", 
+      "end_time": " 01:20:19,310\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "is that gonna happen every time", 
+      "start_time": "01:20:19,400 ", 
+      "type": "speech", 
+      "end_time": " 01:20:15,514\r\n", 
+      "character": "TRACY"
+    }, 
+    {
+      "text": "i think so", 
+      "start_time": "01:20:15,600 ", 
+      "type": "speech", 
+      "end_time": " 01:20:11,674\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its oneway", 
+      "start_time": "01:20:12,840 ", 
+      "type": "speech", 
+      "end_time": " 01:20:08,997\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "sebastian", 
+      "start_time": "01:20:10,240 ", 
+      "type": "speech", 
+      "end_time": " 01:20:05,195\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "keith", 
+      "start_time": "01:20:07,040 ", 
+      "type": "speech", 
+      "end_time": " 01:20:03,913\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "nice meeting you", 
+      "start_time": "01:20:04,000 ", 
+      "type": "speech", 
+      "end_time": " 01:20:00,913\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its beautiful", 
+      "start_time": "01:20:01,000 ", 
+      "type": "speech", 
+      "end_time": " 01:19:57,400\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "youre just saying that", 
+      "start_time": "01:19:59,320 ", 
+      "type": "speech", 
+      "end_time": " 01:19:54,639\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no im not", 
+      "start_time": "01:19:56,000 ", 
+      "type": "speech", 
+      "end_time": " 01:19:50,278\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i dont know is the whole thing too nostalgic", 
+      "start_time": "01:19:50,360 ", 
+      "type": "speech", 
+      "end_time": " 01:19:45,350\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "thats the point", 
+      "start_time": "01:19:48,400 ", 
+      "type": "speech", 
+      "end_time": " 01:19:39,196\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "but do you think people will like it", 
+      "start_time": "01:19:42,960 ", 
+      "type": "speech", 
+      "end_time": " 01:19:36,834\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "fuck em", 
+      "start_time": "01:19:36,920 ", 
+      "type": "speech", 
+      "end_time": " 01:19:35,320\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "you always say that", 
+      "start_time": "01:19:35,400 ", 
+      "type": "speech", 
+      "end_time": " 01:19:31,351\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i truly believe it", 
+      "start_time": "01:19:31,440 ", 
+      "type": "speech", 
+      "end_time": " 01:19:29,194\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "fine  as long as you sit frontrow cause ill probably throw up on the middle of the stage otherwise", 
+      "start_time": "01:19:29,280 ", 
+      "type": "speech", 
+      "end_time": " 01:19:25,353\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "ill be frontrow", 
+      "start_time": "01:19:26,360 ", 
+      "type": "speech", 
+      "end_time": " 01:19:23,675\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i made something for you", 
+      "start_time": "01:19:23,760 ", 
+      "type": "speech", 
+      "end_time": " 01:19:22,398\r\n", 
+      "character": "Revision                       43.\nMIA"
+    }, 
+    {
+      "text": "whats that", 
+      "start_time": "01:19:22,480 ", 
+      "type": "speech", 
+      "end_time": " 01:19:20,436\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "it could be the name design on the door", 
+      "start_time": "01:19:20,520 ", 
+      "type": "speech", 
+      "end_time": " 01:19:18,158\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why does it say sebs", 
+      "start_time": "01:19:18,240 ", 
+      "type": "speech", 
+      "end_time": " 01:19:13,714\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "thats what you should name it", 
+      "start_time": "01:19:13,800 ", 
+      "type": "speech", 
+      "end_time": " 01:19:10,871\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "never", 
+      "start_time": "01:19:10,960 ", 
+      "type": "speech", 
+      "end_time": " 01:19:06,392\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "sebastian no ones going to a club called chicken on a stick", 
+      "start_time": "01:19:07,400 ", 
+      "type": "speech", 
+      "end_time": " 01:19:04,476\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you dont get it charlie parker got the name bird because he loved chicken so my clubs gonna be oldschool jazz and beer and chicken chicken on a stick", 
+      "start_time": "01:19:04,560 ", 
+      "type": "speech", 
+      "end_time": " 01:18:58,392\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no drop the chicken drinks and jazz", 
+      "start_time": "01:19:02,200 ", 
+      "type": "speech", 
+      "end_time": " 01:18:56,314\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "and its time to start looking for other places", 
+      "start_time": "01:18:56,400 ", 
+      "type": "speech", 
+      "end_time": " 01:18:54,790\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its gotta be van beek i cant let them samba all over its history", 
+      "start_time": "01:18:54,880 ", 
+      "type": "speech", 
+      "end_time": " 01:18:53,560\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "make your own history", 
+      "start_time": "01:18:53,640 ", 
+      "type": "speech", 
+      "end_time": " 01:18:50,709\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "your plays incredible", 
+      "start_time": "01:18:52,240 ", 
+      "type": "speech", 
+      "end_time": " 01:18:49,394\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "the whole world from your bedroom whos doing that", 
+      "start_time": "01:18:49,480 ", 
+      "type": "speech", 
+      "end_time": " 01:18:45,313\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "im doing that", 
+      "start_time": "01:18:45,400 ", 
+      "type": "speech", 
+      "end_time": " 01:18:43,549\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "so who was that guy at the lighthouse", 
+      "start_time": "01:18:43,640 ", 
+      "type": "speech", 
+      "end_time": " 01:18:40,874\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "which guy", 
+      "start_time": "01:18:42,320 ", 
+      "type": "speech", 
+      "end_time": " 01:18:36,639\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "the one who offered you a gig", 
+      "start_time": "01:18:39,520 ", 
+      "type": "speech", 
+      "end_time": " 01:18:34,911\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you mean keith hes the worst", 
+      "start_time": "01:18:35,000 ", 
+      "type": "speech", 
+      "end_time": " 01:18:31,836\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "why was it weird between you two", 
+      "start_time": "01:18:32,840 ", 
+      "type": "speech", 
+      "end_time": " 01:18:30,712\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "its always weird with him", 
+      "start_time": "01:18:30,800 ", 
+      "type": "speech", 
+      "end_time": " 01:18:27,469\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "he did offer you a job", 
+      "start_time": "01:18:27,560 ", 
+      "type": "speech", 
+      "end_time": " 01:18:24,040\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "right", 
+      "start_time": "01:18:26,240 ", 
+      "type": "speech", 
+      "end_time": " 01:18:22,474\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "are you going to call him", 
+      "start_time": "01:18:22,560 ", 
+      "type": "speech", 
+      "end_time": " 01:18:18,476\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:18:18,560 ", 
+      "type": "speech", 
+      "end_time": " 01:18:14,794\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:18:14,880 ", 
+      "type": "speech", 
+      "end_time": " 01:18:13,359\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "heres what we know its definitely chicken on a stick ", 
+      "start_time": "01:18:13,440 ", 
+      "type": "speech", 
+      "end_time": " 01:18:10,312\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": " and your play is going to be a triumph", 
+      "start_time": "01:18:10,400 ", 
+      "type": "speech", 
+      "end_time": " 01:18:05,755\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no mom its a onewoman show no im acting in it as well no im not getting paid im paying to do it", 
+      "start_time": "01:18:05,840 ", 
+      "type": "speech", 
+      "end_time": " 01:18:04,392\r\n", 
+      "character": "MIA (O.S.)"
+    }, 
+    {
+      "text": "hes great hes going to open his own jazz club its going to be incredible", 
+      "start_time": "01:18:04,480 ", 
+      "type": "speech", 
+      "end_time": " 01:18:02,319\r\n", 
+      "character": "MIA (O.S.)"
+    }, 
+    {
+      "text": "well he has to get the money together first and hes figuring it out yeah its just been a little tricky lately", 
+      "start_time": "01:18:02,400 ", 
+      "type": "speech", 
+      "end_time": " 01:18:00,519\r\n", 
+      "character": "MIA (O.S.)"
+    }, 
+    {
+      "text": "look  hes going to find a way to open it and youre going to love it ok hows dad", 
+      "start_time": "01:18:00,600 ", 
+      "type": "speech", 
+      "end_time": " 01:17:58,791\r\n", 
+      "character": "MIA (O.S.) (CONT'D)"
+    }, 
+    {
+      "text": "sebastian", 
+      "start_time": "01:17:58,880 ", 
+      "type": "speech", 
+      "end_time": " 01:17:54,159\r\n", 
+      "character": "MIA (O.S.) (CONT'D)"
+    }, 
+    {
+      "text": "didnt know if id see you today", 
+      "start_time": "01:17:56,560 ", 
+      "type": "speech", 
+      "end_time": " 01:17:49,678\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "well here i am", 
+      "start_time": "01:17:52,520 ", 
+      "type": "speech", 
+      "end_time": " 01:17:42,433\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "wheres the piano", 
+      "start_time": "01:17:47,880 ", 
+      "type": "speech", 
+      "end_time": " 01:17:36,478\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "heres the deal weve got distribution with universal got our own imprint were about to go on the road we can cut you in for 1k a week while we tour plus an equal share of any merchandise or ticket revenue that comes in sound good", 
+      "start_time": "01:17:39,520 ", 
+      "type": "speech", 
+      "end_time": " 01:16:56,833\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "sebastian", 
+      "start_time": "01:17:33,280 ", 
+      "type": "speech", 
+      "end_time": " 01:16:53,318\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "yeah thatthat", 
+      "start_time": "01:16:55,240 ", 
+      "type": "speech", 
+      "end_time": " 01:16:47,478\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "sounds good", 
+      "start_time": "01:16:47,560 ", 
+      "type": "speech", 
+      "end_time": " 01:16:45,513\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "lets play see how it feels", 
+      "start_time": "01:16:45,600 ", 
+      "type": "speech", 
+      "end_time": " 01:16:41,200\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i know its different", 
+      "start_time": "01:16:41,280 ", 
+      "type": "speech", 
+      "end_time": " 01:16:39,793\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "but you say you want to save jazz how are you going to save jazz if no ones listening jazz wouldnt exist if people hadnt gotten tired of what they were listening to before", 
+      "start_time": "01:16:39,880 ", 
+      "type": "speech", 
+      "end_time": " 01:16:01,194\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "i mean do you really think a bunch of ninetyyearolds in a basement is the future of the form traditionalists whined when kenny clarke started dropping bombs if traditionalists had their way wed still be playing dixieland", 
+      "start_time": "01:16:38,120 ", 
+      "type": "speech", 
+      "end_time": " 01:15:59,592\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "youre holding onto the past but jazz is about the future", 
+      "start_time": "01:15:59,680 ", 
+      "type": "speech", 
+      "end_time": " 01:15:55,109\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i get it i got it wrong last guy wasnt as good as you but youre a pain in the ass man", 
+      "start_time": "01:15:55,200 ", 
+      "type": "speech", 
+      "end_time": " 01:15:52,553\r\n", 
+      "character": "KEITH"
+    }, 
+    {
+      "text": "if its not your thing just let me know i dont want you uncomfortable and trying to change this into something its not but if you want it  the jobs yours", 
+      "start_time": "01:15:52,640 ", 
+      "type": "speech", 
+      "end_time": " 01:15:49,471\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "sebastian                        mia", 
+      "start_time": "01:15:49,560 ", 
+      "type": "speech", 
+      "end_time": " 01:15:44,596\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "brightly", 
+      "start_time": "01:15:44,680 ", 
+      "type": "speech", 
+      "end_time": " 01:15:42,317\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "look at him  watch ", 
+      "start_time": "01:15:42,400 ", 
+      "type": "speech", 
+      "end_time": " 01:15:40,200\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "now hes going to check the other window yep its closed now hes going to check again yep still closed", 
+      "start_time": "01:15:40,280 ", 
+      "type": "speech", 
+      "end_time": " 01:15:37,396\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "hey im grabbing some pastries you two want anything", 
+      "start_time": "01:15:37,480 ", 
+      "type": "speech", 
+      "end_time": " 01:15:15,752\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "thanks harry im good", 
+      "start_time": "01:15:35,200 ", 
+      "type": "speech", 
+      "end_time": " 01:15:11,072\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "same here but i think someones trying to break into your car", 
+      "start_time": "01:15:12,600 ", 
+      "type": "speech", 
+      "end_time": " 01:15:07,919\r\n", 
+      "character": "Revision                       52."
+    }, 
+    {
+      "text": "dont stress about the play wheres seb now", 
+      "start_time": "01:15:08,000 ", 
+      "type": "speech", 
+      "end_time": " 01:15:04,870\r\n", 
+      "character": "Revision                       52."
+    }, 
+    {
+      "text": "i think todays san diego im not sure", 
+      "start_time": "01:15:04,960 ", 
+      "type": "speech", 
+      "end_time": " 01:15:02,438\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you should come over tonight harrys cooking but dont let that stop you", 
+      "start_time": "01:15:02,560 ", 
+      "type": "speech", 
+      "end_time": " 01:14:57,991\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "whats the matter", 
+      "start_time": "01:14:58,080 ", 
+      "type": "speech", 
+      "end_time": " 01:14:50,478\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "nothing", 
+      "start_time": "01:14:53,280 ", 
+      "type": "speech", 
+      "end_time": " 01:14:48,593\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you miss him", 
+      "start_time": "01:14:48,680 ", 
+      "type": "speech", 
+      "end_time": " 01:14:44,271\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i guess im adapting", 
+      "start_time": "01:14:44,360 ", 
+      "type": "speech", 
+      "end_time": " 01:14:42,111\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i got used to being alone growing up it was just me and seb we only had each other", 
+      "start_time": "01:14:42,200 ", 
+      "type": "speech", 
+      "end_time": " 01:14:39,034\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "he told me", 
+      "start_time": "01:14:40,040 ", 
+      "type": "speech", 
+      "end_time": " 01:14:33,636\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i wasnt looking for anybody then i met harry and  we just fit", 
+      "start_time": "01:14:33,720 ", 
+      "type": "speech", 
+      "end_time": " 01:14:31,232\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youve changed seb you know that", 
+      "start_time": "01:14:31,360 ", 
+      "type": "speech", 
+      "end_time": " 01:14:29,149\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "do you think hes happy", 
+      "start_time": "01:14:29,240 ", 
+      "type": "speech", 
+      "end_time": " 01:14:26,591\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "is he happy", 
+      "start_time": "01:14:26,680 ", 
+      "type": "speech", 
+      "end_time": " 01:14:24,397\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i mean with the band the travel all of it", 
+      "start_time": "01:14:24,520 ", 
+      "type": "speech", 
+      "end_time": " 01:14:20,877\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "our dad never got to do what he wanted we were always treading water he took a job running a washerdryer store but every night at home hed play his clarinet along to a benny goodman record", 
+      "start_time": "01:14:20,960 ", 
+      "type": "speech", 
+      "end_time": " 01:14:15,196\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "so i look at sebastian playing music getting paid for it im happy for him", 
+      "start_time": "01:14:16,200 ", 
+      "type": "speech", 
+      "end_time": " 01:14:10,191\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "dreams change", 
+      "start_time": "01:14:10,280 ", 
+      "type": "speech", 
+      "end_time": " 01:14:04,953\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "dont overthink it hell be home soon", 
+      "start_time": "01:14:06,800 ", 
+      "type": "speech", 
+      "end_time": " 01:14:01,874\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "i told you not to get me anything", 
+      "start_time": "01:14:01,960 ", 
+      "type": "speech", 
+      "end_time": " 01:13:59,109\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "oh right  ill eat it i guess", 
+      "start_time": "01:13:59,200 ", 
+      "type": "speech", 
+      "end_time": " 01:13:56,558\r\n", 
+      "character": "HARRY"
+    }, 
+    {
+      "text": "no  i changed my mind", 
+      "start_time": "01:13:56,640 ", 
+      "type": "speech", 
+      "end_time": " 01:13:52,038\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "hey its me not sure where you are  maybe boston or dallas anyway i havent heard from you in a while i miss you", 
+      "start_time": "01:13:52,120 ", 
+      "type": "speech", 
+      "end_time": " 01:13:40,192\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "ok bye", 
+      "start_time": "01:13:47,600 ", 
+      "type": "speech", 
+      "end_time": " 01:13:35,514\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "surprise", 
+      "start_time": "01:13:35,640 ", 
+      "type": "speech", 
+      "end_time": " 01:13:32,751\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "and", 
+      "start_time": "01:13:32,840 ", 
+      "type": "speech", 
+      "end_time": " 01:13:30,436\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "theres twentyfive pounds of apples in it it probably destroyed an ecosystem but it tastes good", 
+      "start_time": "01:13:30,520 ", 
+      "type": "speech", 
+      "end_time": " 01:13:25,517\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "i have to head back in the morning but i needed to see you", 
+      "start_time": "01:13:25,600 ", 
+      "type": "speech", 
+      "end_time": " 01:12:51,551\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "feels so good to be home", 
+      "start_time": "01:13:20,920 ", 
+      "type": "speech", 
+      "end_time": " 01:12:48,157\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "stay", 
+      "start_time": "01:12:48,240 ", 
+      "type": "speech", 
+      "end_time": " 01:12:46,116\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "hows the play going", 
+      "start_time": "01:12:46,200 ", 
+      "type": "speech", 
+      "end_time": " 01:12:38,190\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im nervous", 
+      "start_time": "01:12:41,360 ", 
+      "type": "speech", 
+      "end_time": " 01:12:34,399\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why", 
+      "start_time": "01:12:34,480 ", 
+      "type": "speech", 
+      "end_time": " 01:10:41,192\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because", 
+      "start_time": "01:12:31,520 ", 
+      "type": "speech", 
+      "end_time": " 01:10:37,834\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what if people show up", 
+      "start_time": "01:10:37,960 ", 
+      "type": "speech", 
+      "end_time": " 01:10:33,677\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "fuck em", 
+      "start_time": "01:10:33,760 ", 
+      "type": "speech", 
+      "end_time": " 01:10:30,237\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "youre nervous about what they think", 
+      "start_time": "01:10:30,320 ", 
+      "type": "speech", 
+      "end_time": " 01:10:28,079\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "im nervous to be up on a stage and perform in front of people im terrified", 
+      "start_time": "01:10:28,200 ", 
+      "type": "speech", 
+      "end_time": " 01:10:22,190\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "they should be so lucky to see it", 
+      "start_time": "01:10:25,280 ", 
+      "type": "speech", 
+      "end_time": " 01:10:19,718\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its going to be incredible i cant wait", 
+      "start_time": "01:10:19,800 ", 
+      "type": "speech", 
+      "end_time": " 01:10:16,517\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i can", 
+      "start_time": "01:10:16,600 ", 
+      "type": "speech", 
+      "end_time": " 01:10:13,151\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what time do you leave in the morning", 
+      "start_time": "01:10:13,240 ", 
+      "type": "speech", 
+      "end_time": " 01:10:10,999\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "645", 
+      "start_time": "01:10:11,080 ", 
+      "type": "speech", 
+      "end_time": " 01:10:07,956\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ugh", 
+      "start_time": "01:10:08,040 ", 
+      "type": "speech", 
+      "end_time": " 01:10:05,516\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yep boise", 
+      "start_time": "01:10:05,600 ", 
+      "type": "speech", 
+      "end_time": " 01:10:03,237\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "boise", 
+      "start_time": "01:10:03,320 ", 
+      "type": "speech", 
+      "end_time": " 01:09:59,754\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you should come", 
+      "start_time": "01:09:59,880 ", 
+      "type": "speech", 
+      "end_time": " 01:09:56,998\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "to boise", 
+      "start_time": "01:09:57,080 ", 
+      "type": "speech", 
+      "end_time": " 01:09:53,831\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yeah you could knock that off your bucket list", 
+      "start_time": "01:09:53,960 ", 
+      "type": "speech", 
+      "end_time": " 01:09:47,880\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "wish i could", 
+      "start_time": "01:09:47,960 ", 
+      "type": "speech", 
+      "end_time": " 01:09:42,436\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why cant you", 
+      "start_time": "01:09:45,240 ", 
+      "type": "speech", 
+      "end_time": " 01:09:38,840\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "come to boise", 
+      "start_time": "01:09:38,920 ", 
+      "type": "speech", 
+      "end_time": " 01:09:32,994\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yeah", 
+      "start_time": "01:09:36,200 ", 
+      "type": "speech", 
+      "end_time": " 01:09:30,074\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because i have to rehearse", 
+      "start_time": "01:09:30,160 ", 
+      "type": "speech", 
+      "end_time": " 01:09:24,795\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "cant you rehearse anywhere", 
+      "start_time": "01:09:26,160 ", 
+      "type": "speech", 
+      "end_time": " 01:09:19,558\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "you mean anywhere you are", 
+      "start_time": "01:09:19,640 ", 
+      "type": "speech", 
+      "end_time": " 01:09:14,114\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i  i guess", 
+      "start_time": "01:09:16,360 ", 
+      "type": "speech", 
+      "end_time": " 01:09:10,113\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "well all my stuff is here and my shows in a few weeks and  i dont know it doesnt seem practical", 
+      "start_time": "01:09:10,200 ", 
+      "type": "speech", 
+      "end_time": " 01:09:06,995\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "right i just  were going to have to do things so we can see each other we never see each other", 
+      "start_time": "01:09:07,120 ", 
+      "type": "speech", 
+      "end_time": " 01:09:00,599\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i know but when are you done", 
+      "start_time": "01:09:00,680 ", 
+      "type": "speech", 
+      "end_time": " 01:08:17,714\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what do you mean", 
+      "start_time": "01:08:57,720 ", 
+      "type": "speech", 
+      "end_time": " 01:08:13,553\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "when are you done with the tour", 
+      "start_time": "01:08:14,960 ", 
+      "type": "speech", 
+      "end_time": " 01:08:10,552\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "but  as soon as were done with the tour we go back and record and then we go back on tour", 
+      "start_time": "01:08:10,640 ", 
+      "type": "speech", 
+      "end_time": " 01:08:03,749\r\n", 
+      "character": "Revision                   57.\nSEBASTIAN"
+    }, 
+    {
+      "text": "we tour so we can make the record and then we go back on tour to sell the record", 
+      "start_time": "01:08:08,720 ", 
+      "type": "speech", 
+      "end_time": " 01:07:59,874\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "so itsthe long haul", 
+      "start_time": "01:07:59,960 ", 
+      "type": "speech", 
+      "end_time": " 01:07:55,679\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what does that mean", 
+      "start_time": "01:07:55,800 ", 
+      "type": "speech", 
+      "end_time": " 01:07:53,952\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i mean the long haul  like youre going to be in this band for a long time", 
+      "start_time": "01:07:54,040 ", 
+      "type": "speech", 
+      "end_time": " 01:07:49,475\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what did you think i was going to do", 
+      "start_time": "01:07:49,560 ", 
+      "type": "speech", 
+      "end_time": " 01:07:46,919\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i dont know i didnt think the band would ", 
+      "start_time": "01:07:47,040 ", 
+      "type": "speech", 
+      "end_time": " 01:07:42,635\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you didnt think wed be successful", 
+      "start_time": "01:07:42,720 ", 
+      "type": "speech", 
+      "end_time": " 01:07:40,075\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no thats not what i meant what i meant was  this band  youre going to be on the road for  what years now", 
+      "start_time": "01:07:40,200 ", 
+      "type": "speech", 
+      "end_time": " 01:07:37,556\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yeah feasibly  i could be on the road for years with just this record", 
+      "start_time": "01:07:37,640 ", 
+      "type": "speech", 
+      "end_time": " 01:07:33,070\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "do you like the music youre playing", 
+      "start_time": "01:07:35,200 ", 
+      "type": "speech", 
+      "end_time": " 01:07:28,919\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i dont know how that matters", 
+      "start_time": "01:07:32,000 ", 
+      "type": "speech", 
+      "end_time": " 01:06:32,955\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "it matters if youre going to give up your dream to be on the road for years revision                    58", 
+      "start_time": "01:07:27,280 ", 
+      "type": "speech", 
+      "end_time": " 01:06:31,591\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i do like jazz now because of you", 
+      "start_time": "01:06:31,680 ", 
+      "type": "speech", 
+      "end_time": " 01:06:27,079\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what am i supposed to do go back to playing jingle bells so i can save money for some shangrila club no one wants to go to", 
+      "start_time": "01:06:29,520 ", 
+      "type": "speech", 
+      "end_time": " 01:06:25,358\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "people will want to go to it people love what other people are passionate about", 
+      "start_time": "01:06:25,440 ", 
+      "type": "speech", 
+      "end_time": " 01:06:22,157\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "not in my experience", 
+      "start_time": "01:06:22,240 ", 
+      "type": "speech", 
+      "end_time": " 01:06:20,000\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "anyway  its time to grow up you know this is what im doing if you had a problem i wish you wouldve said something earlier before i signed on the dotted line", 
+      "start_time": "01:06:20,120 ", 
+      "type": "speech", 
+      "end_time": " 01:06:18,513\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "you had a dream that you were sticking to that ", 
+      "start_time": "01:06:18,600 ", 
+      "type": "speech", 
+      "end_time": " 01:06:15,518\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "this is the dream", 
+      "start_time": "01:06:15,600 ", 
+      "type": "speech", 
+      "end_time": " 01:06:13,556\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "this is not your dream", 
+      "start_time": "01:06:13,640 ", 
+      "type": "speech", 
+      "end_time": " 01:06:11,112\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "guys like me go their whole lives and never do anything thats liked im finally doing something that people enjoy what is wrong with that", 
+      "start_time": "01:06:11,200 ", 
+      "type": "speech", 
+      "end_time": " 01:06:07,718\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "why do you care so much about being liked", 
+      "start_time": "01:06:09,280 ", 
+      "type": "speech", 
+      "end_time": " 01:05:56,549\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youre an actress who are you to talk", 
+      "start_time": "01:06:04,520 ", 
+      "type": "speech", 
+      "end_time": " 01:05:55,232\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "maybe you liked me more when i was a failure because it made you feel better about yourself", 
+      "start_time": "01:05:55,320 ", 
+      "type": "speech", 
+      "end_time": " 01:05:47,959\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "are you kidding", 
+      "start_time": "01:05:52,080 ", 
+      "type": "speech", 
+      "end_time": " 01:05:45,072\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no", 
+      "start_time": "01:05:45,160 ", 
+      "type": "speech", 
+      "end_time": " 01:05:36,919\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "wait ", 
+      "start_time": "01:05:43,080 ", 
+      "type": "speech", 
+      "end_time": " 01:05:31,029\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "sebastian                          cole", 
+      "start_time": "01:05:35,200 ", 
+      "type": "speech", 
+      "end_time": " 01:05:29,713\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "put a light on the drums i need more fill in this corner", 
+      "start_time": "01:05:29,800 ", 
+      "type": "speech", 
+      "end_time": " 01:05:25,519\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "bass head up piano look down at the keys", 
+      "start_time": "01:05:27,960 ", 
+      "type": "speech", 
+      "end_time": " 01:05:23,794\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "cut the music turn the keyboard live piano look up play", 
+      "start_time": "01:05:23,880 ", 
+      "type": "speech", 
+      "end_time": " 01:05:18,836\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "no  piano  actually play something", 
+      "start_time": "01:05:21,120 ", 
+      "type": "speech", 
+      "end_time": " 01:05:13,509\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "good now bite your lip like youre concentrating on a solo", 
+      "start_time": "01:05:15,160 ", 
+      "type": "speech", 
+      "end_time": " 01:05:10,951\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "that was good dont stop", 
+      "start_time": "01:05:11,040 ", 
+      "type": "speech", 
+      "end_time": " 01:05:05,717\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "i swear to god if i have to hear one more hipster waxing nostalgic im gonna slit my wrists", 
+      "start_time": "01:05:08,720 ", 
+      "type": "speech", 
+      "end_time": " 01:05:03,591\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "seriously", 
+      "start_time": "01:05:03,680 ", 
+      "type": "speech", 
+      "end_time": " 01:05:00,118\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "shes not even good that window thing", 
+      "start_time": "01:05:00,200 ", 
+      "type": "speech", 
+      "end_time": " 01:04:58,237\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "christ dont quit your day job", 
+      "start_time": "01:04:58,320 ", 
+      "type": "speech", 
+      "end_time": " 01:04:54,872\r\n", 
+      "character": "KEITH (CONT'D)"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "01:04:54,960 ", 
+      "type": "speech", 
+      "end_time": " 01:04:52,879\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im sorry ", 
+      "start_time": "01:04:52,960 ", 
+      "type": "speech", 
+      "end_time": " 01:04:47,672\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "stop ", 
+      "start_time": "01:04:48,760 ", 
+      "type": "speech", 
+      "end_time": " 01:04:44,309\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "im  im sorry i missed it  and im sorry i was a dick and i  i promise ill make it up to you ", 
+      "start_time": "01:04:44,440 ", 
+      "type": "speech", 
+      "end_time": " 01:04:42,994\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its over", 
+      "start_time": "01:04:43,080 ", 
+      "type": "speech", 
+      "end_time": " 01:04:38,836\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what do you mean", 
+      "start_time": "01:04:38,920 ", 
+      "type": "speech", 
+      "end_time": " 01:04:37,633\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im done embarrassing myself", 
+      "start_time": "01:04:37,720 ", 
+      "type": "speech", 
+      "end_time": " 01:04:32,311\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you didnt embarrass yourself", 
+      "start_time": "01:04:33,320 ", 
+      "type": "speech", 
+      "end_time": " 01:04:29,033\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "you remember the mckenzies", 
+      "start_time": "01:04:30,080 ", 
+      "type": "speech", 
+      "end_time": " 01:04:25,959\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "oh god i didnt see them", 
+      "start_time": "01:04:26,040 ", 
+      "type": "speech", 
+      "end_time": " 01:04:21,676\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "yeah they kept going oh sebastians so handsome", 
+      "start_time": "01:04:21,760 ", 
+      "type": "speech", 
+      "end_time": " 01:04:16,752\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "you look beautiful", 
+      "start_time": "01:04:16,840 ", 
+      "type": "speech", 
+      "end_time": " 01:04:14,755\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i hope it was ok i havent played in a while", 
+      "start_time": "01:04:14,840 ", 
+      "type": "speech", 
+      "end_time": " 01:04:12,240\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "you were great", 
+      "start_time": "01:04:12,320 ", 
+      "type": "speech", 
+      "end_time": " 01:04:10,834\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "youre always great when you play", 
+      "start_time": "01:04:10,920 ", 
+      "type": "speech", 
+      "end_time": " 01:04:09,315\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "now  listen to me i want you to save for a down payment you understand you need a home", 
+      "start_time": "01:04:09,400 ", 
+      "type": "speech", 
+      "end_time": " 01:04:07,952\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "yes maam", 
+      "start_time": "01:04:08,040 ", 
+      "type": "speech", 
+      "end_time": " 01:04:04,797\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im not gonna be hovering anymore", 
+      "start_time": "01:04:04,880 ", 
+      "type": "speech", 
+      "end_time": " 01:04:01,434\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "you still think new york", 
+      "start_time": "01:04:01,520 ", 
+      "type": "speech", 
+      "end_time": " 01:03:58,590\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i think so maybe boston i dont know its exciting", 
+      "start_time": "01:03:58,680 ", 
+      "type": "speech", 
+      "end_time": " 01:03:55,270\r\n", 
+      "character": "LAURA"
+    }, 
+    {
+      "text": "ah i gotta  the future inlaws", 
+      "start_time": "01:03:56,280 ", 
+      "type": "speech", 
+      "end_time": " 01:03:52,872\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "is mymy hair", 
+      "start_time": "01:03:52,960 ", 
+      "type": "speech", 
+      "end_time": " 01:03:50,957\r\n", 
+      "character": "LAURA (CONT'D)"
+    }, 
+    {
+      "text": "what", 
+      "start_time": "01:03:51,040 ", 
+      "type": "speech", 
+      "end_time": " 01:03:48,755\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "hi im trying to reach mia dolan", 
+      "start_time": "01:03:48,840 ", 
+      "type": "speech", 
+      "end_time": " 01:03:47,392\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "wrong number", 
+      "start_time": "01:03:47,480 ", 
+      "type": "speech", 
+      "end_time": " 01:03:45,399\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": " shes not answering her cell and i was told i might find her here", 
+      "start_time": "01:03:45,480 ", 
+      "type": "speech", 
+      "end_time": " 01:03:43,710\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "yeah wellnot anymore", 
+      "start_time": "01:03:43,840 ", 
+      "type": "speech", 
+      "end_time": " 01:03:42,639\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok if you do talk to her ", 
+      "start_time": "01:03:42,720 ", 
+      "type": "speech", 
+      "end_time": " 01:03:40,995\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i wont", 
+      "start_time": "01:03:41,080 ", 
+      "type": "speech", 
+      "end_time": " 01:03:37,840\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": " please tell her jane at amy brandt casting is trying to reach her", 
+      "start_time": "01:03:39,720 ", 
+      "type": "speech", 
+      "end_time": " 01:03:35,116\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "casting", 
+      "start_time": "01:03:35,200 ", 
+      "type": "speech", 
+      "end_time": " 01:03:31,360\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "mias mom                            mia", 
+      "start_time": "01:03:31,440 ", 
+      "type": "speech", 
+      "end_time": " 01:03:28,710\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "what the hell", 
+      "start_time": "01:03:28,800 ", 
+      "type": "speech", 
+      "end_time": " 01:03:26,194\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why did you come here", 
+      "start_time": "01:03:26,320 ", 
+      "type": "speech", 
+      "end_time": " 01:03:24,669\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "because i have good news", 
+      "start_time": "01:03:24,760 ", 
+      "type": "speech", 
+      "end_time": " 01:03:23,359\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ok", 
+      "start_time": "01:03:23,440 ", 
+      "type": "speech", 
+      "end_time": " 01:03:21,632\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "amy brandt the casting director", 
+      "start_time": "01:03:21,720 ", 
+      "type": "speech", 
+      "end_time": " 01:03:14,674\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i know who she is", 
+      "start_time": "01:03:19,640 ", 
+      "type": "speech", 
+      "end_time": " 01:03:03,480\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "she was at your play and she loved it and she loved it so much that she wants you to come audition for a huge movie shes got", 
+      "start_time": "01:03:13,160 ", 
+      "type": "speech", 
+      "end_time": " 01:03:01,995\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im not going", 
+      "start_time": "01:03:02,080 ", 
+      "type": "speech", 
+      "end_time": " 01:03:00,636\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "excuse me", 
+      "start_time": "01:03:00,720 ", 
+      "type": "speech", 
+      "end_time": " 01:02:58,279\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im  no that will kill me", 
+      "start_time": "01:02:58,360 ", 
+      "type": "speech", 
+      "end_time": " 01:02:55,438\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "thats it", 
+      "start_time": "01:02:56,640 ", 
+      "type": "speech", 
+      "end_time": " 01:02:53,475\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "yes", 
+      "start_time": "01:02:53,560 ", 
+      "type": "speech", 
+      "end_time": " 01:02:49,554\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "so youre happy here", 
+      "start_time": "01:02:50,960 ", 
+      "type": "speech", 
+      "end_time": " 01:02:48,029\r\n", 
+      "character": "Revision                    70.\nSEBASTIAN"
+    }, 
+    {
+      "text": "im happier", 
+      "start_time": "01:02:48,120 ", 
+      "type": "speech", 
+      "end_time": " 01:02:45,473\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why wont you come", 
+      "start_time": "01:02:45,560 ", 
+      "type": "speech", 
+      "end_time": " 01:02:43,634\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i told you", 
+      "start_time": "01:02:43,720 ", 
+      "type": "speech", 
+      "end_time": " 01:02:42,119\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i dont buy it", 
+      "start_time": "01:02:42,200 ", 
+      "type": "speech", 
+      "end_time": " 01:02:40,393\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because its another audition", 
+      "start_time": "01:02:40,480 ", 
+      "type": "speech", 
+      "end_time": " 01:02:38,720\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "ive been to hundreds of auditions do you want to know what happens either they interrupt me because someone ordered a sandwich or they cut me off after two seconds or im crying and they start laughing or im one of a hundred lookalikes in the waiting room who never has a chance because ", 
+      "start_time": "01:02:38,800 ", 
+      "type": "speech", 
+      "end_time": " 01:02:36,069\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": " because ", 
+      "start_time": "01:02:36,160 ", 
+      "type": "speech", 
+      "end_time": " 01:02:34,753\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "because what", 
+      "start_time": "01:02:34,840 ", 
+      "type": "speech", 
+      "end_time": " 01:02:32,913\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because im probably not good enough", 
+      "start_time": "01:02:33,000 ", 
+      "type": "speech", 
+      "end_time": " 01:02:29,320\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "yes you are", 
+      "start_time": "01:02:31,160 ", 
+      "type": "speech", 
+      "end_time": " 01:02:27,835\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no maybe im not", 
+      "start_time": "01:02:27,920 ", 
+      "type": "speech", 
+      "end_time": " 01:02:23,040\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "maybe im one of those people whos always wanted to do it but never had a chance its a pipe dream maybe its like you said maybe i need to grow up", 
+      "start_time": "01:02:26,560 ", 
+      "type": "speech", 
+      "end_time": " 01:02:19,319\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "i can go back to school i can find something else that im supposed to do i left school to give it a shot and it didnt work out and it took six years and i dont want to do it anymore", 
+      "start_time": "01:02:21,560 ", 
+      "type": "speech", 
+      "end_time": " 01:02:07,352\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "why", 
+      "start_time": "01:02:17,600 ", 
+      "type": "speech", 
+      "end_time": " 00:59:44,477\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "why what", 
+      "start_time": "01:02:05,440 ", 
+      "type": "speech", 
+      "end_time": " 00:59:27,279\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "why dont you want to do it anymore", 
+      "start_time": "00:59:42,440 ", 
+      "type": "speech", 
+      "end_time": " 00:59:25,559\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "because it hurts a little bit too much", 
+      "start_time": "00:59:25,640 ", 
+      "type": "speech", 
+      "end_time": " 00:59:17,755\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i told them youd be there at fivethirty tomorrow ill swing by here before i drive back at eight either youll be outside or you wont", 
+      "start_time": "00:59:22,680 ", 
+      "type": "speech", 
+      "end_time": " 00:59:13,834\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "how did you find me", 
+      "start_time": "00:59:13,920 ", 
+      "type": "speech", 
+      "end_time": " 00:59:10,920\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "the house across from the library", 
+      "start_time": "00:59:11,000 ", 
+      "type": "speech", 
+      "end_time": " 00:59:09,438\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "00:59:09,520 ", 
+      "type": "speech", 
+      "end_time": " 00:54:33,077\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "im amy this is frank glad we found you", 
+      "start_time": "00:59:07,640 ", 
+      "type": "speech", 
+      "end_time": " 00:54:27,589\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "the movie shoots in paris theres no script", 
+      "start_time": "00:54:31,040 ", 
+      "type": "speech", 
+      "end_time": " 00:54:13,554\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "when do you find out", 
+      "start_time": "00:54:26,360 ", 
+      "type": "speech", 
+      "end_time": " 00:54:10,632\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "they said the next couple of days but im not expecting to find anything out", 
+      "start_time": "00:54:10,720 ", 
+      "type": "speech", 
+      "end_time": " 00:54:07,318\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "youre going to get it", 
+      "start_time": "00:54:07,400 ", 
+      "type": "speech", 
+      "end_time": " 00:54:04,193\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no im not", 
+      "start_time": "00:54:04,280 ", 
+      "type": "speech", 
+      "end_time": " 00:53:59,952\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "you are i know these things", 
+      "start_time": "00:54:00,040 ", 
+      "type": "speech", 
+      "end_time": " 00:53:57,960\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "where are we", 
+      "start_time": "00:53:58,040 ", 
+      "type": "speech", 
+      "end_time": " 00:53:56,398\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "griffith park", 
+      "start_time": "00:53:56,480 ", 
+      "type": "speech", 
+      "end_time": " 00:53:54,510\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i mean  where are we", 
+      "start_time": "00:53:54,600 ", 
+      "type": "speech", 
+      "end_time": " 00:53:50,710\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i know", 
+      "start_time": "00:53:52,120 ", 
+      "type": "speech", 
+      "end_time": " 00:53:48,237\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i dont know", 
+      "start_time": "00:53:48,320 ", 
+      "type": "speech", 
+      "end_time": " 00:53:43,639\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "what do we do", 
+      "start_time": "00:53:43,720 ", 
+      "type": "speech", 
+      "end_time": " 00:53:41,839\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i dont think we can do anything because when you get this ", 
+      "start_time": "00:53:41,920 ", 
+      "type": "speech", 
+      "end_time": " 00:53:38,956\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "if i get this ", 
+      "start_time": "00:53:39,040 ", 
+      "type": "speech", 
+      "end_time": " 00:52:02,120\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "when you get this  youve got to give it everything youve got", 
+      "start_time": "00:53:36,600 ", 
+      "type": "speech", 
+      "end_time": " 00:51:36,796\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "its your dream", 
+      "start_time": "00:52:00,640 ", 
+      "type": "speech", 
+      "end_time": " 00:51:31,754\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "what are you going to do", 
+      "start_time": "00:51:33,120 ", 
+      "type": "speech", 
+      "end_time": " 00:51:30,156\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "ive got to follow my own plan stay here get my own thing going you know", 
+      "start_time": "00:51:30,240 ", 
+      "type": "speech", 
+      "end_time": " 00:51:28,953\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "youre going to be in paris good jazz there and you love jazz now", 
+      "start_time": "00:51:29,040 ", 
+      "type": "speech", 
+      "end_time": " 00:51:27,196\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "right", 
+      "start_time": "00:51:27,280 ", 
+      "type": "speech", 
+      "end_time": " 00:51:23,430\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "right", 
+      "start_time": "00:51:23,520 ", 
+      "type": "speech", 
+      "end_time": " 00:51:22,354\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "i guess were just going to have to wait and see", 
+      "start_time": "00:51:22,440 ", 
+      "type": "speech", 
+      "end_time": " 00:51:19,520\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "you know im always going to love you", 
+      "start_time": "00:51:19,600 ", 
+      "type": "speech", 
+      "end_time": " 00:51:18,118\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "im always going to love you too", 
+      "start_time": "00:51:18,200 ", 
+      "type": "speech", 
+      "end_time": " 00:51:16,236\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "look at this view", 
+      "start_time": "00:51:16,320 ", 
+      "type": "speech", 
+      "end_time": " 00:51:13,955\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "ive seen better", 
+      "start_time": "00:51:14,040 ", 
+      "type": "speech", 
+      "end_time": " 00:51:11,351\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "agreed", 
+      "start_time": "00:51:11,440 ", 
+      "type": "speech", 
+      "end_time": " 00:51:09,038\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "ive never been here during the day", 
+      "start_time": "00:51:09,120 ", 
+      "type": "speech", 
+      "end_time": " 00:51:05,832\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "hi iced coffee please", 
+      "start_time": "00:51:05,920 ", 
+      "type": "speech", 
+      "end_time": " 00:51:02,513\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "on us", 
+      "start_time": "00:51:02,600 ", 
+      "type": "speech", 
+      "end_time": " 00:50:43,880\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no no thats fine", 
+      "start_time": "00:51:00,840 ", 
+      "type": "speech", 
+      "end_time": " 00:50:39,753\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "alright im done", 
+      "start_time": "00:50:39,840 ", 
+      "type": "speech", 
+      "end_time": " 00:50:30,879\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "harris did a nice job with it", 
+      "start_time": "00:50:36,760 ", 
+      "type": "speech", 
+      "end_time": " 00:50:29,230\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "took him long enough", 
+      "start_time": "00:50:29,320 ", 
+      "type": "speech", 
+      "end_time": " 00:50:27,232\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "no one touches the instruments carsons coming an hour early to test levels", 
+      "start_time": "00:50:28,240 ", 
+      "type": "speech", 
+      "end_time": " 00:50:23,954\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i got a check for you to sign", 
+      "start_time": "00:50:24,080 ", 
+      "type": "speech", 
+      "end_time": " 00:50:22,355\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "howd we do last month", 
+      "start_time": "00:50:22,440 ", 
+      "type": "speech", 
+      "end_time": " 00:50:19,839\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "not too bad", 
+      "start_time": "00:50:19,920 ", 
+      "type": "speech", 
+      "end_time": " 00:50:18,079\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "not too bad is great", 
+      "start_time": "00:50:18,200 ", 
+      "type": "speech", 
+      "end_time": " 00:50:16,440\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "see you tonight", 
+      "start_time": "00:50:16,520 ", 
+      "type": "speech", 
+      "end_time": " 00:50:14,952\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "see you tonight", 
+      "start_time": "00:50:15,040 ", 
+      "type": "speech", 
+      "end_time": " 00:50:13,038\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "king seb", 
+      "start_time": "00:50:13,120 ", 
+      "type": "speech", 
+      "end_time": " 00:50:11,080\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "hothouse eddie  miss me", 
+      "start_time": "00:50:11,160 ", 
+      "type": "speech", 
+      "end_time": " 00:50:09,596\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "like the desert misses the rain", 
+      "start_time": "00:50:09,680 ", 
+      "type": "speech", 
+      "end_time": " 00:50:07,150\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "seb  edgars bringing his horn tonight", 
+      "start_time": "00:50:07,240 ", 
+      "type": "speech", 
+      "end_time": " 00:50:03,713\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "yeah tell him to tune it huh", 
+      "start_time": "00:50:04,760 ", 
+      "type": "speech", 
+      "end_time": " 00:50:00,633\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "thats not edgar", 
+      "start_time": "00:50:00,720 ", 
+      "type": "speech", 
+      "end_time": " 00:49:58,795\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "bye sweetie you be nice to chelsea", 
+      "start_time": "00:49:58,880 ", 
+      "type": "speech", 
+      "end_time": " 00:49:54,989\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "bye mrs dolan", 
+      "start_time": "00:49:57,520 ", 
+      "type": "speech", 
+      "end_time": " 00:49:52,440\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "what if we miss this what do we tell natalie", 
+      "start_time": "00:49:52,520 ", 
+      "type": "speech", 
+      "end_time": " 00:49:50,950\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "we can just see it back in new york", 
+      "start_time": "00:49:51,040 ", 
+      "type": "speech", 
+      "end_time": " 00:49:48,559\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "do you want to just skip it turn off here and get dinner", 
+      "start_time": "00:49:48,640 ", 
+      "type": "speech", 
+      "end_time": " 00:49:46,760\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "alright", 
+      "start_time": "00:49:46,840 ", 
+      "type": "speech", 
+      "end_time": " 00:49:41,119\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "this looks fun", 
+      "start_time": "00:49:44,120 ", 
+      "type": "speech", 
+      "end_time": " 00:49:39,479\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "come on", 
+      "start_time": "00:49:39,560 ", 
+      "type": "speech", 
+      "end_time": " 00:49:37,674\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "mia", 
+      "start_time": "00:49:37,760 ", 
+      "type": "speech", 
+      "end_time": " 00:49:33,592\r\n", 
+      "character": "MIA (CONT'D)"
+    }, 
+    {
+      "text": "manny halloran ladies and gentlemen", 
+      "start_time": "00:49:33,680 ", 
+      "type": "speech", 
+      "end_time": " 00:49:31,518\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "i dont know i told him to play jingle bells", 
+      "start_time": "00:49:31,600 ", 
+      "type": "speech", 
+      "end_time": " 00:49:00,550\r\n", 
+      "character": "SEBASTIAN"
+    }, 
+    {
+      "text": "welcome to sebs", 
+      "start_time": "00:49:29,640 ", 
+      "type": "speech", 
+      "end_time": " 00:48:49,670\r\n", 
+      "character": "SEBASTIAN (CONT'D)"
+    }, 
+    {
+      "text": "i just wanted to say  i saw your playing and i ", 
+      "start_time": "00:48:58,160 ", 
+      "type": "speech", 
+      "end_time": " 00:48:47,189\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "do you want to stay for another", 
+      "start_time": "00:48:47,280 ", 
+      "type": "speech", 
+      "end_time": " 00:48:45,870\r\n", 
+      "character": "MIA"
+    }, 
+    {
+      "text": "no we should go", 
+      "start_time": "00:48:45,960 ", 
+      "type": "speech", 
+      "end_time": " 00:48:43,309\r\n", 
+      "character": "MIA"
+    }
+  ], 
+  "movie_url": "http://www.imsdb.com/scripts/La-La-Land.html"
+}

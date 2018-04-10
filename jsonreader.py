@@ -74,11 +74,19 @@ for j in d['movie_script']:
 			sub_index = temp_sub_index
 		else:
 			sub_index = sub_index - 1
-			j['start_time'] = timing_list[start_index][0]
+			st = timing_list[start_index][0]
+			st = st.replace(' ', '')
+			j['start_time'] = st
 			if sub_index == sub_len -1:
-				j['end_time'] = timing_list[sub_index][1]
+				et = timing_list[sub_index][1]
+				et = et.replace("\n", "")
+				et = et.replace(" ", "")
+				j['end_time'] = et
 			else:
-				j['end_time'] = timing_list[sub_index-1][1]
+				et = timing_list[sub_index-1][1]
+				et = et.replace('\n', '')
+				et = et.replace(' ', '')
+				j['end_time'] = et
 
 # dropping all stage direction, locations etc. from json file for time being
 new_script = []

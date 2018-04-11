@@ -2,9 +2,9 @@ import json, csv
 from pprint import pprint
 
 #opening files
-location_data = open("files/location_data.csv", "w+")
+location_data = open("files/lll_location_data.csv", "w+")
 csv_writer = csv.writer(location_data)
-with open("files/sw4_script.json") as json_data:
+with open("files/lll_script.json") as json_data:
 	d = json.load(json_data)
 lines = []
 lines.append(['character', 'text', 'start_time', 'end_time', 'location', 'time in ms'])

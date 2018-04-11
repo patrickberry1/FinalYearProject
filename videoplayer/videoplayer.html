@@ -24,9 +24,10 @@
 				var starttime = s.start_time
 				starttime = starttime.replace('\n', '')
 				if(starttime != ''){
-					var tblRow = "<tr>" + "<td>" + s.character + "</td>" +
+					var tblRow = "<tr>" + "<td>" + "<a href='http://starwars.wikia.com/wiki/Special:Search?query=" + s.character + "'>" + s.character + "</a>" + "</td>" +
 					"<td>" + "<button onclick='setVidTime(&quot;"+starttime+"&quot;)'>" + s.start_time + "</button>" + "</td>" + 
-					"<td>" + "<button onclick='setVidTime(&quot;"+endtime+"&quot;)'>" + s.end_time + "</button>" + "</td>" + "<td>" + s.text + "</td>" + "</tr>"
+					"<td>" + "<button onclick='setVidTime(&quot;"+endtime+"&quot;)'>" + s.end_time + "</button>" + "</td>" + "<td>" + 
+					s.text + "</td>" + "</tr>"
 				}
 				else {
 					var tblRow = "<tr></tr>"

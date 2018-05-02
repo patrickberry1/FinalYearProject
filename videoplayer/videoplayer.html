@@ -24,7 +24,7 @@
 				var starttime = s.start_time
 				starttime = starttime.replace('\n', '')
 				if(starttime != ''){
-					var tblRow = "<tr>" + "<td>" + "<a href='http://starwars.wikia.com/wiki/Special:Search?query=" + s.character + "'>" + s.character + "</a>" + "</td>" +
+					var tblRow = "<tr>" + "<td>" + "<a href='http://starwars.wikia.com/wiki/Special:Search?query=" + s.character + "'"+ "target='_blank'>" + s.character + "</a>" + "</td>" +
 					"<td>" + "<button onclick='setVidTime(&quot;"+starttime+"&quot;)'>" + s.start_time + "</button>" + "</td>" + 
 					"<td>" + "<button onclick='setVidTime(&quot;"+endtime+"&quot;)'>" + s.end_time + "</button>" + "</td>" + "<td>" + 
 					s.text + "</td>" + "</tr>"
@@ -40,13 +40,13 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Vid Player</title>
+	<title>Video Player</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body align="center">
 	<div class="wrapper">
-		<h1>HTML5 video player</h1>
-		<video src="videos/sw4.mp4" width="640" height="480" poster="thumbnails/sw4.jpg" controls id="vid1">
+		<h1>HTML5 Video Player</h1>
+		<video src="../../videos/sw4.mp4" width="640" height="480" poster="thumbnails/sw4.jpg" controls id="vid1">
 		</video>
 	</div>
 	<div id="list">

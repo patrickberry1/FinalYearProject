@@ -3,4 +3,3 @@
 		- Reformatted script and sub track into only alphabetical characters
 		- Talk about how I came to use fuzzywuzzy
 		- Effort I put into annotating and trying to deal with direction given to characters (denoted in parentheses)
-		- 
